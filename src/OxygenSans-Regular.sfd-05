@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1366309606
-ModificationTime: 1366314136
+ModificationTime: 1366314174
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3175,7 +3175,9 @@ StartChar: Q
 Encoding: 50 81 112
 Width: 1593
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -20 142<596.759 996.248> 1271 142<594.696 999.714>
+VStem: 143 179<424.998 960.085> 1271 179<426.01 967.376>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -11031,10 +11033,17 @@ EndChar
 
 StartChar: t
 Encoding: 85 116 408
-Width: 823
+Width: 829
 VWidth: 0
 Flags: W
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 305 1241 m 1

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1366309606
-ModificationTime: 1366311853
+ModificationTime: 1366312532
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -2324,13 +2324,6 @@ Flags: W
 HStem: 0 21G<180 343.518 1456.48 1620> 1370 20G<219.424 460.242 1339.83 1580.58>
 VStem: 180 163<0 498.176> 220 154<891.824 1196> 1426 154<891.824 1196> 1457 163<0 498.176>
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 902 298 m 1xd0
@@ -6994,13 +6987,6 @@ Flags: W
 HStem: -436.778 134.551<295.911 707.083> 23 130<419.311 724.394> 887 132<417.292 717.934>
 VStem: 116 174<304.238 747.162> 832 175<-168.113 117 264.448 470 543 761.406>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 116 496 m 4
@@ -7025,13 +7011,6 @@ SplineSet
  770 887 832 732 832 543 c 6
 592 0 m 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 832 543 m 2
@@ -8416,9 +8395,9 @@ StartChar: l
 Encoding: 77 108 308
 Width: 656
 VWidth: 0
-Flags: W
-HStem: -20.7578 134.637<380.41 578.875>
-VStem: 174 175<145.929 345>
+Flags: WO
+HStem: -20.7578 142.703<378.591 575.164>
+VStem: 174 175<147.698 336>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -8432,10 +8411,10 @@ SplineSet
 174 1395 m 1
  174 305 l 2
  174 48.5927734375 260.87890625 -20.7578125 434.168945312 -20.7578125 c 0
- 478.733398438 -20.7578125 529.013671875 -16.1708984375 585 -9 c 1
- 578.875 116 l 0
- 552.146484375 114.759765625 528.418945312 113.87890625 507.373046875 113.87890625 c 0
- 375.705078125 113.87890625 349 148.357421875 349 345 c 2
+ 478.733398438 -20.7578125 529.013671875 -14.2203170422 585 -4 c 1
+ 574.875 130 l 1
+ 538.273267245 125.057898331 507.178016178 121.945123098 480.871387386 121.945123098 c 0
+ 379.103970403 121.945123098 349 168.528918778 349 336 c 2
  349 1409 l 1
  174 1395 l 1
 EndSplineSet
@@ -11257,13 +11236,6 @@ Flags: WO
 HStem: -20 132<422.898 745.165>
 VStem: 162 175<198.242 403> 827 175<198.242 403>
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 337 398 m 6
@@ -18868,13 +18840,6 @@ Flags: W
 HStem: -21 130<407.193 709.719>
 VStem: 165 174<182.47 387> 829 175<233.652 452> 856 148<0 107.897>
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 829 998 m 1xe0

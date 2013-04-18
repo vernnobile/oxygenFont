@@ -8,8 +8,8 @@ Version: Release 0.2.3
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
-Ascent: 1638
-Descent: 410
+Ascent: 1568
+Descent: 480
 UFOAscent: 2035
 UFODescent: -672
 LayerCount: 2
@@ -20,24 +20,24 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1366309606
-ModificationTime: 1366313873
+ModificationTime: 1366314136
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 1638
+OS2TypoAscent: 1568
 OS2TypoAOffset: 0
-OS2TypoDescent: -410
+OS2TypoDescent: -480
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 1638
+OS2WinAscent: 1568
 OS2WinAOffset: 0
-OS2WinDescent: 410
+OS2WinDescent: 480
 OS2WinDOffset: 0
-HheadAscent: 1638
+HheadAscent: 1568
 HheadAOffset: 0
-HheadDescent: -410
+HheadDescent: -480
 HheadDOffset: 0
 OS2Vendor: 'newt'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
@@ -3197,10 +3197,17 @@ EndChar
 
 StartChar: R
 Encoding: 51 82 113
-Width: 1288
+Width: 1295
 VWidth: 0
 Flags: W
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 186 1390 m 1
@@ -7101,7 +7108,7 @@ SplineSet
  116 261.535787321 250 23 546 23 c 0
  704 23 795 100.609756098 832 171 c 1
  832 73 l 2
- 832 -224.430973353 711.417902559 -302.2265625 530.991210938 -302.2265625 c 4
+ 832 -224.430973353 711.417902559 -302.2265625 530.991210938 -302.2265625 c 0
  461.401674396 -302.2265625 382.909646061 -288.630806123 299 -271 c 1
  280 -404 l 1
  375.059840832 -424.913164983 463.828613045 -436.778040592 544.395439161 -436.778040592 c 0

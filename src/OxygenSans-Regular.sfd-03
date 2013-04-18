@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1366309606
-ModificationTime: 1366314183
+ModificationTime: 1366314225
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2374,12 +2374,19 @@ EndChar
 
 StartChar: M
 Encoding: 46 77 83
-Width: 1786
+Width: 1793
 VWidth: 0
 Flags: W
-HStem: 0 21G<175 349.426 1450.57 1620> 1370 20G<219.353 460.443 1339.63 1580.58>
-VStem: 175 174<0 442.823> 220 154<947.177 1175> 1426 154<891.824 1175> 1451 169<0 498.176>
+HStem: 0 21G<174 348.426 1449.57 1619> 1370 20G<218.353 459.443 1338.63 1579.58>
+VStem: 174 174<0 442.823> 219 154<947.177 1175> 1425 154<891.824 1175> 1450 169<0 498.176>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -2389,20 +2396,20 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-902 324 m 1xd0
- 1348 1390 l 1
- 1580 1390 l 1xd8
- 1620 0 l 1
- 1451 0 l 1xc4
- 1426 1175 l 5
- 975 112 l 1
- 825 112 l 1
- 374 1175 l 5xd8
- 349 0 l 1
- 175 0 l 1xe0
- 220 1390 l 1
- 452 1390 l 1
- 902 324 l 1xd0
+901 324 m 1xd0
+ 1347 1390 l 1
+ 1579 1390 l 1xd8
+ 1619 0 l 1
+ 1450 0 l 1xc4
+ 1425 1175 l 5
+ 974 112 l 1
+ 824 112 l 1
+ 373 1175 l 5xd8
+ 348 0 l 1
+ 174 0 l 1xe0
+ 219 1390 l 1
+ 451 1390 l 1
+ 901 324 l 1xd0
 EndSplineSet
 EndChar
 
