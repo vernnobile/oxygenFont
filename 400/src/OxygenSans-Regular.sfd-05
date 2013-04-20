@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1363987686
-ModificationTime: 1366417306
+ModificationTime: 1366417334
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6735,12 +6735,19 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 274
-Width: 1226
+Width: 1225
 VWidth: 0
 Flags: W
-HStem: -19 126<449.135 782.75> 953 127<448.613 779.311>
-VStem: 115 164<296.34 763.026> 947 165<295.988 762.673>
+HStem: -19 126<448.135 781.75> 953 127<447.613 778.311>
+VStem: 114 164<296.34 763.026> 946 165<295.988 762.673>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -6750,16 +6757,16 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-613 107 m 0
- 392 107 279 286 279 527 c 0
- 279 774 393 953 613 953 c 0
- 839 953 947 773 947 526 c 0
- 947 285 840 107 613 107 c 0
-613 -19 m 0
- 911 -19 1112 210 1112 528 c 0
- 1112 854 926 1080 613 1080 c 0
- 303 1080 115 854 115 528 c 0
- 115 210 307 -19 613 -19 c 0
+612 107 m 0
+ 391 107 278 286 278 527 c 0
+ 278 774 392 953 612 953 c 0
+ 838 953 946 773 946 526 c 0
+ 946 285 839 107 612 107 c 0
+612 -19 m 0
+ 910 -19 1111 210 1111 528 c 0
+ 1111 854 925 1080 612 1080 c 0
+ 302 1080 114 854 114 528 c 0
+ 114 210 306 -19 612 -19 c 0
 EndSplineSet
 EndChar
 
@@ -7171,12 +7178,19 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 292
-Width: 1241
+Width: 1240
 VWidth: 0
-Flags: HW
-HStem: -19 92 982 92
-VStem: 193 122 193 97 1009 122
+Flags: W
+HStem: -19 127<496.55 813.108> 953 127<494.608 818.515>
+VStem: 172 166<300 789.31> 172 138<901.927 1059> 959 167<277.921 788.38>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -7186,24 +7200,24 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-173 -464 m 1xc8
- 339 -455 l 1
- 339 -66 l 1
- 328 300 l 1
- 288 271 l 1
- 338 135 464 -19 681 -19 c 0
- 964 -19 1127 206 1127 526 c 0
- 1127 854 974 1080 681 1080 c 0
- 501 1080 364 973 298 811 c 1
- 334 807 l 1
- 311 1059 l 1
- 173 1059 l 1
- 173 -464 l 1xc8
-655 108 m 0
- 454 108 336 269 336 545 c 0
- 337 789 435 953 662 953 c 0
- 876 953 960 778 960 528 c 0
- 960 272 865 108 655 108 c 0
+172 -464 m 1xd8
+ 338 -455 l 1
+ 338 -66 l 1xe8
+ 327 300 l 1
+ 287 271 l 1
+ 337 135 463 -19 680 -19 c 0
+ 963 -19 1126 206 1126 526 c 0
+ 1126 854 973 1080 680 1080 c 0
+ 500 1080 363 973 297 811 c 1
+ 333 807 l 1
+ 310 1059 l 1
+ 172 1059 l 1
+ 172 -464 l 1xd8
+654 108 m 0
+ 453 108 335 269 335 545 c 0
+ 336 789 434 953 661 953 c 0
+ 875 953 959 778 959 528 c 0
+ 959 272 864 108 654 108 c 0
 EndSplineSet
 EndChar
 

@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1363987686
-ModificationTime: 1366418781
+ModificationTime: 1366418796
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4656,11 +4656,18 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 195
-Width: 1153
+Width: 1152
 VWidth: 0
 Flags: W
-HStem: -19 126<467.271 896.536> 956 123<457.378 765.508>
+HStem: -19 126<466.271 895.536> 956 123<456.378 764.508>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -4670,23 +4677,23 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-630 -19 m 0
- 787 -19 910 16 1011 74 c 1
- 975 185 l 1
- 875 136 773 107 649 107 c 0
- 443 107 278 232 278 538 c 1
- 234 503 l 1
- 1030 503 l 1
- 1030 503 1037 561 1037 587 c 0
- 1037 883 882 1079 614 1079 c 0
- 341 1079 115 869 115 524 c 0
- 115 185 329 -19 630 -19 c 0
-281 574 m 1
- 289 807 433 956 619 956 c 0
- 801 956 889 823 890 568 c 1
- 937 611 l 1
- 234 611 l 1
- 281 574 l 1
+629 -19 m 0
+ 786 -19 909 16 1010 74 c 1
+ 974 185 l 1
+ 874 136 772 107 648 107 c 0
+ 442 107 277 232 277 538 c 1
+ 233 503 l 1
+ 1029 503 l 1
+ 1029 503 1036 561 1036 587 c 0
+ 1036 883 881 1079 613 1079 c 0
+ 340 1079 114 869 114 524 c 0
+ 114 185 328 -19 629 -19 c 0
+280 574 m 1
+ 288 807 432 956 618 956 c 0
+ 800 956 888 823 889 568 c 1
+ 936 611 l 1
+ 233 611 l 1
+ 280 574 l 1
 EndSplineSet
 EndChar
 
