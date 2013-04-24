@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="753.999999627"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="490.399999693" y="-10.3999999911" type="curve" smooth="yes"/>
+      <point x="588.599999607" y="-10.3999999911"/>
+      <point x="646.999999538" y="2.19999995828"/>
+      <point x="646.999999538" y="2.19999995828" type="curve"/>
+      <point x="646.999999538" y="59.3999996483" type="line"/>
+      <point x="646.999999538" y="59.3999996483"/>
+      <point x="577.999999642" y="50.1999996603"/>
+      <point x="503.199999586" y="50.1999996603" type="curve" smooth="yes"/>
+      <point x="397.999999583" y="50.1999996603"/>
+      <point x="328.399999574" y="92.3999996781"/>
+      <point x="328.399999574" y="261.999999672" type="curve" smooth="yes"/>
+      <point x="328.399999574" y="1025.2000002" type="line"/>
+      <point x="298.399999604" y="1000.60000026" type="line"/>
+      <point x="659.399999678" y="1000.60000026" type="line"/>
+      <point x="659.399999678" y="1052.59999996" type="line"/>
+      <point x="298.599999607" y="1052.59999996" type="line"/>
+      <point x="328.399999574" y="1026.80000004" type="line"/>
+      <point x="328.399999574" y="1326.19999999" type="line"/>
+      <point x="270.599999905" y="1318.99999997" type="line"/>
+      <point x="236.400000006" y="1040.00000006" type="line"/>
+      <point x="255.59999986" y="1055.59999996" type="line"/>
+      <point x="89.0000000298" y="1043.19999997" type="line"/>
+      <point x="92.0000000745" y="1000.40000026" type="line"/>
+      <point x="265.799999982" y="1000.40000026" type="line"/>
+      <point x="235.800000012" y="1026.2000002" type="line"/>
+      <point x="235.800000012" y="253.399999619" type="line" smooth="yes"/>
+      <point x="235.800000012" y="60.7999998331"/>
+      <point x="354.400000051" y="-10.3999999911"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>83</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>244</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>286</integer>
+            <key>width</key>
+            <integer>80</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="1">
+  <advance width="461.15"/>
+  <unicode hex="012B"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="macron" xOffset="-258.85" yOffset="-44.45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

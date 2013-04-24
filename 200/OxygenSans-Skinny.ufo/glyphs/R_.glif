@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="1404.59999995"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="222.800000101" y="0.0" type="line"/>
+      <point x="308.799999565" y="0.0" type="line"/>
+      <point x="308.799999565" y="788.600000352" type="line"/>
+      <point x="253.799999595" y="747.200000376" type="line"/>
+      <point x="914.000000119" y="747.200000376" type="line"/>
+      <point x="841.000000238" y="803.000000373" type="line"/>
+      <point x="967.200000256" y="536.400000468" type="line"/>
+      <point x="1192.40000044" y="0.0" type="line"/>
+      <point x="1277.59999986" y="0.0" type="line"/>
+      <point x="1018.59999968" y="585.000000432" type="line"/>
+      <point x="924.5999998" y="819.800000221" type="line"/>
+      <point x="922.799999848" y="757.600000352" type="line"/>
+      <point x="1130.39999998" y="786.000000283"/>
+      <point x="1214.99999984" y="903.000000358"/>
+      <point x="1214.99999984" y="1110.60000025" type="curve" smooth="yes"/>
+      <point x="1214.99999984" y="1315.19999994"/>
+      <point x="1122.20000015" y="1454.80000009"/>
+      <point x="831.200000226" y="1454.80000009" type="curve" smooth="yes"/>
+      <point x="222.800000101" y="1454.80000009" type="line"/>
+    </contour>
+    <contour>
+      <point x="308.799999565" y="786.400000155" type="line"/>
+      <point x="308.799999565" y="1435.80000043" type="line"/>
+      <point x="250.599999577" y="1386.20000046" type="line"/>
+      <point x="826.000000179" y="1386.20000046" type="line" smooth="yes"/>
+      <point x="1066.40000035" y="1386.20000046"/>
+      <point x="1135.00000039" y="1284.00000037"/>
+      <point x="1135.00000039" y="1109.00000025" type="curve" smooth="yes"/>
+      <point x="1135.00000039" y="898.200000092"/>
+      <point x="1078.00000036" y="823.800000072"/>
+      <point x="781.200000092" y="823.800000072" type="curve" smooth="yes"/>
+      <point x="254.199999601" y="823.800000072" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>722</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1355</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1122</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

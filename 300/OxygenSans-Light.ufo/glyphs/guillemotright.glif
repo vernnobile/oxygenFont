@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="984.2"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="593.2" y="928.8" type="line"/>
+      <point x="489.4" y="902.6" type="line"/>
+      <point x="745.8" y="537.8" type="line"/>
+      <point x="483.0" y="178.8" type="line"/>
+      <point x="590.2" y="150.8" type="line"/>
+      <point x="874.4" y="540.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="251.4" y="928.8" type="line"/>
+      <point x="147.2" y="902.6" type="line"/>
+      <point x="404.6" y="537.8" type="line"/>
+      <point x="140.4" y="178.8" type="line"/>
+      <point x="248.8" y="150.8" type="line"/>
+      <point x="532.6" y="540.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

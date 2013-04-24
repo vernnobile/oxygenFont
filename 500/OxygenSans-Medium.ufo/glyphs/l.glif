@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="695.3"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="508.75" y="-12.65" type="curve" smooth="yes"/>
+      <point x="592.7" y="-12.65"/>
+      <point x="665.85" y="8.55"/>
+      <point x="675.3" y="9.9" type="curve"/>
+      <point x="675.3" y="147.35" type="line"/>
+      <point x="670.8" y="146.9"/>
+      <point x="608.65" y="137.6"/>
+      <point x="544.5" y="137.6" type="curve" smooth="yes"/>
+      <point x="431.85" y="137.6"/>
+      <point x="368.35" y="168.15"/>
+      <point x="368.35" y="318.1" type="curve" smooth="yes"/>
+      <point x="368.35" y="1459.85" type="line"/>
+      <point x="165.5" y="1446.55" type="line"/>
+      <point x="165.5" y="337.65" type="line" smooth="yes"/>
+      <point x="165.5" y="74.55"/>
+      <point x="289.75" y="-12.65"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>87</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>193</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

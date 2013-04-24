@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="816.5"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="117.3" y="1433.05" type="line"/>
+      <point x="117.3" y="1299.95" type="line"/>
+      <point x="360.5" y="1299.95" type="line"/>
+      <point x="299.3" y="1352.05" type="line"/>
+      <point x="299.3" y="75.55" type="line"/>
+      <point x="362.2" y="132.55" type="line"/>
+      <point x="117.3" y="132.55" type="line"/>
+      <point x="117.3" y="0.0" type="line"/>
+      <point x="699.65" y="0.0" type="line"/>
+      <point x="699.65" y="132.55" type="line"/>
+      <point x="451.9" y="132.55" type="line"/>
+      <point x="520.3" y="75.9" type="line"/>
+      <point x="520.3" y="1352.8" type="line"/>
+      <point x="453.7" y="1299.95" type="line"/>
+      <point x="699.65" y="1299.95" type="line"/>
+      <point x="699.65" y="1433.05" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1363</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>111</integer>
+            <key>width</key>
+            <integer>529</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

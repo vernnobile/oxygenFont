@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="956.5"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="571.6" y="-153.9" type="line"/>
+      <point x="656.9" y="-153.9" type="line"/>
+      <point x="656.9" y="1220.9" type="line"/>
+      <point x="571.6" y="1220.9" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="1660.1"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="417.9" y="-18.2" type="curve" smooth="yes"/>
+      <point x="592.4" y="-18.2"/>
+      <point x="770.1" y="53.9"/>
+      <point x="857.1" y="140.9" type="curve"/>
+      <point x="933.7" y="39.4"/>
+      <point x="1039.9" y="-19.0"/>
+      <point x="1209.2" y="-19.0" type="curve" smooth="yes"/>
+      <point x="1375.1" y="-19.0"/>
+      <point x="1479.9" y="18.0"/>
+      <point x="1569.7" y="83.8" type="curve"/>
+      <point x="1506.1" y="227.2" type="line"/>
+      <point x="1428.3" y="180.9"/>
+      <point x="1339.7" y="145.7"/>
+      <point x="1225.9" y="145.7" type="curve"/>
+      <point x="1047.8" y="147.1"/>
+      <point x="949.1" y="239.3"/>
+      <point x="939.1" y="467.4" type="curve"/>
+      <point x="1466.0" y="467.4"/>
+      <point x="1597.3" y="598.6"/>
+      <point x="1597.3" y="768.6" type="curve" smooth="yes"/>
+      <point x="1597.3" y="925.1"/>
+      <point x="1498.5" y="1092.9"/>
+      <point x="1218.2" y="1092.9" type="curve" smooth="yes"/>
+      <point x="1067.6" y="1092.9"/>
+      <point x="921.7" y="1015.8"/>
+      <point x="862.9" y="900.4" type="curve"/>
+      <point x="829.1" y="1033.0"/>
+      <point x="712.7" y="1093.2"/>
+      <point x="550.6" y="1093.2" type="curve" smooth="yes"/>
+      <point x="399.5" y="1093.2"/>
+      <point x="228.7" y="1049.3"/>
+      <point x="135.7" y="996.4" type="curve"/>
+      <point x="198.1" y="849.2" type="line"/>
+      <point x="271.4" y="882.3"/>
+      <point x="418.1" y="927.7"/>
+      <point x="532.4" y="927.7" type="curve"/>
+      <point x="679.0" y="923.5"/>
+      <point x="728.8" y="855.2"/>
+      <point x="728.8" y="721.6" type="curve" smooth="yes"/>
+      <point x="728.8" y="615.4" type="line"/>
+      <point x="601.1" y="615.4" type="line" smooth="yes"/>
+      <point x="283.4" y="615.4"/>
+      <point x="94.5" y="538.2"/>
+      <point x="94.5" y="307.2" type="curve" smooth="yes"/>
+      <point x="94.5" y="108.8"/>
+      <point x="226.3" y="-18.2"/>
+    </contour>
+    <contour>
+      <point x="447.9" y="138.2" type="curve" smooth="yes"/>
+      <point x="353.1" y="138.2"/>
+      <point x="297.5" y="189.5"/>
+      <point x="297.5" y="298.9" type="curve" smooth="yes"/>
+      <point x="297.5" y="407.1"/>
+      <point x="367.6" y="468.3"/>
+      <point x="594.4" y="468.3" type="curve" smooth="yes"/>
+      <point x="732.3" y="468.3" type="line"/>
+      <point x="735.1" y="397.5"/>
+      <point x="755.4" y="309.6"/>
+      <point x="773.4" y="266.9" type="curve"/>
+      <point x="689.7" y="192.6"/>
+      <point x="552.1" y="138.2"/>
+    </contour>
+    <contour>
+      <point x="941.0" y="613.9" type="curve"/>
+      <point x="963.7" y="851.8"/>
+      <point x="1096.5" y="942.1"/>
+      <point x="1235.1" y="942.1" type="curve" smooth="yes"/>
+      <point x="1358.1" y="942.1"/>
+      <point x="1424.4" y="877.7"/>
+      <point x="1424.4" y="777.5" type="curve" smooth="yes"/>
+      <point x="1424.4" y="666.6"/>
+      <point x="1301.7" y="613.9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-14</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>518</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>983</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>126</integer>
+            <key>width</key>
+            <integer>119</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>817</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>817</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1556</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
