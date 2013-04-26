@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="503"/>
+  <advance width="526"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="189" y="213" type="line"/>
-      <point x="122" y="-293" type="line"/>
-      <point x="218" y="-293" type="line"/>
-      <point x="230" y="-266"/>
-      <point x="337" y="45"/>
-      <point x="369" y="173" type="curve"/>
-      <point x="369" y="213" type="line"/>
+      <point x="183" y="854" type="line"/>
+      <point x="364" y="854" type="line"/>
+      <point x="364" y="1059" type="line"/>
+      <point x="183" y="1059" type="line"/>
     </contour>
     <contour>
-      <point x="165" y="998" type="line"/>
-      <point x="165" y="788" type="line"/>
-      <point x="352" y="788" type="line"/>
-      <point x="352" y="998" type="line"/>
+      <point x="152" y="-300" type="line"/>
+      <point x="247" y="-300" type="line"/>
+      <point x="368" y="178" type="line"/>
+      <point x="206" y="178" type="line"/>
     </contour>
   </outline>
 </glyph>
