@@ -1,0 +1,32 @@
+
+
+table OS/2 {
+    FSType 4;
+    Panose 0 0 0 0 0 0 0 0 0 0;
+    TypoAscender 1623;
+    TypoDescender 67;
+    TypoLineGap 0;
+    winAscent 1600;
+    winDescent 448;
+    XHeight 1060;
+    CapHeight 1437;
+    WeightClass 430;
+    WidthClass 5;
+    Vendor "PfEd";
+} OS/2;
+
+table head {
+    FontRevision 0.000;
+} head;
+
+table hhea {
+    Ascender 1514;
+    Descender -534;
+    LineGap 200;
+    CaretOffset 0;
+} hhea;
+
+table name {
+    nameid 0 "";
+    nameid 0 1 "";
+} name;

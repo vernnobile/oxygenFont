@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0401" format="1">
+  <advance width="1142"/>
+  <unicode hex="0401"/>
+  <outline>
+    <component base="dieresis" xOffset="240" yOffset="353"/>
+    <component base="uni0415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1578</integer>
+            <key>width</key>
+            <integer>187</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1703"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="311" y="845" type="line"/>
+      <point x="311" y="1267" type="line"/>
+      <point x="275" y="1267" type="line"/>
+      <point x="770" y="169" type="line"/>
+      <point x="931" y="169" type="line"/>
+      <point x="1435" y="1267" type="line"/>
+      <point x="1394" y="1267" type="line"/>
+      <point x="1394" y="849" type="line"/>
+      <point x="1407" y="0" type="line"/>
+      <point x="1589" y="0" type="line"/>
+      <point x="1558" y="1437" type="line"/>
+      <point x="1337" y="1437" type="line"/>
+      <point x="815" y="291" type="line"/>
+      <point x="891" y="291" type="line"/>
+      <point x="372" y="1437" type="line"/>
+      <point x="144" y="1437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>157</integer>
+            <key>width</key>
+            <integer>184</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>187</integer>
+            <key>width</key>
+            <integer>167</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>318</integer>
+            <key>width</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1437</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1437</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1450</integer>
+            <key>width</key>
+            <integer>182</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

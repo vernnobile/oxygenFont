@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CB" format="1">
+  <advance width="2053"/>
+  <unicode hex="01CB"/>
+  <outline>
+    <component base="N" xOffset="-24"/>
+    <component base="j" xOffset="1555"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-353</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>150</integer>
+            <key>width</key>
+            <integer>183</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1769</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
