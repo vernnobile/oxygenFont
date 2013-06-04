@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>OxygenSans</string>
-	<key>styleName</key>
-	<string>Book</string>
-	<key>copyright</key>
-	<string></string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>xHeight</key>
-	<integer>1055</integer>
-	<key>capHeight</key>
-	<integer>1440</integer>
+<dict>
 	<key>ascender</key>
 	<integer>1805</integer>
+	<key>capHeight</key>
+	<integer>1440</integer>
+	<key>copyright</key>
+	<string></string>
 	<key>descender</key>
 	<integer>-511</integer>
+	<key>familyName</key>
+	<string>OxygenSans</string>
 	<key>italicAngle</key>
-	<real>0</real>
+	<real>0.0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/03/22 21:28:06</string>
 	<key>openTypeNameVersion</key>
 	<string>Version </string>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>PfEd</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -43,20 +31,22 @@
 	<integer>-480</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1568</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>480</integer>
-	<key>postscriptFontName</key>
-	<string>OxygenSans-Book</string>
-	<key>postscriptFullName</key>
-	<string>OxygenSans Book</string>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
-	<key>postscriptUnderlineThickness</key>
+	<key>postscriptBlueFuzz</key>
 	<integer>0</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.0118875</real>
+	<key>postscriptBlueShift</key>
+	<integer>2</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-8</integer>
@@ -66,6 +56,16 @@
 		<integer>398</integer>
 		<integer>413</integer>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>OxygenSans-Book</string>
+	<key>postscriptFullName</key>
+	<string>OxygenSans Book</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-132</integer>
@@ -93,11 +93,17 @@
 		<integer>77</integer>
 		<integer>86</integer>
 	</array>
-	<key>postscriptBlueFuzz</key>
+	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
-	<key>postscriptBlueShift</key>
-	<integer>2</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.0118875</real>
-    </dict>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>styleName</key>
+	<string>Book</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1059</integer>
+</dict>
 </plist>

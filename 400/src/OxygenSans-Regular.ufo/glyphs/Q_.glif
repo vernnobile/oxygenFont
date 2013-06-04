@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1650"/>
+  <advance width="1616"/>
   <unicode hex="0051"/>
   <outline>
-    <component base="O"/>
     <contour>
       <point x="1253" y="-431" type="curve"/>
       <point x="1353" y="-339" type="line"/>
@@ -14,5 +13,35 @@
       <point x="1030" y="-169"/>
       <point x="1183" y="-366"/>
     </contour>
+    <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1616</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

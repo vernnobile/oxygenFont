@@ -1,23 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1571"/>
+  <advance width="1468"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="206" y="0" type="line"/>
-      <point x="369" y="0" type="line"/>
-      <point x="369" y="761" type="line"/>
-      <point x="352" y="1296" type="line"/>
-      <point x="310" y="1281" type="line"/>
-      <point x="1185" y="0" type="line"/>
-      <point x="1366" y="0" type="line"/>
-      <point x="1366" y="1440" type="line"/>
-      <point x="1204" y="1440" type="line"/>
-      <point x="1204" y="628" type="line"/>
-      <point x="1215" y="146" type="line"/>
-      <point x="1259" y="149" type="line"/>
-      <point x="380" y="1440" type="line"/>
-      <point x="206" y="1440" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="317" y="761" type="line"/>
+      <point x="300" y="1296" type="line"/>
+      <point x="258" y="1281" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1314" y="1440" type="line"/>
+      <point x="1152" y="1440" type="line"/>
+      <point x="1152" y="628" type="line"/>
+      <point x="1163" y="146" type="line"/>
+      <point x="1207" y="149" type="line"/>
+      <point x="328" y="1440" type="line"/>
+      <point x="154" y="1440" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1468</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

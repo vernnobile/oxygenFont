@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1519"/>
+  <advance width="1420"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="204" y="0" type="line"/>
-      <point x="380" y="0" type="line"/>
-      <point x="380" y="725" type="line"/>
-      <point x="316" y="676" type="line"/>
-      <point x="1207" y="676" type="line"/>
-      <point x="1140" y="725" type="line"/>
-      <point x="1140" y="0" type="line"/>
-      <point x="1316" y="0" type="line"/>
-      <point x="1316" y="1440" type="line"/>
-      <point x="1140" y="1440" type="line"/>
-      <point x="1140" y="755" type="line"/>
-      <point x="1204" y="804" type="line"/>
-      <point x="316" y="804" type="line"/>
-      <point x="380" y="755" type="line"/>
-      <point x="380" y="1440" type="line"/>
-      <point x="204" y="1440" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="725" type="line"/>
+      <point x="266" y="676" type="line"/>
+      <point x="1157" y="676" type="line"/>
+      <point x="1090" y="725" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1266" y="0" type="line"/>
+      <point x="1266" y="1440" type="line"/>
+      <point x="1090" y="1440" type="line"/>
+      <point x="1090" y="755" type="line"/>
+      <point x="1154" y="804" type="line"/>
+      <point x="266" y="804" type="line"/>
+      <point x="330" y="755" type="line"/>
+      <point x="330" y="1440" type="line"/>
+      <point x="154" y="1440" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1420</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
