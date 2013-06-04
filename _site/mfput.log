@@ -1,0 +1,9 @@
+This is METAFONT, Version 2.718281 (TeX Live 2012) (base=mf 2013.3.13)  21 APR 2013 20:00
+**\relax
+
+*draw (60,70)..(60,100)..(100,80); show it;
+>> it
+*draw (60,70)..(60,100)..(100,80); showit;
+
+*end
+
