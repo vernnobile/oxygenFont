@@ -2,8 +2,8 @@ StartChar: backslash
 Encoding: 92 92 162
 Width: 924
 VWidth: 0
-GlyphClass: 2
 Flags: W
+HStem: -20 21G<662.649 800> 1440 20G<126 264.338>
 VStem: 126 674
 LayerCount: 2
 UndoRedoHistory
@@ -15,10 +15,10 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-670 -42 m 1
- 126 1435 l 1
- 257 1435 l 1
- 800 -42 l 1
- 670 -42 l 1
+670 -20 m 1
+ 126 1460 l 1
+ 257 1460 l 1
+ 800 -20 l 1
+ 670 -20 l 1
 EndSplineSet
 EndChar

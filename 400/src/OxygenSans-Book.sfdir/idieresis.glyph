@@ -1,11 +1,10 @@
 StartChar: idieresis
-Encoding: 239 239 239
+Encoding: 239 239 241
 Width: 427
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: 0 21<152 296> 1039 20<152 296> 1228 174<-41 96 331 469>
-VStem: -41 137<1228 1402> 152 144<0 1059> 331 138<1228 1402>
+HStem: 0 21<152 296> 1039 20<152 296> 1210 213<-60.2732 121.994 313.727 495.994>
+VStem: -80 222<1230.11 1403.25> 152 144<0 1059> 294 222<1230.11 1403.25>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -15,6 +14,6 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 194 305 N 1 0 0 1 0 0 2
+Refer: 195 305 N 1 0 0 1 0 0 2
 Refer: 191 168 N 1 0 0 1 -166 -8 2
 EndChar

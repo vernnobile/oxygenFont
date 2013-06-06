@@ -2,10 +2,9 @@ StartChar: Ugrave
 Encoding: 217 217 117
 Width: 1451
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: -19 140<494.136 915.096> 1420 20<134 310 1102 1278> 1547 374
-VStem: 134 176<306.688 1440> 458 364 1102 176<309.198 1440>
+HStem: -19 140<494.136 915.096> 1413 374 1440 20<134 310 1102 1278>
+VStem: 134 176<306.688 1460> 458 364 1102 176<309.198 1460>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -15,6 +14,6 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 223 96 N 1 0 0 1 314 326 2
+Refer: 225 96 N 1 0 0 1 314 326 2
 Refer: 112 85 N 1 0 0 1 0 0 2
 EndChar

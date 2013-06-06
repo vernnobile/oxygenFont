@@ -1,11 +1,10 @@
 StartChar: J
 Encoding: 74 74 61
-Width: 705
+Width: 713
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: -168 142<-1 269.858> 1420 20G<370 547>
-VStem: 370 177<75.7714 1440>
+HStem: -168 142<-1 269.858> 1440 20G<370 547>
+VStem: 370 177<75.7714 1460>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -21,8 +20,8 @@ SplineSet
  -1 -26 l 1
  100 -26 l 2
  303 -26 370 78 370 271 c 2
- 370 1440 l 1
- 547 1440 l 1
+ 370 1460 l 1
+ 547 1460 l 1
  547 296 l 2
  547 -4 429 -168 112 -168 c 2
 EndSplineSet

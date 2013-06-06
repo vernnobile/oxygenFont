@@ -1,11 +1,10 @@
 StartChar: plusminus
-Encoding: 177 177 302
-Width: 1154
+Encoding: 177 177 304
+Width: 1203
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: 0 115<113 1042> 595 116<134 506 632 997>
-VStem: 506 126<207 595 711 1090>
+HStem: 0 115<137 1066> 595 116<158 530 656 1021>
+VStem: 530 126<207 595 711 1090>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -16,23 +15,23 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-506 207 m 1
- 506 595 l 1
- 134 595 l 1
- 134 711 l 1
- 506 711 l 1
- 506 1090 l 1
- 631 1090 l 1
- 631 711 l 1
- 997 711 l 1
- 997 595 l 1
- 632 595 l 1
- 632 207 l 1
- 506 207 l 1
-113 0 m 1
- 113 115 l 1
- 1042 115 l 1
- 1042 0 l 1
- 113 0 l 1
+530 207 m 1
+ 530 595 l 1
+ 158 595 l 1
+ 158 711 l 1
+ 530 711 l 1
+ 530 1090 l 1
+ 655 1090 l 1
+ 655 711 l 1
+ 1021 711 l 1
+ 1021 595 l 1
+ 656 595 l 1
+ 656 207 l 1
+ 530 207 l 1
+137 0 m 1
+ 137 115 l 1
+ 1066 115 l 1
+ 1066 0 l 1
+ 137 0 l 1
 EndSplineSet
 EndChar

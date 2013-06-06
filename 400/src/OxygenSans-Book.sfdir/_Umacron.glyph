@@ -2,10 +2,9 @@ StartChar: Umacron
 Encoding: 362 362 120
 Width: 1451
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: -19 140<494.136 915.096> 1399 119<426 1011> 1420 20<134 310 1102 1278>
-VStem: 134 176<306.688 1440> 426 585<1399 1518> 1102 176<309.198 1440>
+HStem: -19 140<494.136 915.096> 1399 119<426 1011> 1440 20<134 310 1102 1278>
+VStem: 134 176<306.688 1460> 426 585<1399 1518> 1102 176<309.198 1460>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -15,6 +14,6 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 261 175 N 1 0 0 1 202 127 2
+Refer: 263 175 N 1 0 0 1 202 127 2
 Refer: 112 85 N 1 0 0 1 0 0 2
 EndChar

@@ -2,10 +2,9 @@ StartChar: brokenbar
 Encoding: 166 166 169
 Width: 334
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: 1426 20G<110 234>
-VStem: 110 124<-222 461 766 1446>
+HStem: 1440 20G<110 234>
+VStem: 110 124<-208 475 780 1460>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -16,15 +15,15 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-110 766 m 1
- 110 1446 l 1
- 234 1446 l 1
- 234 766 l 1
- 110 766 l 1
-110 -222 m 1
- 110 461 l 1
- 234 461 l 1
- 234 -222 l 1
- 110 -222 l 1
+110 780 m 1
+ 110 1460 l 1
+ 234 1460 l 1
+ 234 780 l 1
+ 110 780 l 1
+110 -208 m 1
+ 110 475 l 1
+ 234 475 l 1
+ 234 -208 l 1
+ 110 -208 l 1
 EndSplineSet
 EndChar

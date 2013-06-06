@@ -1,11 +1,10 @@
 StartChar: periodcentered
-Encoding: 183 183 299
+Encoding: 183 183 301
 Width: 398
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: 547 160<114 278>
-VStem: 114 164<547 707>
+HStem: 514 213<105.727 287.994>
+VStem: 86 222<534.109 707.252>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -16,10 +15,10 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-114 547 m 1
- 114 707 l 1
- 278 707 l 1
- 278 547 l 1
- 114 547 l 1
+197 727 m 0
+ 260 727 308 684 308 621 c 0
+ 308 558 260 514 197 514 c 0
+ 133 514 86 558 86 621 c 0
+ 86 684 133 727 197 727 c 0
 EndSplineSet
 EndChar

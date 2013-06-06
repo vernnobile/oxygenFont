@@ -1,11 +1,10 @@
 StartChar: i
-Encoding: 105 105 235
+Encoding: 105 105 237
 Width: 486
 VWidth: 0
-GlyphClass: 2
 Flags: W
-HStem: 0 21G<160 324> 1039 20G<160 324> 1270 170<159 325>
-VStem: 160 164<0 1059 1270 1440>
+HStem: 0 21G<160 324> 1039 20G<160 324> 1247 213<153.05 332.671>
+VStem: 134 218<1265.65 1441.69> 160 164<0 1059>
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -16,15 +15,15 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-159 1270 m 1
- 159 1440 l 1
- 325 1440 l 1
- 325 1270 l 1
- 159 1270 l 1
-160 0 m 1
+243 1460 m 0xf0
+ 306 1460 352 1417 352 1354 c 0
+ 352 1291 306 1247 243 1247 c 0
+ 179 1247 134 1291 134 1354 c 0
+ 134 1417 179 1460 243 1460 c 0xf0
+160 0 m 1xe8
  160 1059 l 1
  324 1059 l 1
  324 0 l 1
- 160 0 l 1
+ 160 0 l 1xe8
 EndSplineSet
 EndChar

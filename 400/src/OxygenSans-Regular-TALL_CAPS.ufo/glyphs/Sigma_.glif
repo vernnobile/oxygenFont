@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="1143"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="1433" type="line"/>
+      <point x="1011" y="1433" type="line"/>
+      <point x="1004" y="1299" type="line"/>
+      <point x="305" y="1299" type="line"/>
+      <point x="305" y="808" type="line"/>
+      <point x="944" y="808" type="line"/>
+      <point x="944" y="675" type="line"/>
+      <point x="305" y="675" type="line"/>
+      <point x="305" y="134" type="line"/>
+      <point x="1009" y="134" type="line"/>
+      <point x="1001" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Sigma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1143</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
