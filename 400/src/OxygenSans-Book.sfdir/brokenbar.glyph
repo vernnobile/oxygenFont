@@ -1,0 +1,30 @@
+StartChar: brokenbar
+Encoding: 166 166 169
+Width: 334
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 1426 20G<110 234>
+VStem: 110 124<-222 461 766 1446>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+110 766 m 1
+ 110 1446 l 1
+ 234 1446 l 1
+ 234 766 l 1
+ 110 766 l 1
+110 -222 m 1
+ 110 461 l 1
+ 234 461 l 1
+ 234 -222 l 1
+ 110 -222 l 1
+EndSplineSet
+EndChar

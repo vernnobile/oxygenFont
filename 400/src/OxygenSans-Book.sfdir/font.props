@@ -1,0 +1,85 @@
+SplineFontDB: 3.0
+FontName: OxygenSans-Book
+FullName: OxygenSans Book
+FamilyName: OxygenSans
+Weight: Normal
+Copyright: 
+Version: 
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 1638
+Descent: 410
+UFOAscent: 1805
+UFODescent: -511
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1370537191
+ModificationTime: 1370537327
+PfmFamily: 0
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1568
+OS2TypoAOffset: 0
+OS2TypoDescent: -480
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1568
+OS2WinAOffset: 0
+OS2WinDescent: 480
+OS2WinDOffset: 0
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+KernClass2: 13 8 "'kern' Horizontal Kerning lookup 0 subtable" 
+ 37 S Sacute Scaron Scedilla Scommaaccent
+ 1 V
+ 1 W
+ 1 X
+ 108 b o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p uni020D uni020F uni1E57
+ 1 c
+ 1 f
+ 14 k kcommaaccent
+ 28 l lacute lcaron lcommaaccent
+ 37 t tcaron tcommaaccent uni021B uni1E6B
+ 37 w wacute wcircumflex wdieresis wgrave
+ 37 y yacute ycircumflex ydieresis ygrave
+ 89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
+ 202 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q uni01F4 uni020C uni020E
+ 92 a aacute abreve acircumflex adieresis ae agrave amacron aogonek aring atilde uni0201 uni0203
+ 254 c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde q uni0205 uni0207 uni020D uni020F
+ 39 g gbreve gcircumflex gdotaccent uni01F5
+ 37 w wacute wcircumflex wdieresis wgrave
+ 37 y yacute ycircumflex ydieresis ygrave
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -157 {} 0 {} -82 {} -82 {} 0 {} 0 {} 0 {} 0 {} -110 {} -23 {} -59 {} -73 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} 0 {} 0 {} 0 {} 0 {} -14 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -37 {} 0 {} 0 {}
+LangName: 1033 "" "" "" "" "" "Version " 
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 64 8 2
+BeginPrivate: 9
+BlueFuzz 1 1
+BlueScale 8 0.039625
+BlueShift 1 7
+BlueValues 37 [-20 1 1055 1080 1440 1459 1471 1542]
+OtherBlues 11 [-464 -371]
+StemSnapH 24 [21 107 119 127 134 139]
+StemSnapV 13 [166 170 176]
+StdHW 5 [134]
+StdVW 5 [176]
+EndPrivate
+EndSplineFont

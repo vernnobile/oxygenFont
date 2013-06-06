@@ -1,0 +1,45 @@
+StartChar: tbar
+Encoding: 359 359 338
+Width: 872
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -19 133<478.159 735.417> 622 122<134 285 448 652> 954 115<135 285 448 731>
+VStem: 285 163<147.162 622 744 954 1069 1151.6> 327 121<1228.4 1311>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+565 -19 m 0xf0
+ 305 -19 285 108 285 433 c 2
+ 285 622 l 1
+ 134 622 l 1
+ 134 744 l 1
+ 285 744 l 1
+ 285 954 l 1
+ 122 954 l 1
+ 135 1069 l 1
+ 285 1069 l 1xf0
+ 327 1311 l 1
+ 448 1319 l 1xe8
+ 448 1069 l 1
+ 731 1069 l 1
+ 731 954 l 1
+ 448 954 l 1
+ 448 744 l 1
+ 652 744 l 1
+ 652 622 l 1
+ 448 622 l 1
+ 448 357 l 2
+ 448 157 471 114 602 114 c 0
+ 620 114 660 120 735 125 c 1
+ 750 -6 l 1
+ 628 -17 598 -19 565 -19 c 0xf0
+EndSplineSet
+EndChar

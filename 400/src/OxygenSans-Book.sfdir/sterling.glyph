@@ -1,0 +1,42 @@
+StartChar: sterling
+Encoding: 163 163 335
+Width: 1141
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -4 142<441 1045> -4 123<125 266.48> 662 120<113 295 441 844> 1331 129<555.799 885.929>
+VStem: 295 146<138 662 782 1209.99>
+CounterMasks: 1 b0
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+125 -4 m 1x78
+ 113 119 l 1x78
+ 295 136 l 1
+ 295 662 l 1
+ 113 662 l 1
+ 113 782 l 1
+ 295 782 l 1
+ 295 888 l 2
+ 295 1183 350 1460 703 1460 c 0
+ 847 1460 959 1406 1044 1334 c 1
+ 976 1229 l 1
+ 890 1295 805 1331 703 1331 c 0
+ 502 1331 441 1183 441 959 c 2
+ 441 782 l 1
+ 844 782 l 1
+ 844 662 l 1
+ 441 662 l 1
+ 441 138 l 1
+ 1058 138 l 1
+ 1045 -4 l 1xb8
+ 125 -4 l 1x78
+EndSplineSet
+EndChar

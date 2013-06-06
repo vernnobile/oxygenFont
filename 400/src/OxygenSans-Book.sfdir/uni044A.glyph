@@ -1,0 +1,36 @@
+StartChar: uni044A
+Encoding: 1098 1098 515
+Width: 1028
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 0 85<356 688.374> 578 93<357 691.961> 978 77<82 228>
+VStem: 228 128<85 578 671 978> 771 145<170.976 500.418>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+356 85 m 1
+ 574 85 l 2
+ 729 85 771 242 771 349 c 0
+ 771 462 716 578 567 578 c 2
+ 356 578 l 1
+ 356 85 l 1
+228 0 m 1
+ 228 978 l 1
+ 82 978 l 1
+ 82 1055 l 1
+ 357 1055 l 1
+ 357 671 l 1
+ 557 671 l 2
+ 859 671 916 490 916 347 c 0
+ 916 194 848 0 559 0 c 2
+ 228 0 l 1
+EndSplineSet
+EndChar

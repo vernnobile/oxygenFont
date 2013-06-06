@@ -1,0 +1,29 @@
+StartChar: bracketright
+Encoding: 93 93 167
+Width: 676
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: -249 117<66 354> 1348 118<66 354>
+VStem: 354 146<-132 1348>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+66 -249 m 1
+ 66 -132 l 1
+ 354 -132 l 1
+ 354 1348 l 1
+ 66 1348 l 1
+ 66 1466 l 1
+ 500 1466 l 1
+ 500 -249 l 1
+ 66 -249 l 1
+EndSplineSet
+EndChar
