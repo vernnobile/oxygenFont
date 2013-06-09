@@ -2,10 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>@MMK_L_A_Left</key>
+	<dict>
+		<key>@MMK_R_W_Right</key>
+		<integer>-56</integer>
+	</dict>
 	<key>@MMK_L_S_Left</key>
 	<dict>
 		<key>@MMK_R_A_Right</key>
 		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_T_Left</key>
+	<dict>
+		<key>@MMK_R_o_Right</key>
+		<integer>-82</integer>
 	</dict>
 	<key>@MMK_L_V_Left</key>
 	<dict>
@@ -25,12 +35,17 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-59</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-73</integer>
+		<integer>-52</integer>
 	</dict>
 	<key>@MMK_L_X_Left</key>
 	<dict>
 		<key>@MMK_R_o_Right</key>
 		<integer>-52</integer>
+	</dict>
+	<key>@MMK_L_Y_Left</key>
+	<dict>
+		<key>@MMK_R_o_Right</key>
+		<integer>-70</integer>
 	</dict>
 	<key>@MMK_L_k_Left</key>
 	<dict>

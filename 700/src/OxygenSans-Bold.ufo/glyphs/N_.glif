@@ -1,29 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1594.2"/>
+  <advance width="1526"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="192.2" y="0.0" type="line"/>
-      <point x="433.0" y="0.0" type="line"/>
-      <point x="433.0" y="571.2" type="line"/>
-      <point x="411.6" y="1194.9" type="line"/>
-      <point x="359.1" y="1188.3" type="line"/>
-      <point x="1133.7" y="0.0" type="line"/>
-      <point x="1402.0" y="0.0" type="line"/>
-      <point x="1402.0" y="1428.7" type="line"/>
-      <point x="1161.5" y="1428.7" type="line"/>
-      <point x="1161.5" y="756.0" type="line"/>
-      <point x="1178.6" y="225.3" type="line"/>
-      <point x="1227.0" y="226.8" type="line"/>
-      <point x="450.9" y="1428.7" type="line"/>
-      <point x="192.2" y="1428.7" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="376" y="583" type="line"/>
+      <point x="358" y="1222" type="line"/>
+      <point x="304" y="1215" type="line"/>
+      <point x="1106" y="0" type="line"/>
+      <point x="1378" y="0" type="line"/>
+      <point x="1378" y="1460" type="line"/>
+      <point x="1150" y="1460" type="line"/>
+      <point x="1150" y="771" type="line"/>
+      <point x="1163" y="230" type="line"/>
+      <point x="1213" y="231" type="line"/>
+      <point x="410" y="1460" type="line"/>
+      <point x="148" y="1460" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1526</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -6,29 +6,29 @@
     <contour>
       <point x="809" y="120" type="curve" smooth="yes"/>
       <point x="459" y="120"/>
-      <point x="297" y="365"/>
-      <point x="297" y="711" type="curve" smooth="yes"/>
-      <point x="297" y="1073"/>
-      <point x="471" y="1320"/>
-      <point x="811" y="1320" type="curve" smooth="yes"/>
-      <point x="1152" y="1320"/>
-      <point x="1320" y="1071"/>
-      <point x="1320" y="711" type="curve" smooth="yes"/>
-      <point x="1320" y="365"/>
+      <point x="297" y="375"/>
+      <point x="297" y="721" type="curve" smooth="yes"/>
+      <point x="297" y="1083"/>
+      <point x="471" y="1341"/>
+      <point x="811" y="1341" type="curve" smooth="yes"/>
+      <point x="1152" y="1341"/>
+      <point x="1320" y="1081"/>
+      <point x="1320" y="721" type="curve" smooth="yes"/>
+      <point x="1320" y="375"/>
       <point x="1159" y="120"/>
     </contour>
     <contour>
       <point x="811" y="-19" type="curve" smooth="yes"/>
       <point x="1253" y="-19"/>
-      <point x="1496" y="277"/>
-      <point x="1496" y="710" type="curve" smooth="yes"/>
-      <point x="1496" y="1161"/>
-      <point x="1241" y="1459"/>
-      <point x="812" y="1459" type="curve" smooth="yes"/>
-      <point x="374" y="1459"/>
-      <point x="120" y="1164"/>
-      <point x="120" y="712" type="curve" smooth="yes"/>
-      <point x="120" y="271"/>
+      <point x="1496" y="287"/>
+      <point x="1496" y="720" type="curve" smooth="yes"/>
+      <point x="1496" y="1171"/>
+      <point x="1241" y="1480"/>
+      <point x="812" y="1480" type="curve" smooth="yes"/>
+      <point x="374" y="1480"/>
+      <point x="120" y="1174"/>
+      <point x="120" y="722" type="curve" smooth="yes"/>
+      <point x="120" y="281"/>
       <point x="364" y="-19"/>
     </contour>
   </outline>
@@ -67,6 +67,9 @@
           </dict>
         </array>
       </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

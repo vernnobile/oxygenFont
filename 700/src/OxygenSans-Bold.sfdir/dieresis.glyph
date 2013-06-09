@@ -1,0 +1,30 @@
+StartChar: dieresis
+Encoding: 168 168 191
+Width: 719
+VWidth: 0
+GlyphClass: 2
+Flags: W
+HStem: 1217 227<93 272 486 664>
+VStem: 93 179<1217 1444> 486 178<1217 1444>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+486 1217 m 1
+ 486 1444 l 1
+ 664 1444 l 1
+ 664 1217 l 1
+ 486 1217 l 1
+93 1217 m 1
+ 93 1444 l 1
+ 272 1444 l 1
+ 272 1217 l 1
+ 93 1217 l 1
+EndSplineSet
+EndChar

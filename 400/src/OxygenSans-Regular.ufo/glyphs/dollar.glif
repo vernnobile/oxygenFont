@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="1167.4576824"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="638" y="1735" type="line"/>
+      <point x="572" y="1735" type="line"/>
+      <point x="534" y="1404" type="line"/>
+      <point x="691" y="1404" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="-278" type="line"/>
+      <point x="654" y="-278" type="line"/>
+      <point x="692" y="53" type="line"/>
+      <point x="535" y="53" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1167.4576824</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

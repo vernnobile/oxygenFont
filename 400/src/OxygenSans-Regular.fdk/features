@@ -1,18 +1,23 @@
 
 
 feature kern {
+    @MMK_L_A_Left = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202];
     @MMK_L_S_Left = [S Sacute Scaron Scedilla Scommaaccent];
+    @MMK_L_T_Left = [T Tcaron uni021A];
     @MMK_L_V_Left = [V];
     @MMK_L_W_Left = [W];
     @MMK_L_X_Left = [X];
+    @MMK_L_Y_Left = [Y Yacute Ydieresis];
     @MMK_L_k_Left = [k kcommaaccent];
     @MMK_L_l_Left = [l lacute lcaron lcommaaccent];
     @MMK_L_o_Left = [b o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p uni020D uni020F uni1E57];
+    @MMK_L_r_Left = [r racute rcaron rcommaaccent uni0211 uni0213];
     @MMK_L_t_Left = [t tcaron tcommaaccent uni021B uni1E6B];
     @MMK_L_w_Left = [w wacute wcircumflex wdieresis wgrave];
     @MMK_L_y_Left = [y yacute ycircumflex ydieresis ygrave];
     @MMK_R_A_Right = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202];
     @MMK_R_O_Right = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q uni01F4 uni020C uni020E];
+    @MMK_R_W_Right = [W];
     @MMK_R_a_Right = [a aacute abreve acircumflex adieresis ae agrave amacron aogonek aring atilde uni0201 uni0203];
     @MMK_R_g_Right = [g gbreve gcircumflex gdotaccent uni01F5];
     @MMK_R_o_Right = [c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde q uni0205 uni0207 uni020D uni020F];
@@ -24,18 +29,24 @@ feature kern {
     pos f @MMK_R_o_Right -28;
 
     # group, group
+    pos @MMK_L_A_Left @MMK_R_W_Right -56;
     pos @MMK_L_S_Left @MMK_R_A_Right -20;
+    pos @MMK_L_T_Left @MMK_R_o_Right -82;
     pos @MMK_L_V_Left @MMK_R_A_Right -157;
     pos @MMK_L_V_Left @MMK_R_a_Right -82;
     pos @MMK_L_V_Left @MMK_R_o_Right -82;
     pos @MMK_L_W_Left @MMK_R_A_Right -110;
     pos @MMK_L_W_Left @MMK_R_O_Right -23;
     pos @MMK_L_W_Left @MMK_R_a_Right -59;
-    pos @MMK_L_W_Left @MMK_R_o_Right -73;
+    pos @MMK_L_W_Left @MMK_R_o_Right -52;
     pos @MMK_L_X_Left @MMK_R_o_Right -52;
+    pos @MMK_L_Y_Left @MMK_R_o_Right -70;
     pos @MMK_L_k_Left @MMK_R_o_Right -33;
-    pos @MMK_L_l_Left @MMK_R_y_Left -36;
+    pos @MMK_L_l_Left @MMK_R_g_Right -36;
+    pos @MMK_L_l_Left @MMK_R_o_Right -30;
+    pos @MMK_L_l_Left @MMK_R_y_Left -65;
     pos @MMK_L_o_Left @MMK_R_w_Left -41;
+    pos @MMK_L_r_Left @MMK_R_g_Right -44;
     pos @MMK_L_t_Left @MMK_R_o_Right -14;
     pos @MMK_L_w_Left @MMK_R_a_Right -20;
     pos @MMK_L_y_Left @MMK_R_g_Right -37;
@@ -45,16 +56,16 @@ feature kern {
 table OS/2 {
     FSType 4;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 1568;
-    TypoDescender -480;
+    TypoAscender 2356;
+    TypoDescender -664;
     TypoLineGap 0;
-    winAscent 1568;
-    winDescent 480;
-    XHeight 1059;
-    CapHeight 1440;
+    winAscent 2356;
+    winDescent 664;
+    XHeight 1058;
+    CapHeight 1460;
     WeightClass 400;
     WidthClass 5;
-    Vendor "PfEd";
+    Vendor "newt";
 } OS/2;
 
 table head {
@@ -62,9 +73,9 @@ table head {
 } head;
 
 table hhea {
-    Ascender 1537;
-    Descender -511;
-    LineGap 200;
+    Ascender 2356;
+    Descender -664;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 

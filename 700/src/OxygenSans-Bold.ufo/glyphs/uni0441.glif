@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0441" format="1">
-  <advance width="1002"/>
+  <advance width="1022"/>
   <unicode hex="0441"/>
   <outline>
     <component base="c"/>
@@ -15,27 +15,49 @@
             <key>position</key>
             <integer>-19</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>94</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>982</integer>
+            <integer>1002</integer>
             <key>width</key>
-            <integer>92</integer>
+            <integer>94</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>128</integer>
+            <integer>131</integer>
             <key>width</key>
-            <integer>120</integer>
+            <integer>122</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0441</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1022</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
