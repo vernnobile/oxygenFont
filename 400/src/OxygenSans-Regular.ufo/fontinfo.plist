@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-511</integer>
 	<key>familyName</key>
-	<string>OxygenSans</string>
+	<string>Oxygen-Sans</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>note</key>
@@ -24,8 +24,10 @@
 	<integer>-664</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Oxygen-Sans</string>
 	<key>openTypeNameUniqueID</key>
-	<string>0.4;newt;OxygenSans Regular</string>
+	<string>0.4;newt;Oxygen Sans Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>0.4</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -59,7 +61,7 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Oxygen Sans</string>
+	<string>Oxygen-Sans</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
@@ -77,12 +79,14 @@
 	<integer>0</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
 	<key>styleName</key>
 	<string>Book</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>1058</integer>
 </dict>

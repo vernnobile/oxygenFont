@@ -62,6 +62,7 @@ feature kern {
     pos L @MMK_R_w_Left -48;
     pos L @MMK_R_y_Left -85;
     pos a @MMK_R_y_Left -15;
+    pos c @MMK_R_o_Right -41;
     pos e @MMK_R_v_Left -16;
     pos e @MMK_R_y_Left -20;
     pos f @MMK_R_o_Right -16;
@@ -131,16 +132,19 @@ feature kern {
     pos @MMK_L_Y_Left @MMK_R_o_Right -81;
     pos @MMK_L_Y_Left @MMK_R_u_Left -55;
     pos @MMK_L_k_Left @MMK_R_g_Right -20;
-    pos @MMK_L_k_Left @MMK_R_o_Right -19;
+    pos @MMK_L_k_Left @MMK_R_o_Right -37;
     pos @MMK_L_n_Left @MMK_R_v_Left -17;
     pos @MMK_L_n_Left @MMK_R_y_Left -17;
     pos @MMK_L_o_Left @MMK_R_v_Left -28;
-    pos @MMK_L_o_Left @MMK_R_y_Left -38;
-    pos @MMK_L_r_Left @MMK_R_g_Right -22;
-    pos @MMK_L_r_Left @MMK_R_o_Right -42;
+    pos @MMK_L_o_Left @MMK_R_y_Left -47;
+    pos @MMK_L_r_Left @MMK_R_a_Right -52;
+    pos @MMK_L_r_Left @MMK_R_g_Right -40;
+    pos @MMK_L_r_Left @MMK_R_o_Right -56;
+    pos @MMK_L_t_Left @MMK_R_a_Right -28;
     pos @MMK_L_t_Left @MMK_R_o_Right -22;
     pos @MMK_L_v_Left @MMK_R_o_Right -7;
-    pos @MMK_L_y_Left @MMK_R_o_Right -7;
+    pos @MMK_L_y_Left @MMK_R_o_Right -30;
+    pos @MMK_R_A_Right @MMK_R_O_Right -38;
 } kern;
 
 table OS/2 {
@@ -159,7 +163,7 @@ table OS/2 {
 } OS/2;
 
 table head {
-    FontRevision 0.000;
+    FontRevision 0.004;
 } head;
 
 table hhea {
