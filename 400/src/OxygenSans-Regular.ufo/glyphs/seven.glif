@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1203"/>
+  <advance width="1204"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="360" y="1" type="line"/>
-      <point x="526" y="1" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
       <point x="1038" y="1342" type="line"/>
       <point x="1038" y="1460" type="line"/>
       <point x="190" y="1460" type="line"/>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1203</integer>
+          <integer>1204</integer>
         </dict>
       </dict>
     </dict>
