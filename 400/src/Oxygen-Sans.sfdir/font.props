@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1370895181
-ModificationTime: 1370898941
+ModificationTime: 1370963130
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -79,7 +79,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 9
+WinInfo: 22 11 8
 BeginPrivate: 10
 ForceBold 5 false
 BlueValues 27 [-20 0 1058 1080 1460 1480]
@@ -87,10 +87,10 @@ OtherBlues 11 [-476 -464]
 BlueFuzz 1 1
 BlueScale 8 0.039625
 BlueShift 1 7
-StdHW 5 [127]
-StdVW 5 [166]
-StemSnapH 32 [21 79 86 92 96 110 121 127 133]
-StemSnapV 9 [122 166]
+StdHW 5 [132]
+StdVW 5 [176]
+StemSnapH 24 [20 107 119 127 132 140]
+StemSnapV 13 [166 170 176]
 EndPrivate
 TeXData: 1 0 0 238592 119296 79530 541696 -1048576 79530 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "ogonek"  "'mark' Mark Positioning lookup 0-1" 
