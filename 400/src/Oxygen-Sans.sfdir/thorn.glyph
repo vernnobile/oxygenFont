@@ -1,0 +1,25 @@
+StartChar: thorn
+Encoding: 189 254 317
+Width: 1165
+VWidth: 0
+Flags: W
+HStem: -464 21G<136 304> -20 127<451.511 768.873> 0 21<136 272.613> 954 126<458.663 777.079> 1452 20<136 304>
+VStem: 136 135<0 177.766> 136 168<-464 297 278.533 790.954 894 1460> 909 170<265.61 794.014>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+136 297 m 1x9b
+ 304 297 l 1
+ 304 -464 l 1
+ 136 -464 l 1
+ 136 297 l 1x9b
+EndSplineSet
+Refer: 143 98 N 1 0 0 1 0 0 2
+EndChar

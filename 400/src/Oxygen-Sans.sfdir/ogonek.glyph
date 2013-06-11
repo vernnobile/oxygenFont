@@ -1,0 +1,29 @@
+StartChar: ogonek
+Encoding: 368 731 261
+Width: 570
+VWidth: 0
+Flags: W
+HStem: -410 106<263.02 445.783>
+VStem: 115 140<-296.248 -130.698>
+AnchorPoint: "ogonek" 356 4 mark 0
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+448 -381 m 1
+ 416 -396 353 -410 304 -410 c 0
+ 179 -410 115 -352 115 -264 c 0
+ 115 -152 217 -37 321 4 c 1
+ 401 4 l 1
+ 342 -38 255 -149 255 -225 c 0
+ 255 -281 293 -304 338 -304 c 0
+ 380 -304 427 -288 446 -280 c 1
+ 448 -381 l 1
+EndSplineSet
+EndChar

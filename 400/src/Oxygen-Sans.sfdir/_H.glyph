@@ -1,0 +1,32 @@
+StartChar: H
+Encoding: 40 72 41
+Width: 1440
+VWidth: 0
+Flags: W
+HStem: 0 21G<164 340 1100 1276> 681 128<340 1100> 1440 20G<164 340 1100 1276>
+VStem: 164 176<0 681 809 1460> 1100 176<0 681 809 1460>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+164 0 m 1
+ 164 1460 l 1
+ 340 1460 l 1
+ 340 809 l 1
+ 1100 809 l 1
+ 1100 1460 l 1
+ 1276 1460 l 1
+ 1276 0 l 1
+ 1100 0 l 1
+ 1100 681 l 1
+ 340 681 l 1
+ 340 0 l 1
+ 164 0 l 1
+EndSplineSet
+EndChar

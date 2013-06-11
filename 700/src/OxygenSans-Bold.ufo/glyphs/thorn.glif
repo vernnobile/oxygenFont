@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="1">
+  <advance width="1163"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="122" y="1460" type="line"/>
+      <point x="122" y="763" type="line"/>
+      <point x="347" y="763" type="line"/>
+      <point x="347" y="1480" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

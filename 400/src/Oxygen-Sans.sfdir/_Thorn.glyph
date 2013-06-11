@@ -1,0 +1,35 @@
+StartChar: Thorn
+Encoding: 157 222 97
+Width: 1051
+VWidth: 0
+Flags: W
+HStem: 0 21G<164 340> 451 128<340 740.547> 1016 125<340 736.624> 1440 20G<164 340>
+VStem: 164 176<0 451 579 1016 1141 1460> 813 176<646.906 948.158>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+164 0 m 1
+ 164 1460 l 1
+ 340 1460 l 1
+ 340 1141 l 1
+ 530 1141 l 2
+ 801 1141 989 1066 989 815 c 0
+ 989 574 865 451 527 451 c 2
+ 340 451 l 1
+ 340 0 l 1
+ 164 0 l 1
+340 1016 m 1
+ 340 579 l 1
+ 523 579 l 2
+ 740 579 813 630 813 813 c 0
+ 813 977 709 1016 529 1016 c 2
+ 340 1016 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,33 @@
+StartChar: E
+Encoding: 37 69 22
+Width: 1133
+VWidth: 0
+Flags: W
+HStem: 0 134<340 1049> 689 132<340 978> 1328 132<340 1040>
+VStem: 164 176<134 689 821 1328>
+AnchorPoint: "ogonek" 762 0 basechar 0
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+164 0 m 1
+ 164 1460 l 1
+ 1046 1460 l 1
+ 1040 1328 l 1
+ 340 1328 l 1
+ 340 821 l 1
+ 978 821 l 1
+ 978 689 l 1
+ 340 689 l 1
+ 340 134 l 1
+ 1061 134 l 1
+ 1049 0 l 1
+ 164 0 l 1
+EndSplineSet
+EndChar

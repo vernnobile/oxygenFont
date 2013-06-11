@@ -1,0 +1,24 @@
+StartChar: cedilla
+Encoding: 119 184 160
+Width: 575
+VWidth: 0
+Flags: W
+HStem: -376 386<213 258>
+VStem: 125 171
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+125 -376 m 1
+ 213 10 l 1
+ 296 10 l 1
+ 258 -376 l 1
+ 125 -376 l 1
+EndSplineSet
+EndChar

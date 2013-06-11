@@ -1,0 +1,25 @@
+StartChar: Lcaron
+Encoding: 252 317 61
+Width: 1066
+VWidth: 0
+Flags: W
+HStem: 0 134<340 1010> 1440 20<164 340> 1460 20G<1303.99 1447>
+VStem: 164 176<134 1460> 1309 138<1436.7 1480>
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+1197 1033 m 1xb8
+ 1309 1480 l 1
+ 1447 1480 l 1
+ 1299 1033 l 1
+ 1197 1033 l 1xb8
+EndSplineSet
+Refer: 59 76 N 1 0 0 1 0 0 2
+EndChar
