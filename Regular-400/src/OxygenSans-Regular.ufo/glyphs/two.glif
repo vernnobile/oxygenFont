@@ -7,8 +7,7 @@
       <point x="218" y="0" type="line"/>
       <point x="999" y="0" type="line"/>
       <point x="1008" y="120" type="line"/>
-      <point x="317" y="120" type="line"/>
-      <point x="337" y="71" type="line"/>
+      <point x="379" y="120" type="line"/>
       <point x="771" y="579" type="line" smooth="yes"/>
       <point x="941" y="778"/>
       <point x="1013" y="883"/>
@@ -32,33 +31,4 @@
       <point x="192" y="131" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>two</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1204</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

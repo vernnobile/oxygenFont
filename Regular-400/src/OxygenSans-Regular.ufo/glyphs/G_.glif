@@ -11,12 +11,10 @@
       <point x="1304" y="745" type="line"/>
       <point x="823" y="745" type="line"/>
       <point x="816" y="605" type="line"/>
-      <point x="1199" y="605" type="line"/>
-      <point x="1141" y="663" type="line"/>
-      <point x="1141" y="103" type="line"/>
-      <point x="1194" y="183" type="line"/>
-      <point x="1136" y="159"/>
-      <point x="1009" y="121"/>
+      <point x="1141" y="605" type="line"/>
+      <point x="1141" y="164" type="line"/>
+      <point x="1073" y="143"/>
+      <point x="968" y="121"/>
       <point x="837" y="121" type="curve" smooth="yes"/>
       <point x="452" y="121"/>
       <point x="297" y="369"/>
@@ -38,33 +36,4 @@
       <point x="357" y="-19"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>G</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1449</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

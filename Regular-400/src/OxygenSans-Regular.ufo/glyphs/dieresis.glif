@@ -2,21 +2,8 @@
 <glyph name="dieresis" format="1">
   <advance width="740"/>
   <unicode hex="00A8"/>
+  <unicode hex="0308"/>
   <outline>
-    <contour>
-      <point x="650" y="1431"/>
-      <point x="698" y="1388"/>
-      <point x="698" y="1325" type="curve" smooth="yes"/>
-      <point x="698" y="1262"/>
-      <point x="650" y="1218"/>
-      <point x="587" y="1218" type="curve" smooth="yes"/>
-      <point x="523" y="1218"/>
-      <point x="476" y="1262"/>
-      <point x="476" y="1325" type="curve" smooth="yes"/>
-      <point x="476" y="1388"/>
-      <point x="523" y="1431"/>
-      <point x="587" y="1431" type="curve" smooth="yes"/>
-    </contour>
     <contour>
       <point x="153" y="1431" type="curve" smooth="yes"/>
       <point x="216" y="1431"/>
@@ -31,34 +18,19 @@
       <point x="42" y="1388"/>
       <point x="89" y="1431"/>
     </contour>
+    <contour>
+      <point x="698" y="1325" type="curve" smooth="yes"/>
+      <point x="698" y="1262"/>
+      <point x="650" y="1218"/>
+      <point x="587" y="1218" type="curve" smooth="yes"/>
+      <point x="523" y="1218"/>
+      <point x="476" y="1262"/>
+      <point x="476" y="1325" type="curve" smooth="yes"/>
+      <point x="476" y="1388"/>
+      <point x="523" y="1431"/>
+      <point x="587" y="1431" type="curve" smooth="yes"/>
+      <point x="650" y="1431"/>
+      <point x="698" y="1388"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>740</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
