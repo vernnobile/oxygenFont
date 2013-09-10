@@ -31,37 +31,47 @@
       <point x="911" y="285"/>
       <point x="809" y="106"/>
     </contour>
+    <contour>
+      <point x="581" y="1056" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-19</integer>
-	    <key>width</key>	    <integer>126</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>953</integer>
-	    <key>width</key>	    <integer>127</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>114</integer>
-	    <key>width</key>
-	    <integer>164</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>946</integer>
-	    <key>width</key>
-	    <integer>165</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>953</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>114</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>946</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

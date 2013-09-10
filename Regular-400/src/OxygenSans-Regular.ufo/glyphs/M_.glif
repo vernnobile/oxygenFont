@@ -20,50 +20,56 @@
       <point x="401" y="1460" type="line"/>
       <point x="185" y="1460" type="line"/>
     </contour>
+    <contour>
+      <point x="887" y="1457" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>185</integer>
-	    <key>width</key>
-	    <integer>166</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>214</integer>
-	    <key>width</key>
-	    <integer>151</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>332</integer>
-	    <key>width</key>
-	    <integer>33</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1463</integer>
-	    <key>width</key>
-	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1463</integer>
-	    <key>width</key>
-	    <integer>39</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1477</integer>
-	    <key>width</key>
-	    <integer>164</integer>
-	  </dict>
-	</array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>185</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>214</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>332</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>39</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1477</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>
