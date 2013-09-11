@@ -14,7 +14,10 @@
       <point x="468" y="1326" type="line"/>
     </contour>
     <contour>
-      <point x="560" y="1457" type="move" name="top"/>
+      <point x="561" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="560" y="1460" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

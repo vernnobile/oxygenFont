@@ -4,5 +4,15 @@
   <unicode hex="0451"/>
   <outline>
     <component base="dieresis" xOffset="236" yOffset="-8"/>
+    <contour>
+      <point x="611" y="1008" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -4,5 +4,15 @@
   <unicode hex="0450"/>
   <outline>
     <component base="grave" xOffset="210"/>
+    <contour>
+      <point x="667" y="1008" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

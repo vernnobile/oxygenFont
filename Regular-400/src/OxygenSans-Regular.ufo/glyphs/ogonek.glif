@@ -25,5 +25,15 @@
       <point x="353" y="-410"/>
       <point x="416" y="-396"/>
     </contour>
+    <contour>
+      <point x="356" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

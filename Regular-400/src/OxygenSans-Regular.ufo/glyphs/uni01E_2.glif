@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E2" format="1">
-  <advance width="1766"/>
+  <advance width="1153"/>
   <unicode hex="01E2"/>
   <outline>
-    <component base="macron" xOffset="739" yOffset="301"/>
+    <component base="macron" xOffset="74" yOffset="-105"/>
+    <contour>
+      <point x="588" y="1008" type="move" name="_top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
