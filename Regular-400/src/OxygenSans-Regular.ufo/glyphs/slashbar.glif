@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashbar" format="1">
+  <advance width="1056"/>
+  <outline>
+    <contour>
+      <point x="211" y="1091" type="line"/>
+      <point x="796" y="1301" type="line"/>
+      <point x="796" y="1420" type="line"/>
+      <point x="211" y="1210" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="1254" type="move" name="_mid2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

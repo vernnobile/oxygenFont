@@ -3,11 +3,11 @@
 table OS/2 {
     FSType 4;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 2356;
-    TypoDescender -664;
+    TypoAscender 2346;
+    TypoDescender -1003;
     TypoLineGap 0;
-    winAscent 2356;
-    winDescent 664;
+    winAscent 2346;
+    winDescent 1003;
     XHeight 1058;
     CapHeight 1460;
     WeightClass 400;
@@ -20,13 +20,21 @@ table head {
 } head;
 
 table hhea {
-    Ascender 1537;
-    Descender -511;
-    LineGap 200;
+    Ascender 2346;
+    Descender -1003;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 
 table name {
-    nameid 0 "";
-    nameid 0 1 "";
+    nameid 0 "2013 \00A9 Vernon Adams";
+    nameid 0 1 "2013 \A9 Vernon Adams";
+    nameid 8 "Vernon Adams";
+    nameid 8 1 "Vernon Adams";
+    nameid 9 "Vernon Adams";
+    nameid 9 1 "Vernon Adams";
+    nameid 11 "http://code.newtypography.co.uk";
+    nameid 11 1 "http://code.newtypography.co.uk";
+    nameid 12 "http://code.newtypography.co.uk";
+    nameid 12 1 "http://code.newtypography.co.uk";
 } name;

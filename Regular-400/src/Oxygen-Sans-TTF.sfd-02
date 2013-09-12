@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379011190
-ModificationTime: 1379012120
+ModificationTime: 1379011868
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -53,35 +53,7 @@ OS2StrikeYPos: 634
 OS2Vendor: 'newt'
 OS2CodePages: 00000082.00000000
 OS2UnicodeRanges: 0000000f.00000000.00000000.00000000
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 17 9 "'kern' Horizontal Kerning lookup 0 subtable" 
- 89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
- 37 S Sacute Scaron Scedilla Scommaaccent
- 16 T Tcaron uni021A
- 1 V
- 1 W
- 1 X
- 18 Y Yacute Ydieresis
- 108 b o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p uni020D uni020F uni1E57
- 1 c
- 1 f
- 14 k kcommaaccent
- 28 l lacute lcaron lcommaaccent
- 44 r racute rcaron rcommaaccent uni0211 uni0213
- 37 t tcaron tcommaaccent uni021B uni1E6B
- 37 w wacute wcircumflex wdieresis wgrave
- 37 y yacute ycircumflex ydieresis ygrave
- 89 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0200 uni0202
- 202 C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q uni01F4 uni020C uni020E
- 1 W
- 92 a aacute abreve acircumflex adieresis ae agrave amacron aogonek aring atilde uni0201 uni0203
- 254 c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek eth o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde q uni0205 uni0207 uni020D uni020F
- 39 g gbreve gcircumflex gdotaccent uni01F5
- 37 w wacute wcircumflex wdieresis wgrave
- 37 y yacute ycircumflex ydieresis ygrave
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -56 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -82 {} 0 {} 0 {} 0 {} 0 {} -157 {} 0 {} 0 {} -82 {} -82 {} 0 {} 0 {} 0 {} 0 {} -110 {} -23 {} 0 {} -59 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -52 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -41 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -28 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -33 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -36 {} 0 {} -65 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -36 {} -37 {} 0 {} 0 {}
 ShortTable: maxp 16
   1
   0
@@ -108,9 +80,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 18 8
-BeginPrivate: 0
-EndPrivate
+WinInfo: 216 18 8
 BeginChars: 65549 608
 
 StartChar: .notdef

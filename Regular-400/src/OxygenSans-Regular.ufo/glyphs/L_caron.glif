@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="1066"/>
+  <advance width="1068"/>
   <unicode hex="013D"/>
   <outline>
     <component base="L"/>
-    <component base="uni02BC" xOffset="1060" yOffset="-57"/>
+    <component base="uni02BC" xOffset="540" yOffset="-119"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1066</integer>
+          <integer>1068</integer>
         </dict>
       </dict>
     </dict>

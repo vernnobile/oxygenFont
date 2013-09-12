@@ -8,9 +8,9 @@
       <point x="313" y="0" type="line"/>
       <point x="313" y="590" type="line" smooth="yes"/>
       <point x="313" y="782"/>
-      <point x="385" y="953"/>
-      <point x="641" y="953" type="curve" smooth="yes"/>
-      <point x="811" y="953"/>
+      <point x="385" y="954"/>
+      <point x="641" y="954" type="curve" smooth="yes"/>
+      <point x="811" y="954"/>
       <point x="860" y="843"/>
       <point x="860" y="665" type="curve" smooth="yes"/>
       <point x="860" y="0" type="line"/>
@@ -30,6 +30,9 @@
     </contour>
     <contour>
       <point x="583" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="119" y="1058" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
