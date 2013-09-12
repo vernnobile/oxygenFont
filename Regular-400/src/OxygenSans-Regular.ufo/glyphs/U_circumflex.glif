@@ -4,12 +4,34 @@
   <unicode hex="00DB"/>
   <outline>
     <component base="U"/>
-    <component base="asciicircum" xOffset="330.5" yOffset="515"/>
+    <component base="circumflex" xOffset="341" yOffset="452"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ucircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1412</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

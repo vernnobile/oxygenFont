@@ -26,7 +26,7 @@
       <point x="129" y="1261" type="curve"/>
     </contour>
     <contour>
-      <point x="444" y="1008" type="move" name="_top"/>
+      <point x="444" y="1058" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -66,6 +66,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>874</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

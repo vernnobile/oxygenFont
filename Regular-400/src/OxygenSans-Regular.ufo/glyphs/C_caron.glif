@@ -4,12 +4,34 @@
   <unicode hex="010C"/>
   <outline>
     <component base="C"/>
-    <component base="uni030C" xOffset="277" yOffset="515"/>
+    <component base="caron" xOffset="453" yOffset="452"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ccaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1292</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -4,12 +4,34 @@
   <unicode hex="0120"/>
   <outline>
     <component base="G"/>
-    <component base="uni0307" xOffset="515" yOffset="506"/>
+    <component base="dotaccent" xOffset="652" yOffset="452"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gdotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1449</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

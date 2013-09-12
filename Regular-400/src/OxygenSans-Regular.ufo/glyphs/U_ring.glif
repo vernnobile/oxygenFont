@@ -4,12 +4,34 @@
   <unicode hex="016E"/>
   <outline>
     <component base="U"/>
-    <component base="uni030A" xOffset="453" yOffset="384"/>
+    <component base="ring" xOffset="411" yOffset="452"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Uring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1412</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
