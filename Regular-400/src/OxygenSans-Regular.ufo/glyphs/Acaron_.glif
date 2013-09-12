@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01CD" format="1">
+<glyph name="Acaron" format="1">
   <advance width="1360"/>
-  <unicode hex="01CD"/>
   <outline>
     <component base="A"/>
-    <component base="uni030C" xOffset="292.5" yOffset="515"/>
+    <component base="caron.cap" xOffset="304.0" yOffset="512.0"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +24,7 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>uni01CD</string>
+          <string>Acaron</string>
           <key>unicodes</key>
           <array>
           </array>

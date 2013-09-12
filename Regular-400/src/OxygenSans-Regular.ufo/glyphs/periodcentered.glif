@@ -17,5 +17,37 @@
       <point x="128" y="684"/>
       <point x="175" y="727"/>
     </contour>
+    <contour>
+      <point x="240" y="620" type="move" name="_mid"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>periodcentered</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>478</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
