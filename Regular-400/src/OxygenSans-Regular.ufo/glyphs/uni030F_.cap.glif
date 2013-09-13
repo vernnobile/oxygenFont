@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="endash" format="1">
-  <advance width="1236"/>
-  <unicode hex="2013"/>
+<glyph name="uni030F.cap" format="1">
+  <advance width="695"/>
   <outline>
     <contour>
-      <point x="19" y="521" type="line"/>
-      <point x="1223" y="521" type="line"/>
-      <point x="1223" y="655" type="line"/>
-      <point x="19" y="655" type="line"/>
+      <point x="362.0" y="1058.0" type="line"/>
+      <point x="257.0" y="1058.0" type="line"/>
+      <point x="1" y="1400" type="line"/>
+      <point x="164" y="1400" type="line"/>
     </contour>
     <contour>
-      <point x="633" y="587" type="move" name="_mid"/>
+      <point x="565.0" y="1058.0" type="line"/>
+      <point x="472.0" y="1058.0" type="line"/>
+      <point x="274" y="1400" type="line"/>
+      <point x="432" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="435.0" y="948.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -32,12 +37,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>endash</string>
+          <string>uni030F</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1236</integer>
+          <integer>695</integer>
         </dict>
       </dict>
     </dict>

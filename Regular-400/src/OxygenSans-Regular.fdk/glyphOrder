@@ -244,7 +244,6 @@ kcommaaccent kcommaaccent uni0137
 ccaron ccaron uni010D
 Euro Euro uni20AC
 circumflex.cap circumflex.cap
-lcaron lcaron uni013E
 acute.cap acute.cap
 Tau Tau uni03A4
 amacron amacron uni0101
@@ -258,6 +257,7 @@ eng eng uni014B
 uni020C uni020C uni020C
 Cacute Cacute uni0106
 Gcaron Gcaron uni01E6
+Ccircumflex Ccircumflex uni0108
 Mu Mu uni039C
 afii10145 afii10145 uni040F
 uni0229 uni0229 uni0229
@@ -292,7 +292,7 @@ uni01DA uni01DA uni01DA
 uni01DB uni01DB uni01DB
 uni01DC uni01DC uni01DC
 uni01DF uni01DF uni01DF
-Uring Uring uni016E
+afii10021 afii10021 uni0414
 uni045d uni045d uni045D
 uni030F uni030F uni030F
 uni030C uni030C uni030C
@@ -341,6 +341,7 @@ ncommaaccent ncommaaccent uni0146
 uni0206 uni0206 uni0206
 Eng Eng uni014A
 aeacute aeacute uni01FD
+uni01F5 uni01F5 uni01F5
 uni1E02 uni1E02 uni1E02
 Ohungarumlaut Ohungarumlaut uni0150
 acutecomb acutecomb uni0301
@@ -476,7 +477,6 @@ ycircumflex ycircumflex uni0177
 uni0228 uni0228 uni0228
 uni00A0 uni00A0 uni00A0
 Amacron Amacron uni0100
-afii10021 afii10021 uni0414
 uni020D uni020D uni020D
 uni0326 uni0326 uni0326
 uni0306 uni0306 uni0306
@@ -509,12 +509,12 @@ uni1EBD uni1EBD uni1EBD
 uni01F0 uni01F0 uni01F0
 uni01F1 uni01F1 uni01F1
 uni01F4 uni01F4 uni01F4
-uni01F5 uni01F5 uni01F5
-uni01F9 uni01F9 uni01F9
+lcaron lcaron uni013E
+aringacute aringacute uni01FB
 uni01F8 uni01F8 uni01F8
 aogonek aogonek uni0105
 uni00B2 uni00B2 uni00B2
-aringacute aringacute uni01FB
+uni01F9 uni01F9 uni01F9
 scircumflex scircumflex uni015D
 uni00B9 uni00B9 uni00B9
 uni1E41 uni1E41 uni1E41
@@ -555,6 +555,7 @@ afii10027 afii10027 uni0419
 rcommaaccent rcommaaccent uni0157
 afii10023 afii10023 uni0401
 afii10022 afii10022 uni0415
+Uring Uring uni016E
 afii10110 afii10110 uni045E
 emacron emacron uni0113
 uni00B3 uni00B3 uni00B3
@@ -566,7 +567,6 @@ uni031B uni031B uni031B
 uni000D uni000D uni000D
 Ebreve Ebreve uni0114
 uogonek uogonek uni0173
-Ccircumflex Ccircumflex uni0108
 wgrave wgrave uni1E81
 Omacron Omacron uni014C
 Iogonek Iogonek uni012E
