@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="798"/>
+  <advance width="881.0"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="153" y="-209" type="line" smooth="yes"/>
-      <point x="492" y="-176"/>
-      <point x="650" y="-91"/>
-      <point x="650" y="253" type="curve" smooth="yes"/>
-      <point x="650" y="1460" type="line"/>
-      <point x="410" y="1460" type="line"/>
-      <point x="410" y="258" type="line" smooth="yes"/>
-      <point x="410" y="59"/>
-      <point x="336" y="10"/>
-      <point x="144" y="-15" type="curve" smooth="yes"/>
-      <point x="19" y="-31" type="line"/>
-      <point x="41" y="-220" type="line"/>
+      <point x="227.75" y="-209" type="line" smooth="yes"/>
+      <point x="566.75" y="-176"/>
+      <point x="724.75" y="-91"/>
+      <point x="724.75" y="253" type="curve" smooth="yes"/>
+      <point x="724.75" y="1460" type="line"/>
+      <point x="484.75" y="1460" type="line"/>
+      <point x="484.75" y="258" type="line" smooth="yes"/>
+      <point x="484.75" y="59"/>
+      <point x="410.75" y="10"/>
+      <point x="218.75" y="-15" type="curve" smooth="yes"/>
+      <point x="93.75" y="-31" type="line"/>
+      <point x="115.75" y="-220" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>798</integer>
+          <real>881.0</real>
         </dict>
       </dict>
     </dict>

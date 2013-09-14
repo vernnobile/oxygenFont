@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1313"/>
+  <advance width="1359.75"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="26" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="676" y="574" type="line"/>
-      <point x="792" y="714" type="line"/>
-      <point x="1271" y="1460" type="line"/>
-      <point x="1016" y="1460" type="line"/>
-      <point x="668" y="911" type="line"/>
-      <point x="541" y="768" type="line"/>
+      <point x="46.875" y="0" type="line"/>
+      <point x="303.875" y="0" type="line"/>
+      <point x="696.875" y="574" type="line"/>
+      <point x="812.875" y="714" type="line"/>
+      <point x="1291.875" y="1460" type="line"/>
+      <point x="1036.875" y="1460" type="line"/>
+      <point x="688.875" y="911" type="line"/>
+      <point x="561.875" y="768" type="line"/>
     </contour>
     <contour>
-      <point x="1019" y="0" type="line"/>
-      <point x="1292" y="0" type="line"/>
-      <point x="330" y="1460" type="line"/>
-      <point x="58" y="1460" type="line"/>
+      <point x="1039.875" y="0" type="line"/>
+      <point x="1312.875" y="0" type="line"/>
+      <point x="350.875" y="1460" type="line"/>
+      <point x="78.875" y="1460" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1313</integer>
+          <real>1359.75</real>
         </dict>
       </dict>
     </dict>
