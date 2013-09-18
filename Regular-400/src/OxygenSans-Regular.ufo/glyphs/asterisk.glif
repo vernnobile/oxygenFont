@@ -4,25 +4,32 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
+      <point x="596" y="920" type="line"/>
+      <point x="797" y="553" type="line"/>
+      <point x="857" y="592"/>
+      <point x="873" y="602"/>
+      <point x="933" y="641" type="curve"/>
+      <point x="835" y="769"/>
+      <point x="724" y="923"/>
+      <point x="684" y="978" type="curve"/>
+      <point x="1046" y="1062" type="line"/>
+      <point x="1002" y="1221" type="line"/>
+      <point x="648" y="1069" type="line"/>
+      <point x="685" y="1483" type="line"/>
+      <point x="518" y="1483" type="line"/>
+      <point x="553" y="1069" type="line"/>
+      <point x="201" y="1221" type="line"/>
+      <point x="157" y="1062" type="line"/>
+      <point x="514" y="978" type="line"/>
+      <point x="272" y="641" type="line"/>
       <point x="408" y="553" type="line"/>
-      <point x="272" y="639" type="line"/>
-      <point x="514" y="968" type="line"/>
-      <point x="157" y="1050" type="line"/>
-      <point x="201" y="1205" type="line"/>
-      <point x="553" y="1056" type="line"/>
-      <point x="518" y="1460" type="line"/>
-      <point x="685" y="1460" type="line"/>
-      <point x="648" y="1056" type="line"/>
-      <point x="1002" y="1205" type="line"/>
-      <point x="1046" y="1050" type="line"/>
-      <point x="684" y="968" type="line"/>
-      <point x="724" y="914"/>
-      <point x="835" y="764"/>
-      <point x="933" y="639" type="curve"/>
-      <point x="873" y="601"/>
-      <point x="857" y="591"/>
-      <point x="797" y="553" type="curve"/>
-      <point x="596" y="911" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

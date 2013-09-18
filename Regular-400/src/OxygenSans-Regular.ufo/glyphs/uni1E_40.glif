@@ -3,34 +3,28 @@
   <advance width="1802"/>
   <unicode hex="1E40"/>
   <outline>
-    <component base="M"/>
+    <contour>
+      <point x="172" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="364" y="924" type="line"/>
+      <point x="364" y="1237" type="line"/>
+      <point x="824" y="167" type="line"/>
+      <point x="975" y="167" type="line"/>
+      <point x="1438" y="1225" type="line"/>
+      <point x="1438" y="928" type="line"/>
+      <point x="1464" y="0" type="line"/>
+      <point x="1628" y="0" type="line"/>
+      <point x="1587" y="1456" type="line"/>
+      <point x="1377" y="1456" type="line"/>
+      <point x="902" y="369" type="line"/>
+      <point x="429" y="1456" type="line"/>
+      <point x="213" y="1456" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni1E40</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1802</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

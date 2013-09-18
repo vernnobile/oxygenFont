@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0233" format="1">
-  <advance width="1124.0"/>
+  <advance width="1124"/>
   <unicode hex="0233"/>
   <outline>
-    <component base="y"/>
-    <component base="macron" xOffset="75.0" yOffset="9"/>
+    <contour>
+      <point x="286" y="1240" type="line"/>
+      <point x="871" y="1240" type="line"/>
+      <point x="871" y="1362" type="line"/>
+      <point x="286" y="1362" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="-410" type="line"/>
+      <point x="1002" y="1082" type="line"/>
+      <point x="834" y="1082" type="line"/>
+      <point x="529" y="220" type="line"/>
+      <point x="197" y="1082" type="line"/>
+      <point x="28" y="1082" type="line"/>
+      <point x="449" y="31" type="line"/>
+      <point x="293" y="-377" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0233</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1124.0</real>
-        </dict>
       </dict>
     </dict>
   </lib>

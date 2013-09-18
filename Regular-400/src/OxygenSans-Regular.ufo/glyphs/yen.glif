@@ -4,47 +4,38 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="1030" y="284" type="line"/>
-      <point x="1030" y="388" type="line"/>
-      <point x="667" y="388" type="line"/>
-      <point x="667" y="575" type="line"/>
-      <point x="1029" y="575" type="line"/>
-      <point x="1029" y="679" type="line"/>
-      <point x="223" y="679" type="line"/>
-      <point x="223" y="575" type="line"/>
-      <point x="603" y="575" type="line"/>
-      <point x="603" y="388" type="line"/>
-      <point x="221" y="388" type="line"/>
-      <point x="221" y="284" type="line"/>
+      <point x="1030" y="291" type="line"/>
+      <point x="1030" y="398" type="line"/>
+      <point x="721" y="398" type="line"/>
+      <point x="721" y="510" type="line"/>
+      <point x="764" y="589" type="line"/>
+      <point x="1029" y="589" type="line"/>
+      <point x="1029" y="696" type="line"/>
+      <point x="821" y="696" type="line"/>
+      <point x="1230" y="1456" type="line"/>
+      <point x="1056" y="1456" type="line"/>
+      <point x="653" y="696" type="line"/>
+      <point x="613" y="696" type="line"/>
+      <point x="194" y="1456" type="line"/>
+      <point x="20" y="1456" type="line"/>
+      <point x="441" y="696" type="line"/>
+      <point x="223" y="696" type="line"/>
+      <point x="223" y="589" type="line"/>
+      <point x="500" y="589" type="line"/>
+      <point x="545" y="508" type="line"/>
+      <point x="545" y="398" type="line"/>
+      <point x="221" y="398" type="line"/>
+      <point x="221" y="291" type="line"/>
+      <point x="545" y="291" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="291" type="line"/>
     </contour>
-    <component base="Y"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>yen</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1234</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

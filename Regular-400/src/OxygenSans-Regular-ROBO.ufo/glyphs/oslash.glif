@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="1165"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="263" y="-162" type="line"/>
+      <point x="988" y="1200" type="line"/>
+      <point x="917" y="1238" type="line"/>
+      <point x="198" y="-124" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1165</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

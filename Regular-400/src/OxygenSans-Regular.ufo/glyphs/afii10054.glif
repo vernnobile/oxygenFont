@@ -3,34 +3,51 @@
   <advance width="1193"/>
   <unicode hex="0405"/>
   <outline>
-    <component base="S"/>
+    <contour>
+      <point x="616" y="123" type="curve" smooth="yes"/>
+      <point x="490" y="123"/>
+      <point x="325" y="171"/>
+      <point x="241" y="316" type="curve"/>
+      <point x="127" y="243" type="line"/>
+      <point x="163" y="123"/>
+      <point x="337" y="-20"/>
+      <point x="619" y="-20" type="curve" smooth="yes"/>
+      <point x="856" y="-20"/>
+      <point x="1118" y="74"/>
+      <point x="1118" y="381" type="curve" smooth="yes"/>
+      <point x="1118" y="709"/>
+      <point x="899" y="735"/>
+      <point x="517" y="892" type="curve" smooth="yes"/>
+      <point x="393" y="942"/>
+      <point x="316" y="978"/>
+      <point x="316" y="1096" type="curve" smooth="yes"/>
+      <point x="316" y="1292"/>
+      <point x="459" y="1334"/>
+      <point x="639" y="1334" type="curve" smooth="yes"/>
+      <point x="789" y="1334"/>
+      <point x="914" y="1252"/>
+      <point x="966" y="1146" type="curve"/>
+      <point x="1086" y="1227" type="line"/>
+      <point x="998" y="1402"/>
+      <point x="828" y="1476"/>
+      <point x="633" y="1476" type="curve" smooth="yes"/>
+      <point x="376" y="1476"/>
+      <point x="143" y="1389"/>
+      <point x="143" y="1081" type="curve" smooth="yes"/>
+      <point x="143" y="817"/>
+      <point x="340" y="793"/>
+      <point x="684" y="651" type="curve" smooth="yes"/>
+      <point x="851" y="582"/>
+      <point x="953" y="531"/>
+      <point x="953" y="380" type="curve" smooth="yes"/>
+      <point x="953" y="186"/>
+      <point x="804" y="123"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10054</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1193</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -3,35 +3,47 @@
   <advance width="1651"/>
   <unicode hex="01C8"/>
   <outline>
-    <component base="L"/>
-    <component base="j" xOffset="1124"/>
+    <contour>
+      <point x="1248" y="1397" type="curve" smooth="yes"/>
+      <point x="1248" y="1333"/>
+      <point x="1293" y="1288"/>
+      <point x="1357" y="1288" type="curve" smooth="yes"/>
+      <point x="1420" y="1288"/>
+      <point x="1466" y="1333"/>
+      <point x="1466" y="1397" type="curve" smooth="yes"/>
+      <point x="1466" y="1462"/>
+      <point x="1420" y="1506"/>
+      <point x="1357" y="1506" type="curve" smooth="yes"/>
+      <point x="1293" y="1506"/>
+      <point x="1248" y="1462"/>
+    </contour>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="1062" y="0" type="line"/>
+      <point x="1066" y="137" type="line"/>
+      <point x="356" y="137" type="line"/>
+      <point x="356" y="1456" type="line"/>
+      <point x="180" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1077" y="-378" type="line"/>
+      <point x="1136" y="-371" type="line" smooth="yes"/>
+      <point x="1356" y="-344"/>
+      <point x="1436" y="-269"/>
+      <point x="1436" y="-10" type="curve" smooth="yes"/>
+      <point x="1436" y="1092" type="line"/>
+      <point x="1272" y="1092" type="line"/>
+      <point x="1272" y="21" type="line" smooth="yes"/>
+      <point x="1272" y="-169"/>
+      <point x="1269" y="-205"/>
+      <point x="1120" y="-235" type="curve" smooth="yes"/>
+      <point x="1058" y="-247" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni01C8</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1651</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

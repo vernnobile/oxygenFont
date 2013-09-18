@@ -3,35 +3,53 @@
   <advance width="706"/>
   <unicode hex="0407"/>
   <outline>
-    <component base="afii10055"/>
-    <component base="dieresis" xOffset="39" yOffset="384"/>
+    <contour>
+      <point x="594" y="1772" type="curve" smooth="yes"/>
+      <point x="541" y="1772"/>
+      <point x="502" y="1733"/>
+      <point x="502" y="1676" type="curve" smooth="yes"/>
+      <point x="502" y="1620"/>
+      <point x="541" y="1580"/>
+      <point x="594" y="1580" type="curve" smooth="yes"/>
+      <point x="647" y="1580"/>
+      <point x="687" y="1620"/>
+      <point x="687" y="1676" type="curve" smooth="yes"/>
+      <point x="687" y="1733"/>
+      <point x="647" y="1772"/>
+    </contour>
+    <contour>
+      <point x="139" y="1676" type="curve" smooth="yes"/>
+      <point x="139" y="1620"/>
+      <point x="178" y="1580"/>
+      <point x="232" y="1580" type="curve" smooth="yes"/>
+      <point x="284" y="1580"/>
+      <point x="325" y="1620"/>
+      <point x="325" y="1676" type="curve" smooth="yes"/>
+      <point x="325" y="1733"/>
+      <point x="284" y="1772"/>
+      <point x="232" y="1772" type="curve" smooth="yes"/>
+      <point x="178" y="1772"/>
+      <point x="139" y="1733"/>
+    </contour>
+    <contour>
+      <point x="130" y="1496" type="line"/>
+      <point x="130" y="1387" type="line"/>
+      <point x="322" y="1387" type="line"/>
+      <point x="322" y="110" type="line"/>
+      <point x="130" y="110" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="688" y="110" type="line"/>
+      <point x="498" y="110" type="line"/>
+      <point x="498" y="1387" type="line"/>
+      <point x="688" y="1387" type="line"/>
+      <point x="688" y="1496" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>afii10056</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>706</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

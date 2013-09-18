@@ -1,59 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1360"/>
+  <advance width="1326"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="52.0" y="0.0" type="line"/>
-      <point x="232.0" y="0.0" type="line"/>
-      <point x="403.0" y="470.0" type="line"/>
-      <point x="962.0" y="470.0" type="line"/>
-      <point x="1134.0" y="0.0" type="line"/>
-      <point x="1308.0" y="0.0" type="line"/>
-      <point x="774.0" y="1460.0" type="line"/>
-      <point x="587.0" y="1460.0" type="line"/>
+      <point x="920" y="587" type="line"/>
+      <point x="412" y="587" type="line"/>
+      <point x="665" y="1280" type="line"/>
     </contour>
     <contour>
-      <point x="922.0" y="592.0" type="line"/>
-      <point x="444.0" y="592.0" type="line"/>
-      <point x="682.0" y="1288.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="681" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="1217.0" y="0.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="679.0" y="1460.0" type="move" name="top"/>
+      <point x="20" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="371" y="462" type="line"/>
+      <point x="960" y="462" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="1306" y="0" type="line"/>
+      <point x="749" y="1456" type="line"/>
+      <point x="578" y="1456" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>A</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1360</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

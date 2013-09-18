@@ -3,35 +3,35 @@
   <advance width="1360"/>
   <unicode hex="00C2"/>
   <outline>
-    <component base="A"/>
-    <component base="circumflex.cap" xOffset="320.0" yOffset="492.0"/>
+    <contour>
+      <point x="777" y="1849" type="line"/>
+      <point x="592" y="1849" type="line"/>
+      <point x="377" y="1550" type="line"/>
+      <point x="506" y="1550" type="line"/>
+      <point x="679" y="1751" type="line"/>
+      <point x="868" y="1550" type="line"/>
+      <point x="996" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="587" type="line"/>
+      <point x="412" y="587" type="line"/>
+      <point x="665" y="1280" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="371" y="462" type="line"/>
+      <point x="960" y="462" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="1306" y="0" type="line"/>
+      <point x="749" y="1456" type="line"/>
+      <point x="578" y="1456" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Acircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1360</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

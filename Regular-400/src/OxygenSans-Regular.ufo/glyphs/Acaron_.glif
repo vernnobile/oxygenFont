@@ -2,35 +2,35 @@
 <glyph name="Acaron" format="1">
   <advance width="1360"/>
   <outline>
-    <component base="A"/>
-    <component base="caron.cap" xOffset="304.0" yOffset="512.0"/>
+    <contour>
+      <point x="580" y="1609" type="line"/>
+      <point x="765" y="1609" type="line"/>
+      <point x="970" y="1909" type="line"/>
+      <point x="851" y="1909" type="line"/>
+      <point x="678" y="1707" type="line"/>
+      <point x="489" y="1909" type="line"/>
+      <point x="371" y="1909" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="587" type="line"/>
+      <point x="412" y="587" type="line"/>
+      <point x="665" y="1280" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="371" y="462" type="line"/>
+      <point x="960" y="462" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="1306" y="0" type="line"/>
+      <point x="749" y="1456" type="line"/>
+      <point x="578" y="1456" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Acaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1360</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

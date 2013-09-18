@@ -3,35 +3,28 @@
   <advance width="1234"/>
   <unicode hex="00DD"/>
   <outline>
-    <component base="Y"/>
-    <component base="acute.cap" xOffset="419" yOffset="512"/>
+    <contour>
+      <point x="531" y="1570" type="line"/>
+      <point x="678" y="1570" type="line"/>
+      <point x="990" y="1869" type="line"/>
+      <point x="784" y="1869" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="0" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="721" y="510" type="line"/>
+      <point x="1230" y="1456" type="line"/>
+      <point x="1056" y="1456" type="line"/>
+      <point x="633" y="659" type="line"/>
+      <point x="194" y="1456" type="line"/>
+      <point x="20" y="1456" type="line"/>
+      <point x="545" y="508" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Yacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1234</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

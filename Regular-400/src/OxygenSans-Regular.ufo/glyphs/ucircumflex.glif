@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ucircumflex" format="1">
-  <advance width="1149.96135266"/>
+  <advance width="1150"/>
   <unicode hex="00FB"/>
   <outline>
-    <component base="u"/>
-    <component base="circumflex" xOffset="211" yOffset="48"/>
+    <contour>
+      <point x="279" y="1214" type="line"/>
+      <point x="390" y="1214" type="line"/>
+      <point x="588" y="1424" type="line"/>
+      <point x="782" y="1214" type="line"/>
+      <point x="894" y="1214" type="line"/>
+      <point x="686" y="1515" type="line"/>
+      <point x="499" y="1515" type="line"/>
+    </contour>
+    <contour>
+      <point x="1020" y="1083" type="line"/>
+      <point x="856" y="1083" type="line"/>
+      <point x="856" y="476" type="line" smooth="yes"/>
+      <point x="856" y="269"/>
+      <point x="776" y="107"/>
+      <point x="539" y="107" type="curve" smooth="yes"/>
+      <point x="369" y="107"/>
+      <point x="303" y="222"/>
+      <point x="303" y="404" type="curve" smooth="yes"/>
+      <point x="303" y="1083" type="line"/>
+      <point x="139" y="1083" type="line"/>
+      <point x="139" y="423" type="line" smooth="yes"/>
+      <point x="139" y="128"/>
+      <point x="275" y="-20"/>
+      <point x="519" y="-20" type="curve" smooth="yes"/>
+      <point x="702" y="-20"/>
+      <point x="785" y="47"/>
+      <point x="861" y="163" type="curve"/>
+      <point x="878" y="1" type="line"/>
+      <point x="1020" y="1" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ucircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1149.96135266</real>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -4,40 +4,15 @@
   <outline>
     <contour>
       <point x="211" y="1091" type="line"/>
-      <point x="796" y="1301" type="line"/>
-      <point x="796" y="1420" type="line"/>
-      <point x="211" y="1210" type="line"/>
-    </contour>
-    <contour>
-      <point x="489" y="1254" type="move" name="_mid2"/>
+      <point x="796" y="1306" type="line"/>
+      <point x="796" y="1428" type="line"/>
+      <point x="211" y="1213" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>slashbar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1056</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

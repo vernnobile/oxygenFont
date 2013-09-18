@@ -3,34 +3,23 @@
   <advance width="812"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="quotedblright" xScale="-1.0" xyScale="-2.22044604925e-16" yxScale="2.22044604925e-16" yScale="-1.0" xOffset="797" yOffset="2408"/>
+    <contour>
+      <point x="707" y="1460" type="line"/>
+      <point x="592" y="1460" type="line"/>
+      <point x="410" y="935" type="line"/>
+      <point x="604" y="935" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="1460" type="line"/>
+      <point x="269" y="1460" type="line"/>
+      <point x="87" y="935" type="line"/>
+      <point x="281" y="935" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotedblleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>812</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="733.237031239"/>
+  <advance width="733"/>
   <unicode hex="0163"/>
   <outline>
-    <component base="t"/>
-    <component base="commaaccent" xOffset="198.83277592" yOffset="-367.0"/>
+    <contour>
+      <point x="541" y="-8" type="curve" smooth="yes"/>
+      <point x="610" y="-8" type="line"/>
+      <point x="618" y="109" type="line"/>
+      <point x="534" y="113" type="line" smooth="yes"/>
+      <point x="371" y="113"/>
+      <point x="370" y="149"/>
+      <point x="370" y="319" type="curve" smooth="yes"/>
+      <point x="370" y="325" type="line"/>
+      <point x="370" y="980" type="line"/>
+      <point x="608" y="980" type="line"/>
+      <point x="608" y="1083" type="line"/>
+      <point x="370" y="1083" type="line"/>
+      <point x="370" y="1382" type="line"/>
+      <point x="237" y="1372" type="line"/>
+      <point x="210" y="1083" type="line"/>
+      <point x="38" y="1073" type="line"/>
+      <point x="34" y="980" type="line"/>
+      <point x="206" y="980" type="line"/>
+      <point x="206" y="325" type="line" smooth="yes"/>
+      <point x="206" y="69"/>
+      <point x="242" y="-8"/>
+    </contour>
+    <contour>
+      <point x="336" y="-657" type="curve"/>
+      <point x="433" y="-657" type="line"/>
+      <point x="433" y="-657"/>
+      <point x="550" y="-204"/>
+      <point x="550" y="-174" type="curve" smooth="yes"/>
+      <point x="550" y="-133" type="line"/>
+      <point x="377" y="-133" type="line"/>
+      <point x="377" y="-208"/>
+      <point x="336" y="-657"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>tcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>733.237031239</real>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,37 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="872.0"/>
+  <advance width="872"/>
   <unicode hex="017E"/>
   <outline>
-    <component base="z"/>
-    <component base="caron" xOffset="101.0" yOffset="48"/>
+    <contour>
+      <point x="377" y="1182" type="line"/>
+      <point x="562" y="1182" type="line"/>
+      <point x="807" y="1516" type="line"/>
+      <point x="688" y="1516" type="line"/>
+      <point x="467" y="1280" type="line"/>
+      <point x="263" y="1516" type="line"/>
+      <point x="145" y="1516" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="906" y="127" type="line"/>
+      <point x="277" y="127" type="line"/>
+      <point x="905" y="968" type="line"/>
+      <point x="905" y="1084" type="line"/>
+      <point x="115" y="1084" type="line"/>
+      <point x="121" y="962" type="line"/>
+      <point x="732" y="962" type="line"/>
+      <point x="94" y="110" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>zcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>872.0</real>
-        </dict>
       </dict>
     </dict>
   </lib>

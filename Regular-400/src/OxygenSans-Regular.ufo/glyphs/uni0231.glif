@@ -3,35 +3,51 @@
   <advance width="1165"/>
   <unicode hex="0231"/>
   <outline>
-    <component base="uni022F"/>
-    <component base="uni0304" xOffset="66" yOffset="363"/>
+    <contour>
+      <point x="162" y="1594" type="line"/>
+      <point x="747" y="1594" type="line"/>
+      <point x="747" y="1716" type="line"/>
+      <point x="162" y="1716" type="line"/>
+    </contour>
+    <contour>
+      <point x="515" y="1212" type="line"/>
+      <point x="666" y="1212" type="line"/>
+      <point x="666" y="1403" type="line"/>
+      <point x="515" y="1403" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="-20" type="curve" smooth="yes"/>
+      <point x="885" y="-20"/>
+      <point x="1066" y="216"/>
+      <point x="1066" y="542" type="curve" smooth="yes"/>
+      <point x="1066" y="876"/>
+      <point x="900" y="1106"/>
+      <point x="581" y="1106" type="curve" smooth="yes"/>
+      <point x="265" y="1106"/>
+      <point x="97" y="876"/>
+      <point x="97" y="542" type="curve" smooth="yes"/>
+      <point x="97" y="216"/>
+      <point x="269" y="-20"/>
+    </contour>
+    <contour>
+      <point x="581" y="106" type="curve" smooth="yes"/>
+      <point x="360" y="106"/>
+      <point x="267" y="294"/>
+      <point x="267" y="541" type="curve" smooth="yes"/>
+      <point x="267" y="794"/>
+      <point x="361" y="980"/>
+      <point x="581" y="980" type="curve" smooth="yes"/>
+      <point x="807" y="980"/>
+      <point x="896" y="793"/>
+      <point x="896" y="540" type="curve" smooth="yes"/>
+      <point x="896" y="293"/>
+      <point x="808" y="106"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0231</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1165</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

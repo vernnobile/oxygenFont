@@ -1,52 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1496"/>
+  <advance width="1461"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="172" y="0" type="line"/>
-      <point x="335" y="0" type="line"/>
-      <point x="335" y="781" type="line"/>
-      <point x="321" y="1235" type="line"/>
-      <point x="1151" y="0" type="line"/>
-      <point x="1332" y="0" type="line"/>
-      <point x="1332" y="1460" type="line"/>
-      <point x="1170" y="1460" type="line"/>
-      <point x="1170" y="628" type="line"/>
-      <point x="1179" y="217" type="line"/>
-      <point x="346" y="1460" type="line"/>
-      <point x="172" y="1460" type="line"/>
-    </contour>
-    <contour>
-      <point x="780" y="1460" type="move" name="top"/>
+      <point x="180" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="761" type="line"/>
+      <point x="329" y="1226" type="line"/>
+      <point x="1100" y="0" type="line"/>
+      <point x="1281" y="0" type="line"/>
+      <point x="1281" y="1456" type="line"/>
+      <point x="1119" y="1456" type="line"/>
+      <point x="1119" y="644" type="line"/>
+      <point x="1128" y="222" type="line"/>
+      <point x="354" y="1456" type="line"/>
+      <point x="180" y="1456" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>N</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1496</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

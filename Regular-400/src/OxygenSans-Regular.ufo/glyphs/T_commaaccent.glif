@@ -3,35 +3,25 @@
   <advance width="1115"/>
   <unicode hex="0162"/>
   <outline>
-    <component base="T"/>
-    <component base="cedilla" xOffset="272"/>
+    <contour>
+      <point x="687" y="0" type="line"/>
+      <point x="687" y="1319" type="line"/>
+      <point x="1166" y="1319" type="line"/>
+      <point x="1166" y="1456" type="line"/>
+      <point x="34" y="1456" type="line"/>
+      <point x="34" y="1319" type="line"/>
+      <point x="511" y="1319" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="366" y="-430" type="line"/>
+      <point x="530" y="-456" type="line"/>
+      <point x="595" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Tcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1115</integer>
-        </dict>
       </dict>
     </dict>
   </lib>
