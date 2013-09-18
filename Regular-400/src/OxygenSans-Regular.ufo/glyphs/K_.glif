@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1258"/>
+  <advance width="1264"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="166" y="0" type="line"/>
-      <point x="342" y="0" type="line"/>
-      <point x="342" y="601" type="line"/>
-      <point x="472" y="721" type="line"/>
-      <point x="1026" y="0" type="line"/>
-      <point x="1232" y="0" type="line"/>
-      <point x="604" y="811" type="line"/>
-      <point x="1202" y="1460" type="line"/>
-      <point x="996" y="1460" type="line"/>
-      <point x="342" y="761" type="line"/>
-      <point x="342" y="1460" type="line"/>
-      <point x="166" y="1460" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="601" type="line"/>
+      <point x="478" y="721" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="1238" y="0" type="line"/>
+      <point x="610" y="811" type="line"/>
+      <point x="1208" y="1460" type="line"/>
+      <point x="1002" y="1460" type="line"/>
+      <point x="348" y="761" type="line"/>
+      <point x="348" y="1460" type="line"/>
+      <point x="172" y="1460" type="line"/>
     </contour>
     <contour>
-      <point x="643" y="0" type="move" name="bot"/>
+      <point x="649" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="640" y="1460" type="move" name="top"/>
+      <point x="646" y="1460" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1258</integer>
+          <integer>1264</integer>
         </dict>
       </dict>
     </dict>

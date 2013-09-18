@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="733.237031239"/>
+  <advance width="732"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="593" y="-8" type="curve" smooth="yes"/>
-      <point x="662" y="-8" type="line"/>
-      <point x="670" y="106" type="line"/>
-      <point x="586" y="110" type="line"/>
-      <point x="410" y="117"/>
-      <point x="377" y="146"/>
-      <point x="377" y="317" type="curve" smooth="yes"/>
-      <point x="377" y="954" type="line"/>
-      <point x="657" y="954" type="line"/>
-      <point x="657" y="1056" type="line"/>
-      <point x="377" y="1056" type="line"/>
-      <point x="377" y="1348" type="line"/>
-      <point x="244" y="1338" type="line"/>
-      <point x="217" y="1056" type="line"/>
-      <point x="54" y="1047" type="line"/>
-      <point x="50" y="954" type="line"/>
-      <point x="213" y="954" type="line"/>
-      <point x="213" y="317" type="line" smooth="yes"/>
-      <point x="213" y="67"/>
-      <point x="294" y="-8"/>
+      <point x="582" y="-8" type="curve" smooth="yes"/>
+      <point x="651" y="-8" type="line"/>
+      <point x="659" y="106" type="line"/>
+      <point x="575" y="110" type="line"/>
+      <point x="399" y="117"/>
+      <point x="366" y="146"/>
+      <point x="366" y="317" type="curve" smooth="yes"/>
+      <point x="366" y="954" type="line"/>
+      <point x="646" y="954" type="line"/>
+      <point x="646" y="1056" type="line"/>
+      <point x="366" y="1056" type="line"/>
+      <point x="366" y="1348" type="line"/>
+      <point x="233" y="1338" type="line"/>
+      <point x="206" y="1056" type="line"/>
+      <point x="43" y="1047" type="line"/>
+      <point x="39" y="954" type="line"/>
+      <point x="202" y="954" type="line"/>
+      <point x="202" y="317" type="line" smooth="yes"/>
+      <point x="202" y="67"/>
+      <point x="283" y="-8"/>
     </contour>
     <contour>
-      <point x="459.83277592" y="0.0" type="move" name="bot"/>
+      <point x="448.83277592" y="0.0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="298" y="616" type="move" name="mid"/>
+      <point x="287" y="616" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="312" y="1350" type="move" name="top"/>
+      <point x="301" y="1350" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -86,7 +86,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>733.237031239</real>
+          <integer>732</integer>
         </dict>
       </dict>
     </dict>

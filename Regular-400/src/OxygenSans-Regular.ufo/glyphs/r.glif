@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="749"/>
+  <advance width="751"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="149" y="0" type="line"/>
-      <point x="313" y="0" type="line"/>
-      <point x="313" y="599" type="line" smooth="yes"/>
-      <point x="313" y="783"/>
-      <point x="441" y="936"/>
-      <point x="626" y="936" type="curve" smooth="yes"/>
-      <point x="648" y="936"/>
-      <point x="669" y="933"/>
-      <point x="694" y="928" type="curve"/>
-      <point x="701" y="1064" type="line"/>
-      <point x="678" y="1068"/>
-      <point x="657" y="1069"/>
-      <point x="627" y="1069" type="curve" smooth="yes"/>
-      <point x="509" y="1069"/>
-      <point x="383" y="1009"/>
-      <point x="298" y="848" type="curve"/>
-      <point x="280" y="1056" type="line"/>
-      <point x="149" y="1056" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="316" y="599" type="line" smooth="yes"/>
+      <point x="316" y="783"/>
+      <point x="444" y="936"/>
+      <point x="629" y="936" type="curve" smooth="yes"/>
+      <point x="651" y="936"/>
+      <point x="672" y="933"/>
+      <point x="697" y="928" type="curve"/>
+      <point x="704" y="1064" type="line"/>
+      <point x="681" y="1068"/>
+      <point x="660" y="1069"/>
+      <point x="630" y="1069" type="curve" smooth="yes"/>
+      <point x="512" y="1069"/>
+      <point x="386" y="1009"/>
+      <point x="301" y="848" type="curve"/>
+      <point x="283" y="1056" type="line"/>
+      <point x="152" y="1056" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="0" type="move" name="bot"/>
+      <point x="265" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="442" y="1056" type="move" name="top"/>
+      <point x="445" y="1056" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -81,7 +81,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>749</integer>
+          <integer>751</integer>
         </dict>
       </dict>
     </dict>

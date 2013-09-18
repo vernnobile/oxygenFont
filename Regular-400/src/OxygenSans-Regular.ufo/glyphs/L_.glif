@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1068"/>
+  <advance width="1074"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="166" y="0" type="line"/>
-      <point x="1012" y="0" type="line"/>
-      <point x="1016" y="134" type="line"/>
-      <point x="342" y="134" type="line"/>
-      <point x="342" y="1460" type="line"/>
-      <point x="166" y="1460" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="1018" y="0" type="line"/>
+      <point x="1022" y="134" type="line"/>
+      <point x="348" y="134" type="line"/>
+      <point x="348" y="1460" type="line"/>
+      <point x="172" y="1460" type="line"/>
     </contour>
     <contour>
-      <point x="603" y="0" type="move" name="bot"/>
+      <point x="609" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="717" y="829" type="move" name="mid"/>
+      <point x="723" y="829" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="410" y="1460" type="move" name="top"/>
+      <point x="416" y="1460" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="256" y="776" type="move" name="mid2"/>
+      <point x="262" y="776" type="move" name="mid2"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1068</integer>
+          <integer>1074</integer>
         </dict>
       </dict>
     </dict>
