@@ -2775,7 +2775,7 @@ EndChar
 StartChar: s
 Encoding: 115 115 105
 Width: 1013
-Flags: W
+Flags: WO
 HStem: -20 126<328.888 676.458> 980 126<345.314 683.966>
 VStem: 127 157<724.628 922.306> 743 156<169.02 397.092 824.627 921.847>
 LayerCount: 2
@@ -2967,7 +2967,7 @@ EndChar
 StartChar: braceleft
 Encoding: 123 123 113
 Width: 901
-Flags: W
+Flags: HW
 HStem: -154 122<598.284 716> 612 149<183 324.371> 1409 125<590.347 716>
 VStem: 382 176<5.15236 553.865 820.701 1376.99>
 LayerCount: 2
@@ -3011,7 +3011,7 @@ EndChar
 StartChar: braceright
 Encoding: 125 125 115
 Width: 901
-Flags: W
+Flags: HW
 HStem: -154 125<223 348.653> 619 150<614.629 756> 1412 122<223 340.716>
 VStem: 381 176<3.29151 560.013 826.81 1374.85>
 LayerCount: 2
@@ -3039,7 +3039,7 @@ EndChar
 StartChar: asciitilde
 Encoding: 126 126 116
 Width: 1204
-Flags: W
+Flags: HW
 HStem: 505 131<692.884 956.412> 653 132<252.487 533.399>
 LayerCount: 2
 Fore
