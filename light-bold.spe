@@ -3,21 +3,22 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="120823_1018_beta_" superpolator="1" />
+<version format="110221_1144_developer_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="200.0" />
-<data name="previewtext" value="Rifonomguolo" />
+<data name="previewtext" value="Sola" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="0.392699081699" />
+<data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="Regular-400/src/OxygenSans-Regular-ROBO.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for Regular-400/src/OxygenSans-Regular-ROBO.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
