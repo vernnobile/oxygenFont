@@ -9,7 +9,7 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="200.0" />
-<data name="previewtext" value="Sola" />
+<data name="previewtext" value="Glos" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
@@ -32,4 +32,16 @@
 </master>
 
 <!-- instance definitions -->
+<instance familyname="Oxygen-Sans" sequence="" stylename="--0_xx-367_43">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="-800" />
+</location>
+</instance>
+<instance familyname="Oxygen-Sans" sequence="" stylename="--0_xx2042_17">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="2600" />
+</location>
+</instance>
 </designspace>
