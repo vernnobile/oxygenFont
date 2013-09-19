@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="1">
+  <advance width="1233"/>
+  <unicode hex="0393"/>
+  <outline>
+    <contour>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="1511" type="line"/>
+      <point x="1103" y="1509" type="line"/>
+      <point x="1098" y="1411" type="line"/>
+      <point x="315" y="1412" type="line"/>
+      <point x="358" y="1452" type="line"/>
+      <point x="358" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gamma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1233</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

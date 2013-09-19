@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040F" format="1">
+  <advance width="1553"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="1325" y="1517" type="line"/>
+      <point x="1325" y="7" type="line"/>
+      <point x="230" y="7" type="line"/>
+      <point x="230" y="1517" type="line"/>
+      <point x="354" y="1517" type="line"/>
+      <point x="354" y="60" type="line"/>
+      <point x="293" y="98" type="line"/>
+      <point x="1257" y="98" type="line"/>
+      <point x="1201" y="60" type="line"/>
+      <point x="1201" y="1517" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="-300" type="line"/>
+      <point x="733" y="40" type="line"/>
+      <point x="858" y="40" type="line"/>
+      <point x="858" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni040F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1553</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
