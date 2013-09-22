@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ncommaaccent" format="1">
-  <advance width="1168"/>
+  <advance width="1164"/>
   <unicode hex="0146"/>
   <outline>
     <component base="n"/>
-    <component base="uni0326" xOffset="418"/>
+    <component base="uni0326" xOffset="412.0" yOffset="-14.85"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1168</integer>
+          <integer>1164</integer>
         </dict>
       </dict>
     </dict>

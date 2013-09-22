@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="652"/>
+  <advance width="633"/>
   <unicode hex="0142"/>
   <outline>
     <component base="l"/>
-    <component base="slashbar" xOffset="-250" yOffset="-358"/>
+    <component base="slashbar" xOffset="-250.0" yOffset="-339.475"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>652</integer>
+          <integer>633</integer>
         </dict>
       </dict>
     </dict>

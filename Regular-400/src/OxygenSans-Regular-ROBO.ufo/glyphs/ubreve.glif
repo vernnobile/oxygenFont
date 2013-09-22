@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1149.96135266"/>
+  <advance width="1164"/>
   <unicode hex="016D"/>
   <outline>
     <component base="u"/>
-    <component base="breve" xOffset="221" yOffset="48"/>
+    <component base="breve" xOffset="235.0" yOffset="77.625"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1149.96135266</real>
+          <integer>1164</integer>
         </dict>
       </dict>
     </dict>
