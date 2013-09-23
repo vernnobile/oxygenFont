@@ -3,54 +3,35 @@
   <advance width="2049"/>
   <unicode hex="1E84"/>
   <outline>
-    <contour>
-      <point x="1210" y="1772" type="curve" smooth="yes"/>
-      <point x="1157" y="1772"/>
-      <point x="1118" y="1733"/>
-      <point x="1118" y="1676" type="curve" smooth="yes"/>
-      <point x="1118" y="1620"/>
-      <point x="1157" y="1580"/>
-      <point x="1210" y="1580" type="curve" smooth="yes"/>
-      <point x="1263" y="1580"/>
-      <point x="1303" y="1620"/>
-      <point x="1303" y="1676" type="curve" smooth="yes"/>
-      <point x="1303" y="1733"/>
-      <point x="1263" y="1772"/>
-    </contour>
-    <contour>
-      <point x="755" y="1676" type="curve" smooth="yes"/>
-      <point x="755" y="1620"/>
-      <point x="794" y="1580"/>
-      <point x="848" y="1580" type="curve" smooth="yes"/>
-      <point x="900" y="1580"/>
-      <point x="941" y="1620"/>
-      <point x="941" y="1676" type="curve" smooth="yes"/>
-      <point x="941" y="1733"/>
-      <point x="900" y="1772"/>
-      <point x="848" y="1772" type="curve" smooth="yes"/>
-      <point x="794" y="1772"/>
-      <point x="755" y="1733"/>
-    </contour>
-    <contour>
-      <point x="399" y="0" type="line"/>
-      <point x="566" y="0" type="line"/>
-      <point x="908" y="1209" type="line"/>
-      <point x="1237" y="0" type="line"/>
-      <point x="1408" y="0" type="line"/>
-      <point x="1741" y="1456" type="line"/>
-      <point x="1571" y="1456" type="line"/>
-      <point x="1321" y="230" type="line"/>
-      <point x="991" y="1425" type="line"/>
-      <point x="821" y="1425" type="line"/>
-      <point x="486" y="229" type="line"/>
-      <point x="221" y="1456" type="line"/>
-      <point x="54" y="1456" type="line"/>
-    </contour>
+    <component base="W"/>
+    <component base="dieresis" xOffset="655" yOffset="384"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Wdieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2049</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

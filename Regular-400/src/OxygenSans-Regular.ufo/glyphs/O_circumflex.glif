@@ -1,50 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflex" format="1">
-  <advance width="1596"/>
+  <advance width="1523"/>
   <unicode hex="00D4"/>
   <outline>
-    <contour>
-      <point x="900" y="1849" type="line"/>
-      <point x="715" y="1849" type="line"/>
-      <point x="500" y="1550" type="line"/>
-      <point x="629" y="1550" type="line"/>
-      <point x="802" y="1751" type="line"/>
-      <point x="991" y="1550" type="line"/>
-      <point x="1119" y="1550" type="line"/>
-    </contour>
-    <contour>
-      <point x="764" y="-20" type="curve" smooth="yes"/>
-      <point x="1206" y="-20"/>
-      <point x="1409" y="275"/>
-      <point x="1409" y="718" type="curve" smooth="yes"/>
-      <point x="1409" y="1181"/>
-      <point x="1194" y="1476"/>
-      <point x="765" y="1476" type="curve" smooth="yes"/>
-      <point x="327" y="1476"/>
-      <point x="113" y="1184"/>
-      <point x="113" y="721" type="curve" smooth="yes"/>
-      <point x="113" y="269"/>
-      <point x="317" y="-20"/>
-    </contour>
-    <contour>
-      <point x="762" y="122" type="curve" smooth="yes"/>
-      <point x="412" y="122"/>
-      <point x="290" y="365"/>
-      <point x="290" y="720" type="curve" smooth="yes"/>
-      <point x="290" y="1091"/>
-      <point x="424" y="1334"/>
-      <point x="764" y="1334" type="curve" smooth="yes"/>
-      <point x="1105" y="1334"/>
-      <point x="1233" y="1089"/>
-      <point x="1233" y="720" type="curve" smooth="yes"/>
-      <point x="1233" y="365"/>
-      <point x="1112" y="122"/>
-    </contour>
+    <component base="O"/>
+    <component base="circumflex.cap" xOffset="406.0" yOffset="490.25"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ocircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1523</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

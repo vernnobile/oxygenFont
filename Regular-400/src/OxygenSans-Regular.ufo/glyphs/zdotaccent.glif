@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="1">
-  <advance width="872"/>
+  <advance width="990"/>
   <unicode hex="017C"/>
   <outline>
-    <contour>
-      <point x="392" y="1227" type="line"/>
-      <point x="543" y="1227" type="line"/>
-      <point x="543" y="1402" type="line"/>
-      <point x="392" y="1402" type="line"/>
-    </contour>
-    <contour>
-      <point x="94" y="0" type="line"/>
-      <point x="914" y="0" type="line"/>
-      <point x="906" y="127" type="line"/>
-      <point x="277" y="127" type="line"/>
-      <point x="905" y="968" type="line"/>
-      <point x="905" y="1084" type="line"/>
-      <point x="115" y="1084" type="line"/>
-      <point x="121" y="962" type="line"/>
-      <point x="732" y="962" type="line"/>
-      <point x="94" y="110" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="dotaccent" xOffset="347.0" yOffset="78.275"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zdotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>990</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

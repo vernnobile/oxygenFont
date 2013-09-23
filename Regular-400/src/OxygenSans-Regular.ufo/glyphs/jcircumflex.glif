@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="1">
-  <advance width="553"/>
+  <advance width="553.0"/>
   <unicode hex="0135"/>
   <outline>
-    <contour>
-      <point x="-12" y="1216" type="line"/>
-      <point x="99" y="1216" type="line"/>
-      <point x="297" y="1426" type="line"/>
-      <point x="491" y="1216" type="line"/>
-      <point x="603" y="1216" type="line"/>
-      <point x="395" y="1517" type="line"/>
-      <point x="208" y="1517" type="line"/>
-    </contour>
-    <contour>
-      <point x="19" y="-378" type="line"/>
-      <point x="78" y="-371" type="line" smooth="yes"/>
-      <point x="298" y="-344"/>
-      <point x="378" y="-269"/>
-      <point x="378" y="-10" type="curve" smooth="yes"/>
-      <point x="378" y="1094" type="line"/>
-      <point x="214" y="1094" type="line"/>
-      <point x="214" y="21" type="line" smooth="yes"/>
-      <point x="214" y="-169"/>
-      <point x="211" y="-205"/>
-      <point x="62" y="-235" type="curve" smooth="yes"/>
-      <point x="0" y="-247" type="line"/>
-    </contour>
+    <component base="dotlessj"/>
+    <component base="circumflex" xOffset="-76.0" yOffset="77.95"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jcircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>553.0</real>
+        </dict>
       </dict>
     </dict>
   </lib>

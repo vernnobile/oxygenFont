@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="493"/>
+  <advance width="548"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
@@ -17,11 +17,36 @@
       <point x="147" y="47"/>
       <point x="184" y="-11"/>
     </contour>
+    <contour>
+      <point x="255.0" y="102.775" type="move" name="_mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>548</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

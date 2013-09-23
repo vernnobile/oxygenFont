@@ -1,45 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF9" format="1">
-  <advance width="1124"/>
+  <advance width="1005"/>
   <unicode hex="1EF9"/>
   <outline>
-    <contour>
-      <point x="360" y="1259" type="line"/>
-      <point x="368" y="1330"/>
-      <point x="393" y="1358"/>
-      <point x="428" y="1358" type="curve" smooth="yes"/>
-      <point x="500" y="1358"/>
-      <point x="619" y="1259"/>
-      <point x="723" y="1259" type="curve" smooth="yes"/>
-      <point x="804" y="1259"/>
-      <point x="863" y="1323"/>
-      <point x="863" y="1463" type="curve"/>
-      <point x="777" y="1463" type="line"/>
-      <point x="769" y="1396"/>
-      <point x="748" y="1376"/>
-      <point x="717" y="1376" type="curve" smooth="yes"/>
-      <point x="655" y="1376"/>
-      <point x="551" y="1464"/>
-      <point x="434" y="1464" type="curve" smooth="yes"/>
-      <point x="340" y="1464"/>
-      <point x="276" y="1400"/>
-      <point x="276" y="1259" type="curve"/>
-    </contour>
-    <contour>
-      <point x="442" y="-410" type="line"/>
-      <point x="1002" y="1082" type="line"/>
-      <point x="834" y="1082" type="line"/>
-      <point x="529" y="220" type="line"/>
-      <point x="197" y="1082" type="line"/>
-      <point x="28" y="1082" type="line"/>
-      <point x="449" y="31" type="line"/>
-      <point x="293" y="-377" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="tildecomb" xOffset="100.0" yOffset="29.075"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1EF9</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1005</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

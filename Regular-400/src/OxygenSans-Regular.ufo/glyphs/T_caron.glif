@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1115"/>
+  <advance width="1200"/>
   <unicode hex="0164"/>
   <outline>
-    <contour>
-      <point x="470" y="1586" type="line"/>
-      <point x="655" y="1586" type="line"/>
-      <point x="900" y="1920" type="line"/>
-      <point x="781" y="1920" type="line"/>
-      <point x="560" y="1684" type="line"/>
-      <point x="356" y="1920" type="line"/>
-      <point x="238" y="1920" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="0" type="line"/>
-      <point x="687" y="0" type="line"/>
-      <point x="687" y="1319" type="line"/>
-      <point x="1166" y="1319" type="line"/>
-      <point x="1166" y="1456" type="line"/>
-      <point x="34" y="1456" type="line"/>
-      <point x="34" y="1319" type="line"/>
-      <point x="511" y="1319" type="line"/>
-    </contour>
+    <component base="T"/>
+    <component base="caron.cap" xOffset="228.0" yOffset="511.725"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Tcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1200</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

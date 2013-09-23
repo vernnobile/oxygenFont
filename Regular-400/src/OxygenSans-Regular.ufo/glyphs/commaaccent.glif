@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
   <advance width="481"/>
-  <unicode hex="F6C3"/>
   <outline>
     <contour>
       <point x="137" y="-290" type="curve"/>
@@ -14,11 +13,36 @@
       <point x="178" y="159"/>
       <point x="137" y="-290"/>
     </contour>
+    <contour>
+      <point x="261.0" y="383.425" type="move" name="_bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>481</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

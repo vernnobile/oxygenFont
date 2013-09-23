@@ -3,39 +3,35 @@
   <advance width="1444"/>
   <unicode hex="0126"/>
   <outline>
-    <contour>
-      <point x="356" y="820" type="line"/>
-      <point x="356" y="1111" type="line"/>
-      <point x="1105" y="1111" type="line"/>
-      <point x="1105" y="820" type="line"/>
-    </contour>
-    <contour>
-      <point x="356" y="678" type="line"/>
-      <point x="1105" y="678" type="line"/>
-      <point x="1105" y="0" type="line"/>
-      <point x="1281" y="0" type="line"/>
-      <point x="1281" y="1111" type="line"/>
-      <point x="1325" y="1111" type="line"/>
-      <point x="1325" y="1248" type="line"/>
-      <point x="1281" y="1248" type="line"/>
-      <point x="1281" y="1456" type="line"/>
-      <point x="1105" y="1456" type="line"/>
-      <point x="1105" y="1248" type="line"/>
-      <point x="356" y="1248" type="line"/>
-      <point x="356" y="1456" type="line"/>
-      <point x="180" y="1456" type="line"/>
-      <point x="180" y="1248" type="line"/>
-      <point x="121" y="1248" type="line"/>
-      <point x="121" y="1111" type="line"/>
-      <point x="180" y="1111" type="line"/>
-      <point x="180" y="0" type="line"/>
-      <point x="356" y="0" type="line"/>
-    </contour>
+    <component base="H"/>
+    <component base="endash" xOffset="102" yOffset="590"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Hbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1444</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

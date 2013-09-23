@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="1">
-  <advance width="1068"/>
+  <advance width="1106"/>
   <unicode hex="0139"/>
   <outline>
-    <contour>
-      <point x="322" y="1570" type="line"/>
-      <point x="469" y="1570" type="line"/>
-      <point x="781" y="1869" type="line"/>
-      <point x="575" y="1869" type="line"/>
-    </contour>
-    <contour>
-      <point x="180" y="0" type="line"/>
-      <point x="1062" y="0" type="line"/>
-      <point x="1066" y="137" type="line"/>
-      <point x="356" y="137" type="line"/>
-      <point x="356" y="1456" type="line"/>
-      <point x="180" y="1456" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="acute.cap" xOffset="224.0" yOffset="510.75"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Lacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1106</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

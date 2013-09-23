@@ -3,41 +3,35 @@
   <advance width="818"/>
   <unicode hex="012C"/>
   <outline>
-    <contour>
-      <point x="411" y="1569" type="curve" smooth="yes"/>
-      <point x="536" y="1569"/>
-      <point x="646" y="1638"/>
-      <point x="646" y="1808" type="curve"/>
-      <point x="544" y="1808" type="line"/>
-      <point x="544" y="1708"/>
-      <point x="479" y="1669"/>
-      <point x="411" y="1669" type="curve" smooth="yes"/>
-      <point x="343" y="1669"/>
-      <point x="282" y="1708"/>
-      <point x="282" y="1808" type="curve"/>
-      <point x="180" y="1808" type="line"/>
-      <point x="180" y="1638"/>
-      <point x="287" y="1569"/>
-    </contour>
-    <contour>
-      <point x="130" y="1496" type="line"/>
-      <point x="130" y="1387" type="line"/>
-      <point x="322" y="1387" type="line"/>
-      <point x="322" y="110" type="line"/>
-      <point x="130" y="110" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
-      <point x="688" y="110" type="line"/>
-      <point x="498" y="110" type="line"/>
-      <point x="498" y="1387" type="line"/>
-      <point x="688" y="1387" type="line"/>
-      <point x="688" y="1496" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="breve" xOffset="43.0" yOffset="450.725"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ibreve</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>818</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

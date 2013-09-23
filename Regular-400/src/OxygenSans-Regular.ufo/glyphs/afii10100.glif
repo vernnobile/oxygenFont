@@ -3,25 +3,35 @@
   <advance width="914"/>
   <unicode hex="0453"/>
   <outline>
-    <contour>
-      <point x="478" y="1202" type="line"/>
-      <point x="575" y="1202" type="line"/>
-      <point x="867" y="1614" type="line"/>
-      <point x="661" y="1614" type="line"/>
-    </contour>
-    <contour>
-      <point x="315" y="0" type="line"/>
-      <point x="315" y="985" type="line"/>
-      <point x="859" y="985" type="line"/>
-      <point x="859" y="1081" type="line"/>
-      <point x="193" y="1081" type="line"/>
-      <point x="193" y="0" type="line"/>
-    </contour>
+    <component base="acute" xOffset="365.5" yOffset="144"/>
+    <component base="afii10068"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10100</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>914</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

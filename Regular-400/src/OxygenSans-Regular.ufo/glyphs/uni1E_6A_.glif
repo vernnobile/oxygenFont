@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E6A" format="1">
-  <advance width="1115"/>
+  <advance width="1200"/>
   <unicode hex="1E6A"/>
   <outline>
-    <contour>
-      <point x="490" y="1616" type="line"/>
-      <point x="641" y="1616" type="line"/>
-      <point x="641" y="1807" type="line"/>
-      <point x="490" y="1807" type="line"/>
-    </contour>
-    <contour>
-      <point x="511" y="0" type="line"/>
-      <point x="687" y="0" type="line"/>
-      <point x="687" y="1319" type="line"/>
-      <point x="1166" y="1319" type="line"/>
-      <point x="1166" y="1456" type="line"/>
-      <point x="34" y="1456" type="line"/>
-      <point x="34" y="1319" type="line"/>
-      <point x="511" y="1319" type="line"/>
-    </contour>
+    <component base="T"/>
+    <component base="uni0307" xOffset="437.0" yOffset="451.9"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni1E6A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1200</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

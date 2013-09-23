@@ -3,31 +3,35 @@
   <advance width="818"/>
   <unicode hex="012A"/>
   <outline>
-    <contour>
-      <point x="118" y="1644" type="line"/>
-      <point x="703" y="1644" type="line"/>
-      <point x="703" y="1766" type="line"/>
-      <point x="118" y="1766" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="1496" type="line"/>
-      <point x="130" y="1387" type="line"/>
-      <point x="322" y="1387" type="line"/>
-      <point x="322" y="110" type="line"/>
-      <point x="130" y="110" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="688" y="0" type="line"/>
-      <point x="688" y="110" type="line"/>
-      <point x="498" y="110" type="line"/>
-      <point x="498" y="1387" type="line"/>
-      <point x="688" y="1387" type="line"/>
-      <point x="688" y="1496" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="macron" xOffset="-96.0" yOffset="413.6"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Imacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>818</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

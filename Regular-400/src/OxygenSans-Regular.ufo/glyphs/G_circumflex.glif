@@ -1,54 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="1">
-  <advance width="1449"/>
+  <advance width="1396"/>
   <unicode hex="011C"/>
   <outline>
-    <contour>
-      <point x="527" y="1618" type="line"/>
-      <point x="638" y="1618" type="line"/>
-      <point x="836" y="1828" type="line"/>
-      <point x="1030" y="1618" type="line"/>
-      <point x="1142" y="1618" type="line"/>
-      <point x="934" y="1919" type="line"/>
-      <point x="747" y="1919" type="line"/>
-    </contour>
-    <contour>
-      <point x="794" y="-20" type="curve" smooth="yes"/>
-      <point x="990" y="-20"/>
-      <point x="1145" y="14"/>
-      <point x="1292" y="72" type="curve"/>
-      <point x="1292" y="764" type="line"/>
-      <point x="811" y="764" type="line"/>
-      <point x="804" y="621" type="line"/>
-      <point x="1129" y="621" type="line"/>
-      <point x="1129" y="168" type="line"/>
-      <point x="1061" y="146"/>
-      <point x="956" y="123"/>
-      <point x="825" y="123" type="curve" smooth="yes"/>
-      <point x="440" y="123"/>
-      <point x="287" y="379"/>
-      <point x="287" y="748" type="curve" smooth="yes"/>
-      <point x="287" y="1101"/>
-      <point x="484" y="1374"/>
-      <point x="826" y="1374" type="curve" smooth="yes"/>
-      <point x="1016" y="1374"/>
-      <point x="1128" y="1319"/>
-      <point x="1202" y="1277" type="curve"/>
-      <point x="1255" y="1407" type="line"/>
-      <point x="1127" y="1486"/>
-      <point x="991" y="1517"/>
-      <point x="823" y="1517" type="curve" smooth="yes"/>
-      <point x="384" y="1517"/>
-      <point x="110" y="1186"/>
-      <point x="110" y="747" type="curve" smooth="yes"/>
-      <point x="110" y="313"/>
-      <point x="345" y="-20"/>
-    </contour>
+    <component base="G"/>
+    <component base="circumflex.cap" xOffset="464.0" yOffset="490.25"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Gcircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1396</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

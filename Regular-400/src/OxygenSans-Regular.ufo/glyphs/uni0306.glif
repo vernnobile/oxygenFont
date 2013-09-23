@@ -19,11 +19,36 @@
       <point x="134" y="1186"/>
       <point x="241" y="1117"/>
     </contour>
+    <contour>
+      <point x="364.0" y="1005.275" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0306</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>736</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

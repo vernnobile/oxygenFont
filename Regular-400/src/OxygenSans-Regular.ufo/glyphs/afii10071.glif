@@ -3,39 +3,37 @@
   <advance width="1140"/>
   <unicode hex="0451"/>
   <outline>
+    <component base="dieresis" xOffset="236" yOffset="-8"/>
     <contour>
-      <point x="791" y="1380" type="curve" smooth="yes"/>
-      <point x="738" y="1380"/>
-      <point x="699" y="1341"/>
-      <point x="699" y="1284" type="curve" smooth="yes"/>
-      <point x="699" y="1228"/>
-      <point x="738" y="1188"/>
-      <point x="791" y="1188" type="curve" smooth="yes"/>
-      <point x="844" y="1188"/>
-      <point x="884" y="1228"/>
-      <point x="884" y="1284" type="curve" smooth="yes"/>
-      <point x="884" y="1341"/>
-      <point x="844" y="1380"/>
-    </contour>
-    <contour>
-      <point x="336" y="1284" type="curve" smooth="yes"/>
-      <point x="336" y="1228"/>
-      <point x="375" y="1188"/>
-      <point x="429" y="1188" type="curve" smooth="yes"/>
-      <point x="481" y="1188"/>
-      <point x="522" y="1228"/>
-      <point x="522" y="1284" type="curve" smooth="yes"/>
-      <point x="522" y="1341"/>
-      <point x="481" y="1380"/>
-      <point x="429" y="1380" type="curve" smooth="yes"/>
-      <point x="375" y="1380"/>
-      <point x="336" y="1341"/>
+      <point x="611.0" y="1003.5" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10071</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1140</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
