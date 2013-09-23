@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecircumflex" format="1">
-  <advance width="1084"/>
-  <unicode hex="00EA"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ecircumflex" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="00EA"></unicode>
   <outline>
-    <component base="e"/>
-    <component base="circumflex" xOffset="213.0" yOffset="78.95"/>
+    <component base="e"></component>
+    <component base="circumflex" xOffset="213.0" yOffset="78.95"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

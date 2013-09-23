@@ -1,40 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="A" format="1">
-  <advance width="1326"/>
-  <unicode hex="0041"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="A" format="1">
+  <advance width="1268"></advance>
+  <unicode hex="0041"></unicode>
   <outline>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="391" y="513" type="line"/>
-      <point x="329" y="462" type="line"/>
-      <point x="1009" y="462" type="line"/>
-      <point x="942" y="508" type="line"/>
-      <point x="1132" y="0" type="line"/>
-      <point x="1306" y="0" type="line"/>
-      <point x="749" y="1456" type="line"/>
-      <point x="578" y="1456" type="line"/>
+      <point x="-4" y="0" type="line"></point>
+      <point x="174" y="0" type="line"></point>
+      <point x="365" y="513" type="line"></point>
+      <point x="303" y="462" type="line"></point>
+      <point x="983" y="462" type="line"></point>
+      <point x="916" y="508" type="line"></point>
+      <point x="1106" y="0" type="line"></point>
+      <point x="1280" y="0" type="line"></point>
+      <point x="723" y="1456" type="line"></point>
+      <point x="552" y="1456" type="line"></point>
     </contour>
     <contour>
-      <point x="396" y="543" type="line"/>
-      <point x="690" y="1350" type="line"/>
-      <point x="638" y="1350" type="line"/>
-      <point x="938" y="535" type="line"/>
-      <point x="978" y="587" type="line"/>
-      <point x="363" y="587" type="line"/>
+      <point x="370" y="543" type="line"></point>
+      <point x="664" y="1350" type="line"></point>
+      <point x="612" y="1350" type="line"></point>
+      <point x="912" y="535" type="line"></point>
+      <point x="952" y="587" type="line"></point>
+      <point x="337" y="587" type="line"></point>
     </contour>
     <contour>
-      <point x="664.0" y="0.0" type="move" name="bot"/>
+      <point x="638" y="0.0" type="move" name="bot"></point>
     </contour>
     <contour>
-      <point x="1200.0" y="0.0" type="move" name="ogonek"/>
+      <point x="1174" y="0.0" type="move" name="ogonek"></point>
     </contour>
     <contour>
-      <point x="662" y="1456" type="move" name="top"/>
+      <point x="636" y="1456" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -54,7 +55,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>920.0</real>
                   <key>y</key>
@@ -64,7 +65,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>412.0</real>
                   <key>y</key>
@@ -74,7 +75,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>665.0</real>
                   <key>y</key>
@@ -89,7 +90,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>20.0</real>
                   <key>y</key>
@@ -99,7 +100,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>200.0</real>
                   <key>y</key>
@@ -109,7 +110,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>371.0</real>
                   <key>y</key>
@@ -119,7 +120,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>960.0</real>
                   <key>y</key>
@@ -129,7 +130,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>1132.0</real>
                   <key>y</key>
@@ -139,7 +140,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>1306.0</real>
                   <key>y</key>
@@ -149,7 +150,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>749.0</real>
                   <key>y</key>
@@ -159,7 +160,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <false></false>
                   <key>x</key>
                   <real>578.0</real>
                   <key>y</key>

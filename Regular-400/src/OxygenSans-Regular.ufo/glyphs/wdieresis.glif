@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wdieresis" format="1">
-  <advance width="1550"/>
-  <unicode hex="1E85"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="wdieresis" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="1E85"></unicode>
   <outline>
-    <component base="w"/>
-    <component base="dieresis" xOffset="396.0" yOffset="27.85"/>
+    <component base="w"></component>
+    <component base="dieresis" xOffset="396.0" yOffset="27.85"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

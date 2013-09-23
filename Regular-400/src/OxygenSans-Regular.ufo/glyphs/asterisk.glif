@@ -1,32 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asterisk" format="1">
-  <advance width="884"/>
-  <unicode hex="002A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="asterisk" format="1">
+  <advance width="898"></advance>
+  <unicode hex="002A"></unicode>
   <outline>
     <contour>
-      <point x="258" y="599" type="line"/>
-      <point x="128" y="681" type="line"/>
-      <point x="359" y="991" type="line"/>
-      <point x="18" y="1068" type="line"/>
-      <point x="60" y="1215" type="line"/>
-      <point x="396" y="1075" type="line"/>
-      <point x="362" y="1456" type="line"/>
-      <point x="522" y="1456" type="line"/>
-      <point x="486" y="1075" type="line"/>
-      <point x="824" y="1215" type="line"/>
-      <point x="866" y="1068" type="line"/>
-      <point x="521" y="991" type="line"/>
-      <point x="559" y="940"/>
-      <point x="665" y="798"/>
-      <point x="758" y="681" type="curve"/>
-      <point x="701" y="645"/>
-      <point x="686" y="635"/>
-      <point x="629" y="599" type="curve"/>
-      <point x="437" y="937" type="line"/>
+      <point x="274" y="599" type="line"></point>
+      <point x="144" y="681" type="line"></point>
+      <point x="375" y="991" type="line"></point>
+      <point x="34" y="1068" type="line"></point>
+      <point x="76" y="1215" type="line"></point>
+      <point x="412" y="1075" type="line"></point>
+      <point x="378" y="1456" type="line"></point>
+      <point x="538" y="1456" type="line"></point>
+      <point x="502" y="1075" type="line"></point>
+      <point x="840" y="1215" type="line"></point>
+      <point x="882" y="1068" type="line"></point>
+      <point x="537" y="991" type="line"></point>
+      <point x="575" y="940"></point>
+      <point x="681" y="798"></point>
+      <point x="774" y="681" type="curve"></point>
+      <point x="717" y="645"></point>
+      <point x="702" y="635"></point>
+      <point x="645" y="599" type="curve"></point>
+      <point x="453" y="937" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

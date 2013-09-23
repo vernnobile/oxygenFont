@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlaut" format="1">
-  <advance width="746"/>
-  <unicode hex="02DD"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hungarumlaut" format="1">
+  <advance width="845"></advance>
+  <unicode hex="02DD"></unicode>
   <outline>
     <contour>
-      <point x="370" y="1058" type="line"/>
-      <point x="456" y="1058" type="line"/>
-      <point x="739" y="1470" type="line"/>
-      <point x="551" y="1470" type="line"/>
+      <point x="442" y="1058" type="line"></point>
+      <point x="528" y="1058" type="line"></point>
+      <point x="811" y="1470" type="line"></point>
+      <point x="623" y="1470" type="line"></point>
     </contour>
     <contour>
-      <point x="114" y="1058" type="line"/>
-      <point x="198" y="1058" type="line"/>
-      <point x="440" y="1470" type="line"/>
-      <point x="264" y="1470" type="line"/>
+      <point x="186" y="1058" type="line"></point>
+      <point x="270" y="1058" type="line"></point>
+      <point x="512" y="1470" type="line"></point>
+      <point x="336" y="1470" type="line"></point>
     </contour>
     <contour>
-      <point x="268.0" y="945.25" type="move" name="_top"/>
+      <point x="340" y="945.25" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

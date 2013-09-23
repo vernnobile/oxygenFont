@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aringacute" format="1">
-  <advance width="1126"/>
-  <unicode hex="01FB"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="aringacute" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="01FB"></unicode>
   <outline>
-    <component base="acute" xOffset="405" yOffset="480"/>
-    <component base="aring"/>
+    <component base="acute" xOffset="405" yOffset="480"></component>
+    <component base="aring"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

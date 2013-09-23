@@ -1,32 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="semicolon" format="1">
-  <advance width="525"/>
-  <unicode hex="003B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="semicolon" format="1">
+  <advance width="634"></advance>
+  <unicode hex="003B"></unicode>
   <outline>
     <contour>
-      <point x="278" y="837" type="curve" smooth="yes"/>
-      <point x="360" y="837"/>
-      <point x="395" y="897"/>
-      <point x="395" y="959" type="curve" smooth="yes"/>
-      <point x="395" y="1019"/>
-      <point x="360" y="1082"/>
-      <point x="278" y="1082" type="curve" smooth="yes"/>
-      <point x="195" y="1082"/>
-      <point x="157" y="1019"/>
-      <point x="157" y="959" type="curve" smooth="yes"/>
-      <point x="157" y="897"/>
-      <point x="196" y="837"/>
+      <point x="307" y="837" type="curve" smooth="yes"></point>
+      <point x="389" y="837"></point>
+      <point x="424" y="897"></point>
+      <point x="424" y="959" type="curve" smooth="yes"></point>
+      <point x="424" y="1019"></point>
+      <point x="389" y="1082"></point>
+      <point x="307" y="1082" type="curve" smooth="yes"></point>
+      <point x="224" y="1082"></point>
+      <point x="186" y="1019"></point>
+      <point x="186" y="959" type="curve" smooth="yes"></point>
+      <point x="186" y="897"></point>
+      <point x="225" y="837"></point>
     </contour>
     <contour>
-      <point x="157" y="-300" type="line"/>
-      <point x="254" y="-300" type="line"/>
-      <point x="371" y="152" type="line"/>
-      <point x="371" y="235" type="line"/>
-      <point x="198" y="235" type="line"/>
+      <point x="186" y="-300" type="line"></point>
+      <point x="283" y="-300" type="line"></point>
+      <point x="400" y="152" type="line"></point>
+      <point x="400" y="235" type="line"></point>
+      <point x="227" y="235" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01D5" format="1">
-  <advance width="1412"/>
-  <unicode hex="01D5"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01D5" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="01D5"></unicode>
   <outline>
-    <component base="Udieresis"/>
-    <component base="uni0304" xOffset="189.5" yOffset="596"/>
+    <component base="Udieresis"></component>
+    <component base="uni0304" xOffset="189.5" yOffset="596"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

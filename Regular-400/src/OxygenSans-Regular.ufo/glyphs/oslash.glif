@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oslash" format="1">
-  <advance width="1165"/>
-  <unicode hex="00F8"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="oslash" format="1">
+  <advance width="1057"></advance>
+  <unicode hex="00F8"></unicode>
   <outline>
     <contour>
-      <point x="263" y="-162" type="line"/>
-      <point x="988" y="1200" type="line"/>
-      <point x="917" y="1238" type="line"/>
-      <point x="198" y="-124" type="line"/>
+      <point x="169" y="-162" type="line"></point>
+      <point x="894" y="1200" type="line"></point>
+      <point x="823" y="1238" type="line"></point>
+      <point x="104" y="-124" type="line"></point>
     </contour>
-    <component base="o"/>
+    <component base="o"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

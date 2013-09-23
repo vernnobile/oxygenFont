@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravecomb" format="1">
-  <advance width="650"/>
-  <unicode hex="0300"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="gravecomb" format="1">
+  <advance width="792"></advance>
+  <unicode hex="0300"></unicode>
   <outline>
     <contour>
-      <point x="414" y="1058" type="line"/>
-      <point x="508" y="1058" type="line"/>
-      <point x="332" y="1470" type="line"/>
-      <point x="144" y="1470" type="line"/>
+      <point x="507" y="1058" type="line"></point>
+      <point x="601" y="1058" type="line"></point>
+      <point x="425" y="1470" type="line"></point>
+      <point x="237" y="1470" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

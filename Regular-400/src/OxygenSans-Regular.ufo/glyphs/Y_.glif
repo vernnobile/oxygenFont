@@ -1,28 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Y" format="1">
-  <advance width="1250"/>
-  <unicode hex="0059"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Y" format="1">
+  <advance width="1057"></advance>
+  <unicode hex="0059"></unicode>
   <outline>
     <contour>
-      <point x="545" y="0" type="line"/>
-      <point x="721" y="0" type="line"/>
-      <point x="721" y="566" type="line"/>
-      <point x="686" y="443" type="line"/>
-      <point x="1230" y="1456" type="line"/>
-      <point x="1056" y="1456" type="line"/>
-      <point x="605" y="608" type="line"/>
-      <point x="661" y="608" type="line"/>
-      <point x="194" y="1456" type="line"/>
-      <point x="20" y="1456" type="line"/>
-      <point x="584" y="441" type="line"/>
-      <point x="545" y="568" type="line"/>
+      <point x="443" y="0" type="line"></point>
+      <point x="619" y="0" type="line"></point>
+      <point x="619" y="566" type="line"></point>
+      <point x="584" y="443" type="line"></point>
+      <point x="1128" y="1456" type="line"></point>
+      <point x="954" y="1456" type="line"></point>
+      <point x="503" y="608" type="line"></point>
+      <point x="559" y="608" type="line"></point>
+      <point x="92" y="1456" type="line"></point>
+      <point x="-80" y="1456" type="line"></point>
+      <point x="482" y="441" type="line"></point>
+      <point x="443" y="568" type="line"></point>
     </contour>
     <contour>
-      <point x="632" y="1456" type="move" name="top"/>
+      <point x="530" y="1456" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

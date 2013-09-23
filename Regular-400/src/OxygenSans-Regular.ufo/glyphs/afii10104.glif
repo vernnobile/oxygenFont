@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="afii10104" format="1">
-  <advance width="427"/>
-  <unicode hex="0457"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10104" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="0457"></unicode>
   <outline>
-    <component base="dieresis" xOffset="-120" yOffset="-129"/>
-    <component base="dotlessi"/>
+    <component base="dieresis" xOffset="-120" yOffset="-129"></component>
+    <component base="dotlessi"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

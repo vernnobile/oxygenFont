@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="edotaccent" format="1">
-  <advance width="1084"/>
-  <unicode hex="0117"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="edotaccent" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="0117"></unicode>
   <outline>
-    <component base="e"/>
-    <component base="dotaccent" xOffset="406.0" yOffset="79.275"/>
+    <component base="e"></component>
+    <component base="dotaccent" xOffset="406.0" yOffset="79.275"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

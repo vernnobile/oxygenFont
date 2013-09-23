@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ntilde" format="1">
-  <advance width="1461"/>
-  <unicode hex="00D1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ntilde" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="00D1"></unicode>
   <outline>
-    <component base="N"/>
-    <component base="tilde" xOffset="321.0" yOffset="403.075"/>
+    <component base="N"></component>
+    <component base="tilde" xOffset="321.0" yOffset="403.075"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

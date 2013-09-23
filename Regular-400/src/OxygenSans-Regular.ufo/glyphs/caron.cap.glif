@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.cap" format="1">
-  <advance width="775"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="caron.cap" format="1">
+  <advance width="898"></advance>
   <outline>
     <contour>
-      <point x="276" y="1097" type="line"/>
-      <point x="461" y="1097" type="line"/>
-      <point x="666" y="1397" type="line"/>
-      <point x="547" y="1397" type="line"/>
-      <point x="374" y="1195" type="line"/>
-      <point x="185" y="1397" type="line"/>
-      <point x="67" y="1397" type="line"/>
+      <point x="446" y="1097" type="line"></point>
+      <point x="631" y="1097" type="line"></point>
+      <point x="836" y="1397" type="line"></point>
+      <point x="717" y="1397" type="line"></point>
+      <point x="544" y="1195" type="line"></point>
+      <point x="355" y="1397" type="line"></point>
+      <point x="237" y="1397" type="line"></point>
     </contour>
     <contour>
-      <point x="375.0" y="944.275" type="move" name="_top"/>
+      <point x="545" y="944.275" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

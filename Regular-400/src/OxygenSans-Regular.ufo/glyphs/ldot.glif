@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ldot" format="1">
-  <advance width="633"/>
-  <unicode hex="0140"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ldot" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="0140"></unicode>
   <outline>
-    <component base="l"/>
-    <component base="period" xOffset="364.0" yOffset="980.85"/>
+    <component base="l"></component>
+    <component base="period" xOffset="364.0" yOffset="980.85"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -30,9 +30,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>633</integer>
+          <integer>-10932</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

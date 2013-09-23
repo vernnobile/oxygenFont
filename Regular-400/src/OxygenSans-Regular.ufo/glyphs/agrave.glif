@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="agrave" format="1">
-  <advance width="1097"/>
-  <unicode hex="00E0"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="agrave" format="1">
+  <advance width="-10939"></advance>
+  <unicode hex="00E0"></unicode>
   <outline>
-    <component base="a"/>
-    <component base="grave" xOffset="82.0" yOffset="137.9"/>
+    <component base="a"></component>
+    <component base="grave" xOffset="82.0" yOffset="137.9"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

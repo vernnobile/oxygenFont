@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01E2" format="1">
-  <advance width="1153"/>
-  <unicode hex="01E2"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01E2" format="1">
+  <advance width="475"></advance>
+  <unicode hex="01E2"></unicode>
   <outline>
-    <component base="macron" xOffset="74" yOffset="-105"/>
+    <component base="macron" xOffset="74" yOffset="-105"></component>
     <contour>
-      <point x="588.0" y="1005.05" type="move" name="_top"/>
+      <point x="237" y="1005.05" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

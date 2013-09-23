@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acute" format="1">
-  <advance width="619"/>
-  <unicode hex="00B4"/>
-  <unicode hex="0301"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="acute" format="1">
+  <advance width="687"></advance>
+  <unicode hex="00B4"></unicode>
+  <unicode hex="0301"></unicode>
   <outline>
     <contour>
-      <point x="112" y="1044" type="line"/>
-      <point x="209" y="1044" type="line"/>
-      <point x="501" y="1456" type="line"/>
-      <point x="295" y="1456" type="line"/>
+      <point x="174" y="1044" type="line"></point>
+      <point x="271" y="1044" type="line"></point>
+      <point x="563" y="1456" type="line"></point>
+      <point x="357" y="1456" type="line"></point>
     </contour>
     <contour>
-      <point x="155.0" y="945.25" type="move" name="_top"/>
+      <point x="217" y="945.25" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

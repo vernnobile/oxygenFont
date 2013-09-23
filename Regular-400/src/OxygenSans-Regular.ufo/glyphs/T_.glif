@@ -1,32 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T" format="1">
-  <advance width="1200"/>
-  <unicode hex="0054"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="T" format="1">
+  <advance width="1268"></advance>
+  <unicode hex="0054"></unicode>
   <outline>
     <contour>
-      <point x="511" y="0" type="line"/>
-      <point x="687" y="0" type="line"/>
-      <point x="687" y="1387" type="line"/>
-      <point x="628" y="1319" type="line"/>
-      <point x="1166" y="1319" type="line"/>
-      <point x="1166" y="1456" type="line"/>
-      <point x="34" y="1456" type="line"/>
-      <point x="34" y="1319" type="line"/>
-      <point x="565" y="1319" type="line"/>
-      <point x="511" y="1384" type="line"/>
+      <point x="714" y="0" type="line"></point>
+      <point x="890" y="0" type="line"></point>
+      <point x="890" y="1387" type="line"></point>
+      <point x="831" y="1319" type="line"></point>
+      <point x="1369" y="1319" type="line"></point>
+      <point x="1369" y="1456" type="line"></point>
+      <point x="237" y="1456" type="line"></point>
+      <point x="237" y="1319" type="line"></point>
+      <point x="768" y="1319" type="line"></point>
+      <point x="714" y="1384" type="line"></point>
     </contour>
     <contour>
-      <point x="604.0" y="0.0" type="move" name="bot"/>
+      <point x="807" y="0.0" type="move" name="bot"></point>
     </contour>
     <contour>
-      <point x="603" y="1456" type="move" name="top"/>
+      <point x="806" y="1456" type="move" name="top"></point>
     </contour>
     <contour>
-      <point x="596.0" y="785.15" type="move" name="mid"/>
+      <point x="799" y="785.15" type="move" name="mid"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
