@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hungarumlaut" format="1">
+  <advance width="888"></advance>
+  <unicode hex="02DD"></unicode>
+  <outline>
+    <contour>
+      <point x="449" y="1058" type="line"></point>
+      <point x="535" y="1058" type="line"></point>
+      <point x="818" y="1470" type="line"></point>
+      <point x="630" y="1470" type="line"></point>
+    </contour>
+    <contour>
+      <point x="193" y="1058" type="line"></point>
+      <point x="277" y="1058" type="line"></point>
+      <point x="519" y="1470" type="line"></point>
+      <point x="343" y="1470" type="line"></point>
+    </contour>
+    <contour>
+      <point x="347" y="945.25" type="move" name="_top"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>845</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

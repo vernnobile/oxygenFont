@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="lessequal" format="1">
+  <advance width="1110"></advance>
+  <unicode hex="2264"></unicode>
+  <outline>
+    <contour>
+      <point x="65" y="1" type="line"></point>
+      <point x="1006" y="1" type="line"></point>
+      <point x="1006" y="121" type="line"></point>
+      <point x="65" y="121" type="line"></point>
+    </contour>
+    <contour>
+      <point x="977" y="258" type="line"></point>
+      <point x="977" y="397" type="line"></point>
+      <point x="278" y="771" type="line"></point>
+      <point x="977" y="1165" type="line"></point>
+      <point x="977" y="1306" type="line"></point>
+      <point x="100" y="811" type="line"></point>
+      <point x="100" y="729" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lessequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1109</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

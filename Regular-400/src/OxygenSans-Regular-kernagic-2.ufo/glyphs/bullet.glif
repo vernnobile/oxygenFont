@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="bullet" format="1">
+  <advance width="888"></advance>
+  <unicode hex="2022"></unicode>
+  <outline>
+    <contour>
+      <point x="435" y="413" type="curve" smooth="yes"></point>
+      <point x="271" y="413"></point>
+      <point x="123" y="531"></point>
+      <point x="123" y="740" type="curve" smooth="yes"></point>
+      <point x="123" y="952"></point>
+      <point x="275" y="1074"></point>
+      <point x="440" y="1074" type="curve" smooth="yes"></point>
+      <point x="604" y="1074"></point>
+      <point x="753" y="955"></point>
+      <point x="753" y="745" type="curve" smooth="yes"></point>
+      <point x="753" y="534"></point>
+      <point x="600" y="413"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>845</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="twosuperior" format="1">
+  <advance width="832"></advance>
+  <outline>
+    <contour>
+      <point x="157" y="605" type="line"></point>
+      <point x="678" y="605" type="line"></point>
+      <point x="684" y="719" type="line"></point>
+      <point x="323" y="719" type="line"></point>
+      <point x="494" y="886" type="line" smooth="yes"></point>
+      <point x="618" y="1007"></point>
+      <point x="692" y="1079"></point>
+      <point x="692" y="1220" type="curve" smooth="yes"></point>
+      <point x="692" y="1387"></point>
+      <point x="557" y="1476"></point>
+      <point x="405" y="1476" type="curve" smooth="yes"></point>
+      <point x="290" y="1476"></point>
+      <point x="169" y="1417"></point>
+      <point x="116" y="1321" type="curve"></point>
+      <point x="188" y="1242" type="line"></point>
+      <point x="246" y="1321"></point>
+      <point x="329" y="1356"></point>
+      <point x="407" y="1356" type="curve" smooth="yes"></point>
+      <point x="489" y="1356"></point>
+      <point x="560" y="1310"></point>
+      <point x="560" y="1212" type="curve" smooth="yes"></point>
+      <point x="560" y="1141"></point>
+      <point x="520" y="1079"></point>
+      <point x="405" y="963" type="curve" smooth="yes"></point>
+      <point x="157" y="715" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>twosuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>792</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

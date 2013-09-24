@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="guillemotright" format="1">
+  <advance width="943"></advance>
+  <unicode hex="00BB"></unicode>
+  <outline>
+    <contour>
+      <point x="242" y="148" type="line"></point>
+      <point x="526" y="549" type="line"></point>
+      <point x="239" y="953" type="line"></point>
+      <point x="78" y="953" type="line"></point>
+      <point x="362" y="552" type="line"></point>
+      <point x="85" y="148" type="line"></point>
+    </contour>
+    <contour>
+      <point x="595" y="148" type="line"></point>
+      <point x="879" y="549" type="line"></point>
+      <point x="591" y="953" type="line"></point>
+      <point x="430" y="953" type="line"></point>
+      <point x="714" y="552" type="line"></point>
+      <point x="438" y="148" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>951</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

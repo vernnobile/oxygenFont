@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0237" format="1">
+  <advance width="832"></advance>
+  <unicode hex="0237"></unicode>
+  <outline>
+    <contour>
+      <point x="277" y="-455" type="line"></point>
+      <point x="334" y="-455" type="line" smooth="yes"></point>
+      <point x="588" y="-455"></point>
+      <point x="641" y="-370"></point>
+      <point x="641" y="-112" type="curve" smooth="yes"></point>
+      <point x="641" y="1111" type="line"></point>
+      <point x="461" y="1111" type="line"></point>
+      <point x="461" y="-87" type="line" smooth="yes"></point>
+      <point x="461" y="-123"></point>
+      <point x="462" y="-154"></point>
+      <point x="462" y="-180" type="curve" smooth="yes"></point>
+      <point x="462" y="-277"></point>
+      <point x="447" y="-313"></point>
+      <point x="304" y="-313" type="curve" smooth="yes"></point>
+      <point x="244" y="-313" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-479</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>111</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0237</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>792</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

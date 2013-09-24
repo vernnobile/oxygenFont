@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="degree" format="1">
+  <advance width="832"></advance>
+  <unicode hex="00B0"></unicode>
+  <outline>
+    <contour>
+      <point x="422" y="889" type="curve" smooth="yes"></point>
+      <point x="586" y="889"></point>
+      <point x="723" y="1016"></point>
+      <point x="723" y="1184" type="curve" smooth="yes"></point>
+      <point x="723" y="1357"></point>
+      <point x="582" y="1476"></point>
+      <point x="422" y="1476" type="curve" smooth="yes"></point>
+      <point x="265" y="1476"></point>
+      <point x="123" y="1357"></point>
+      <point x="123" y="1184" type="curve" smooth="yes"></point>
+      <point x="123" y="1009"></point>
+      <point x="265" y="889"></point>
+    </contour>
+    <contour>
+      <point x="422" y="985" type="curve" smooth="yes"></point>
+      <point x="316" y="985"></point>
+      <point x="231" y="1065"></point>
+      <point x="231" y="1183" type="curve" smooth="yes"></point>
+      <point x="231" y="1300"></point>
+      <point x="318" y="1380"></point>
+      <point x="423" y="1380" type="curve" smooth="yes"></point>
+      <point x="529" y="1380"></point>
+      <point x="615" y="1300"></point>
+      <point x="615" y="1183" type="curve" smooth="yes"></point>
+      <point x="615" y="1066"></point>
+      <point x="529" y="985"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>845</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

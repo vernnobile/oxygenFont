@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10067" format="1">
+  <advance width="1110"></advance>
+  <unicode hex="0432"></unicode>
+  <outline>
+    <contour>
+      <point x="283" y="611" type="line"></point>
+      <point x="645" y="611" type="line" smooth="yes"></point>
+      <point x="808" y="611"></point>
+      <point x="833" y="713"></point>
+      <point x="833" y="804" type="curve" smooth="yes"></point>
+      <point x="833" y="914"></point>
+      <point x="784" y="994"></point>
+      <point x="606" y="994" type="curve" smooth="yes"></point>
+      <point x="283" y="994" type="line"></point>
+    </contour>
+    <contour>
+      <point x="283" y="87" type="line"></point>
+      <point x="601" y="87" type="line" smooth="yes"></point>
+      <point x="835" y="87"></point>
+      <point x="868" y="188"></point>
+      <point x="868" y="309" type="curve" smooth="yes"></point>
+      <point x="868" y="403"></point>
+      <point x="867" y="519"></point>
+      <point x="650" y="519" type="curve" smooth="yes"></point>
+      <point x="283" y="519" type="line"></point>
+    </contour>
+    <contour>
+      <point x="161" y="0" type="line"></point>
+      <point x="161" y="1081" type="line"></point>
+      <point x="608" y="1081" type="line" smooth="yes"></point>
+      <point x="882" y="1081"></point>
+      <point x="952" y="935"></point>
+      <point x="952" y="809" type="curve" smooth="yes"></point>
+      <point x="952" y="683"></point>
+      <point x="888" y="609"></point>
+      <point x="783" y="576" type="curve"></point>
+      <point x="948" y="530"></point>
+      <point x="988" y="400"></point>
+      <point x="988" y="309" type="curve" smooth="yes"></point>
+      <point x="988" y="179"></point>
+      <point x="932" y="0"></point>
+      <point x="606" y="0" type="curve" smooth="yes"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>85</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>506</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>970</integer>
+            <key>width</key>
+            <integer>85</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>865</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>900</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10067</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1109</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

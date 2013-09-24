@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="rho" format="1">
+  <advance width="1221"></advance>
+  <unicode hex="03C1"></unicode>
+  <outline>
+    <contour>
+      <point x="629" y="115" type="curve" smooth="yes"></point>
+      <point x="382" y="115"></point>
+      <point x="303" y="287"></point>
+      <point x="303" y="571" type="curve" smooth="yes"></point>
+      <point x="303" y="822"></point>
+      <point x="395" y="990"></point>
+      <point x="631" y="990" type="curve" smooth="yes"></point>
+      <point x="854" y="990"></point>
+      <point x="960" y="810"></point>
+      <point x="960" y="554" type="curve" smooth="yes"></point>
+      <point x="960" y="290"></point>
+      <point x="849" y="115"></point>
+    </contour>
+    <contour>
+      <point x="136" y="-464" type="line"></point>
+      <point x="303" y="-455" type="line"></point>
+      <point x="303" y="-56" type="line" smooth="yes"></point>
+      <point x="303" y="18"></point>
+      <point x="302" y="91"></point>
+      <point x="298" y="166" type="curve"></point>
+      <point x="368" y="62"></point>
+      <point x="509" y="-12"></point>
+      <point x="654" y="-12" type="curve" smooth="yes"></point>
+      <point x="930" y="-12"></point>
+      <point x="1126" y="224"></point>
+      <point x="1126" y="547" type="curve" smooth="yes"></point>
+      <point x="1126" y="883"></point>
+      <point x="952" y="1119"></point>
+      <point x="648" y="1119" type="curve" smooth="yes"></point>
+      <point x="500" y="1119"></point>
+      <point x="364" y="1046"></point>
+      <point x="306" y="908" type="curve"></point>
+      <point x="289" y="1096" type="line"></point>
+      <point x="136" y="1096" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rho</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1215</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

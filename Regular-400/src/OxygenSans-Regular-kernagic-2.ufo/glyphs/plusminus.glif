@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="plusminus" format="1">
+  <advance width="1110"></advance>
+  <unicode hex="00B1"></unicode>
+  <outline>
+    <contour>
+      <point x="490" y="212" type="line"></point>
+      <point x="616" y="212" type="line"></point>
+      <point x="616" y="610" type="line"></point>
+      <point x="981" y="610" type="line"></point>
+      <point x="981" y="729" type="line"></point>
+      <point x="615" y="729" type="line"></point>
+      <point x="615" y="1117" type="line"></point>
+      <point x="490" y="1117" type="line"></point>
+      <point x="490" y="729" type="line"></point>
+      <point x="118" y="729" type="line"></point>
+      <point x="118" y="610" type="line"></point>
+      <point x="490" y="610" type="line"></point>
+    </contour>
+    <contour>
+      <point x="97" y="0" type="line"></point>
+      <point x="97" y="118" type="line"></point>
+      <point x="1026" y="118" type="line"></point>
+      <point x="1026" y="0" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1109</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>
