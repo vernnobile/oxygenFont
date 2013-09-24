@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="middot" format="1">
+  <advance width="635"></advance>
+  <outline>
+    <contour>
+      <point x="234" y="547" type="line"></point>
+      <point x="234" y="744" type="line"></point>
+      <point x="398" y="744" type="line"></point>
+      <point x="398" y="547" type="line"></point>
+    </contour>
+    <contour>
+      <point x="314" y="648.475" type="move" name="_mid"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>middot</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>581</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

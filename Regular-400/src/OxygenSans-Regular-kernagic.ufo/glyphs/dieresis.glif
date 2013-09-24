@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
+  <advance width="924"></advance>
+  <unicode hex="00A8"></unicode>
+  <unicode hex="0308"></unicode>
+  <outline>
+    <contour>
+      <point x="352" y="1476" type="curve" smooth="yes"></point>
+      <point x="404" y="1476"></point>
+      <point x="445" y="1437"></point>
+      <point x="445" y="1380" type="curve" smooth="yes"></point>
+      <point x="445" y="1324"></point>
+      <point x="404" y="1284"></point>
+      <point x="352" y="1284" type="curve" smooth="yes"></point>
+      <point x="298" y="1284"></point>
+      <point x="259" y="1324"></point>
+      <point x="259" y="1380" type="curve" smooth="yes"></point>
+      <point x="259" y="1437"></point>
+      <point x="298" y="1476"></point>
+    </contour>
+    <contour>
+      <point x="807" y="1380" type="curve" smooth="yes"></point>
+      <point x="807" y="1324"></point>
+      <point x="767" y="1284"></point>
+      <point x="714" y="1284" type="curve" smooth="yes"></point>
+      <point x="661" y="1284"></point>
+      <point x="622" y="1324"></point>
+      <point x="622" y="1380" type="curve" smooth="yes"></point>
+      <point x="622" y="1437"></point>
+      <point x="661" y="1476"></point>
+      <point x="714" y="1476" type="curve" smooth="yes"></point>
+      <point x="767" y="1476"></point>
+      <point x="807" y="1437"></point>
+    </contour>
+    <contour>
+      <point x="540" y="1054.55" type="move" name="_top"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>845</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

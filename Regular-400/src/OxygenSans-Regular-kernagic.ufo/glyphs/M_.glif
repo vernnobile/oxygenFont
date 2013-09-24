@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="M" format="1">
+  <advance width="1732"></advance>
+  <unicode hex="004D"></unicode>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"></point>
+      <point x="304" y="0" type="line"></point>
+      <point x="330" y="924" type="line"></point>
+      <point x="330" y="1314" type="line"></point>
+      <point x="300" y="1304" type="line"></point>
+      <point x="790" y="167" type="line"></point>
+      <point x="941" y="167" type="line"></point>
+      <point x="1440" y="1303" type="line"></point>
+      <point x="1404" y="1315" type="line"></point>
+      <point x="1404" y="928" type="line"></point>
+      <point x="1430" y="0" type="line"></point>
+      <point x="1594" y="0" type="line"></point>
+      <point x="1553" y="1456" type="line"></point>
+      <point x="1343" y="1456" type="line"></point>
+      <point x="845" y="318" type="line"></point>
+      <point x="889" y="318" type="line"></point>
+      <point x="395" y="1456" type="line"></point>
+      <point x="179" y="1456" type="line"></point>
+    </contour>
+    <contour>
+      <point x="881" y="1456" type="move" name="top"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>185</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>214</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>332</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>39</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1477</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1691</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10077" format="1">
-  <advance width="1162"></advance>
-  <unicode hex="043B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10077" format="1">
+  <advance width="1162"/>
+  <unicode hex="043B"/>
   <outline>
     <contour>
-      <point x="26" y="-7" type="curve"></point>
-      <point x="8" y="95" type="line"></point>
-      <point x="184" y="95"></point>
-      <point x="250" y="139"></point>
-      <point x="297" y="501" type="curve"></point>
-      <point x="362" y="1082" type="line"></point>
-      <point x="1010" y="1082" type="line"></point>
-      <point x="1010" y="-1" type="line"></point>
-      <point x="881" y="-1" type="line"></point>
-      <point x="881" y="986" type="line"></point>
-      <point x="473" y="986" type="line"></point>
-      <point x="411" y="489" type="line"></point>
-      <point x="362" y="65"></point>
-      <point x="274" y="-7"></point>
+      <point x="26" y="-7" type="curve"/>
+      <point x="8" y="95" type="line"/>
+      <point x="184" y="95"/>
+      <point x="250" y="139"/>
+      <point x="297" y="501" type="curve"/>
+      <point x="362" y="1082" type="line"/>
+      <point x="1010" y="1082" type="line"/>
+      <point x="1010" y="-1" type="line"/>
+      <point x="881" y="-1" type="line"/>
+      <point x="881" y="986" type="line"/>
+      <point x="473" y="986" type="line"/>
+      <point x="411" y="489" type="line"/>
+      <point x="362" y="65"/>
+      <point x="274" y="-7"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -57,8 +56,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1219</integer>
+          <integer>1162</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

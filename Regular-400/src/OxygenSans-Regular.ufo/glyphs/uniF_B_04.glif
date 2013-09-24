@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uniFB04" format="1">
-  <advance width="-10939"></advance>
-  <unicode hex="FB04"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB04" format="1">
+  <advance width="-10939"/>
+  <unicode hex="FB04"/>
   <outline>
-    <component base="f" xOffset="750"></component>
-    <component base="f"></component>
-    <component base="l" xOffset="1500"></component>
+    <component base="f" xOffset="750"/>
+    <component base="f"/>
+    <component base="l" xOffset="1500"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -31,10 +31,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10932</integer>
+          <integer>-10939</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

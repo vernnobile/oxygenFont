@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Ebreve" format="1">
-  <advance width="-10939"></advance>
-  <unicode hex="0114"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="-10939"/>
+  <unicode hex="0114"/>
   <outline>
-    <component base="E"></component>
-    <component base="breve" xOffset="343.0" yOffset="450.725"></component>
+    <component base="E"/>
+    <component base="breve" xOffset="343.0" yOffset="450.725"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -31,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1197</integer>
+          <integer>-10939</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

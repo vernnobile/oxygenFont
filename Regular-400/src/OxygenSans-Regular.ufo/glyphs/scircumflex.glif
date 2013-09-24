@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="scircumflex" format="1">
-  <advance width="-10939"></advance>
-  <unicode hex="015D"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scircumflex" format="1">
+  <advance width="-10939"/>
+  <unicode hex="015D"/>
   <outline>
-    <component base="s"></component>
-    <component base="circumflex" xOffset="133.0" yOffset="78.95"></component>
+    <component base="s"/>
+    <component base="circumflex" xOffset="133.0" yOffset="78.95"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -31,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <real>984.0</real>
+          <integer>-10939</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

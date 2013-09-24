@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="rcaron" format="1">
-  <advance width="-10939"></advance>
-  <unicode hex="0159"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron" format="1">
+  <advance width="-10939"/>
+  <unicode hex="0159"/>
   <outline>
-    <component base="r"></component>
-    <component base="caron" xOffset="70.0" yOffset="77.55"></component>
+    <component base="r"/>
+    <component base="caron" xOffset="70.0" yOffset="77.55"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -31,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>702</integer>
+          <integer>-10939</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

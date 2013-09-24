@@ -1,20 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="acute.cap" format="1">
-  <advance width="739"></advance>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="739"/>
   <outline>
     <contour>
-      <point x="161" y="1058" type="line"></point>
-      <point x="308" y="1058" type="line"></point>
-      <point x="620" y="1357" type="line"></point>
-      <point x="414" y="1357" type="line"></point>
+      <point x="161" y="1058" type="line"/>
+      <point x="308" y="1058" type="line"/>
+      <point x="620" y="1357" type="line"/>
+      <point x="414" y="1357" type="line"/>
     </contour>
     <contour>
-      <point x="249" y="945.25" type="move" name="_top"></point>
+      <point x="249" y="945.25" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
@@ -40,8 +39,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>619</integer>
+          <integer>739</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

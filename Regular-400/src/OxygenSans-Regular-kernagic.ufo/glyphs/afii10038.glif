@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10038" format="1">
+  <advance width="1674"></advance>
+  <unicode hex="0424"></unicode>
+  <outline>
+    <contour>
+      <point x="897" y="262" type="curve"></point>
+      <point x="897" y="1215" type="line"></point>
+      <point x="1249" y="1180"></point>
+      <point x="1403" y="1006"></point>
+      <point x="1403" y="738" type="curve" smooth="yes"></point>
+      <point x="1403" y="473"></point>
+      <point x="1250" y="297"></point>
+    </contour>
+    <contour>
+      <point x="764" y="264" type="line"></point>
+      <point x="430" y="303"></point>
+      <point x="276" y="474"></point>
+      <point x="276" y="738" type="curve" smooth="yes"></point>
+      <point x="276" y="1003"></point>
+      <point x="429" y="1174"></point>
+      <point x="764" y="1213" type="curve"></point>
+    </contour>
+    <contour>
+      <point x="764" y="0" type="line"></point>
+      <point x="897" y="0" type="line"></point>
+      <point x="897" y="120" type="line"></point>
+      <point x="1318" y="152"></point>
+      <point x="1566" y="361"></point>
+      <point x="1566" y="737" type="curve" smooth="yes"></point>
+      <point x="1566" y="1115"></point>
+      <point x="1319" y="1326"></point>
+      <point x="897" y="1357" type="curve"></point>
+      <point x="897" y="1488" type="line"></point>
+      <point x="764" y="1488" type="line"></point>
+      <point x="764" y="1355" type="line"></point>
+      <point x="338" y="1314"></point>
+      <point x="113" y="1092"></point>
+      <point x="113" y="737" type="curve" smooth="yes"></point>
+      <point x="113" y="384"></point>
+      <point x="337" y="162"></point>
+      <point x="764" y="121" type="curve"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10038</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1638</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

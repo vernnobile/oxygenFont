@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10027" format="1">
-  <advance width="475"></advance>
-  <unicode hex="0419"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10027" format="1">
+  <advance width="475"/>
+  <unicode hex="0419"/>
   <outline>
-    <component base="breve" xOffset="145"></component>
+    <component base="breve" xOffset="145"/>
     <contour>
-      <point x="237" y="1005.275" type="move" name="_top"></point>
+      <point x="237" y="1005.275" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -33,8 +32,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1024</integer>
+          <integer>475</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

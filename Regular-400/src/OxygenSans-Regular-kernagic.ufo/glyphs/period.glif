@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="period" format="1">
+  <advance width="635"></advance>
+  <unicode hex="002E"></unicode>
+  <outline>
+    <contour>
+      <point x="330" y="-11" type="curve" smooth="yes"></point>
+      <point x="408" y="-11"></point>
+      <point x="442" y="47"></point>
+      <point x="442" y="106" type="curve" smooth="yes"></point>
+      <point x="442" y="163"></point>
+      <point x="408" y="223"></point>
+      <point x="330" y="223" type="curve" smooth="yes"></point>
+      <point x="251" y="223"></point>
+      <point x="215" y="163"></point>
+      <point x="215" y="106" type="curve" smooth="yes"></point>
+      <point x="215" y="47"></point>
+      <point x="252" y="-11"></point>
+    </contour>
+    <contour>
+      <point x="323" y="102.775" type="move" name="_mid"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>period</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>634</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

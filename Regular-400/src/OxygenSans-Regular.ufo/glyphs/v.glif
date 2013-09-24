@@ -1,31 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="v" format="1">
-  <advance width="1057"></advance>
-  <unicode hex="0076"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="1057"/>
+  <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="447" y="0" type="line"></point>
-      <point x="614" y="0" type="line"></point>
-      <point x="1003" y="1082" type="line"></point>
-      <point x="837" y="1082" type="line"></point>
-      <point x="655" y="550" type="line"></point>
-      <point x="511" y="136" type="line"></point>
-      <point x="554" y="136" type="line"></point>
-      <point x="405" y="551" type="line"></point>
-      <point x="221" y="1082" type="line"></point>
-      <point x="53" y="1082" type="line"></point>
+      <point x="447" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="1003" y="1082" type="line"/>
+      <point x="837" y="1082" type="line"/>
+      <point x="655" y="550" type="line"/>
+      <point x="511" y="136" type="line"/>
+      <point x="554" y="136" type="line"/>
+      <point x="405" y="551" type="line"/>
+      <point x="221" y="1082" type="line"/>
+      <point x="53" y="1082" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <false></false>
+          <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
@@ -58,8 +57,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1030</integer>
+          <integer>1057</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>
