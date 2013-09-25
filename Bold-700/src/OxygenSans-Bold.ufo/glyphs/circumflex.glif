@@ -1,23 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex" format="1">
-  <advance width="735"/>
-  <unicode hex="02C6"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="circumflex" format="1">
+  <advance width="642"></advance>
+  <unicode hex="02C6"></unicode>
   <outline>
     <contour>
-      <point x="41" y="1152" type="line"/>
-      <point x="201" y="1152" type="line"/>
-      <point x="357" y="1311" type="line"/>
-      <point x="521" y="1152" type="line"/>
-      <point x="683" y="1152" type="line"/>
-      <point x="465" y="1460" type="line"/>
-      <point x="263" y="1460" type="line"/>
+      <point x="0" y="1152" type="line"></point>
+      <point x="160" y="1152" type="line"></point>
+      <point x="316" y="1314" type="line"></point>
+      <point x="480" y="1152" type="line"></point>
+      <point x="642" y="1152" type="line"></point>
+      <point x="424" y="1467" type="line"></point>
+      <point x="222" y="1467" type="line"></point>
     </contour>
     <contour>
-      <point x="358" y="1060" type="move" name="_top"/>
+      <point x="317" y="1057.97600281" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -40,9 +42,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>735</integer>
+          <integer>939</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

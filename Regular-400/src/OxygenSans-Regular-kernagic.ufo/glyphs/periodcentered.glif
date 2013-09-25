@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="periodcentered" format="1">
-  <advance width="635"></advance>
+  <advance width="222"></advance>
   <unicode hex="00B7"></unicode>
   <outline>
     <contour>
-      <point x="326" y="732" type="curve" smooth="yes"></point>
-      <point x="389" y="732"></point>
-      <point x="437" y="688"></point>
-      <point x="437" y="624" type="curve" smooth="yes"></point>
-      <point x="437" y="559"></point>
-      <point x="389" y="514"></point>
-      <point x="326" y="514" type="curve" smooth="yes"></point>
-      <point x="262" y="514"></point>
-      <point x="215" y="559"></point>
-      <point x="215" y="624" type="curve" smooth="yes"></point>
-      <point x="215" y="688"></point>
-      <point x="262" y="732"></point>
+      <point x="111" y="732" type="curve" smooth="yes"></point>
+      <point x="174" y="732"></point>
+      <point x="222" y="688"></point>
+      <point x="222" y="624" type="curve" smooth="yes"></point>
+      <point x="222" y="559"></point>
+      <point x="174" y="514"></point>
+      <point x="111" y="514" type="curve" smooth="yes"></point>
+      <point x="47" y="514"></point>
+      <point x="0" y="559"></point>
+      <point x="0" y="624" type="curve" smooth="yes"></point>
+      <point x="0" y="688"></point>
+      <point x="47" y="732"></point>
     </contour>
     <contour>
-      <point x="327" y="622.65" type="move" name="_mid"></point>
+      <point x="112" y="622.65" type="move" name="_mid"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>

@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessj" format="1">
-  <advance width="866"></advance>
+  <advance width="378"></advance>
   <outline>
     <contour>
-      <point x="278" y="-378" type="line"></point>
-      <point x="337" y="-371" type="line" smooth="yes"></point>
-      <point x="557" y="-344"></point>
-      <point x="637" y="-269"></point>
-      <point x="637" y="-10" type="curve" smooth="yes"></point>
-      <point x="637" y="1082" type="line"></point>
-      <point x="473" y="1082" type="line"></point>
-      <point x="473" y="21" type="line" smooth="yes"></point>
-      <point x="473" y="-169"></point>
-      <point x="470" y="-205"></point>
-      <point x="321" y="-235" type="curve" smooth="yes"></point>
-      <point x="259" y="-247" type="line"></point>
+      <point x="19" y="-378" type="line"></point>
+      <point x="78" y="-371" type="line" smooth="yes"></point>
+      <point x="298" y="-344"></point>
+      <point x="378" y="-269"></point>
+      <point x="378" y="-10" type="curve" smooth="yes"></point>
+      <point x="378" y="1082" type="line"></point>
+      <point x="214" y="1082" type="line"></point>
+      <point x="214" y="21" type="line" smooth="yes"></point>
+      <point x="214" y="-169"></point>
+      <point x="211" y="-205"></point>
+      <point x="62" y="-235" type="curve" smooth="yes"></point>
+      <point x="0" y="-247" type="line"></point>
     </contour>
     <contour>
-      <point x="560" y="1082" type="move" name="top"></point>
+      <point x="301" y="1082" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>

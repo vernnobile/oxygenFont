@@ -1,59 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onequarter" format="1">
-  <advance width="1581"/>
-  <unicode hex="00BC"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="onequarter" format="1">
+  <advance width="1512"></advance>
+  <unicode hex="00BC"></unicode>
   <outline>
     <contour>
-      <point x="77" y="584" type="line"/>
-      <point x="535" y="584" type="line"/>
-      <point x="535" y="725" type="line"/>
-      <point x="398" y="725" type="line"/>
-      <point x="398" y="1460" type="line"/>
-      <point x="263" y="1460" type="line"/>
-      <point x="229" y="1435"/>
-      <point x="109" y="1372"/>
-      <point x="63" y="1353" type="curve"/>
-      <point x="63" y="1211" type="line"/>
-      <point x="78" y="1216"/>
-      <point x="186" y="1264"/>
-      <point x="223" y="1284" type="curve"/>
-      <point x="223" y="725" type="line"/>
-      <point x="77" y="725" type="line"/>
+      <point x="14" y="597" type="line"></point>
+      <point x="471" y="597" type="line"></point>
+      <point x="471" y="741" type="line"></point>
+      <point x="334" y="741" type="line"></point>
+      <point x="334" y="1492" type="line"></point>
+      <point x="199" y="1492" type="line"></point>
+      <point x="165" y="1467"></point>
+      <point x="45" y="1402"></point>
+      <point x="0" y="1383" type="curve"></point>
+      <point x="0" y="1238" type="line"></point>
+      <point x="15" y="1243"></point>
+      <point x="122" y="1292"></point>
+      <point x="159" y="1312" type="curve"></point>
+      <point x="159" y="741" type="line"></point>
+      <point x="14" y="741" type="line"></point>
     </contour>
     <contour>
-      <point x="1311" y="0" type="line"/>
-      <point x="1463" y="0" type="line"/>
-      <point x="1463" y="180" type="line"/>
-      <point x="1571" y="180" type="line"/>
-      <point x="1576" y="305" type="line"/>
-      <point x="1463" y="305" type="line"/>
-      <point x="1463" y="848" type="line"/>
-      <point x="1301" y="848" type="line"/>
-      <point x="927" y="302" type="line"/>
-      <point x="927" y="180" type="line"/>
-      <point x="1311" y="180" type="line"/>
+      <point x="1247" y="0" type="line"></point>
+      <point x="1399" y="0" type="line"></point>
+      <point x="1399" y="184" type="line"></point>
+      <point x="1507" y="184" type="line"></point>
+      <point x="1512" y="312" type="line"></point>
+      <point x="1399" y="312" type="line"></point>
+      <point x="1399" y="867" type="line"></point>
+      <point x="1237" y="867" type="line"></point>
+      <point x="863" y="309" type="line"></point>
+      <point x="863" y="184" type="line"></point>
+      <point x="1247" y="184" type="line"></point>
     </contour>
     <contour>
-      <point x="289" y="0" type="line"/>
-      <point x="470" y="0" type="line"/>
-      <point x="1423" y="1460" type="line"/>
-      <point x="1247" y="1460" type="line"/>
+      <point x="225" y="0" type="line"></point>
+      <point x="406" y="0" type="line"></point>
+      <point x="1359" y="1492" type="line"></point>
+      <point x="1183" y="1492" type="line"></point>
     </contour>
     <contour>
-      <point x="1094" y="305" type="line"/>
-      <point x="1311" y="651" type="line"/>
-      <point x="1311" y="305" type="line"/>
+      <point x="1030" y="312" type="line"></point>
+      <point x="1247" y="665" type="line"></point>
+      <point x="1247" y="312" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
           <real>90.0</real>
           <key>isGlobal</key>
-          <false/>
+          <false></false>
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
@@ -67,7 +69,7 @@
           <key>angle</key>
           <real>90.0</real>
           <key>isGlobal</key>
-          <false/>
+          <false></false>
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
@@ -100,9 +102,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1581</integer>
+          <integer>1491</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

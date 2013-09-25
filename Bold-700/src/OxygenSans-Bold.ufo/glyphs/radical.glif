@@ -1,21 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="radical" format="1">
-  <advance width="1265"/>
-  <unicode hex="221A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="radical" format="1">
+  <advance width="1073"></advance>
+  <unicode hex="221A"></unicode>
   <outline>
     <contour>
-      <point x="609" y="-165" type="line"/>
-      <point x="278" y="737" type="line"/>
-      <point x="126" y="707" type="line"/>
-      <point x="111" y="827" type="line"/>
-      <point x="370" y="883" type="line"/>
-      <point x="609" y="228" type="line"/>
-      <point x="668" y="44" type="line"/>
-      <point x="803" y="599"/>
-      <point x="936" y="1150"/>
-      <point x="1072" y="1705" type="curve"/>
-      <point x="1184" y="1705" type="line"/>
-      <point x="747" y="-165" type="line"/>
+      <point x="498" y="-165" type="line"></point>
+      <point x="167" y="757" type="line"></point>
+      <point x="15" y="726" type="line"></point>
+      <point x="0" y="849" type="line"></point>
+      <point x="259" y="906" type="line"></point>
+      <point x="498" y="237" type="line"></point>
+      <point x="557" y="49" type="line"></point>
+      <point x="692" y="616"></point>
+      <point x="825" y="1179"></point>
+      <point x="961" y="1746" type="curve"></point>
+      <point x="1073" y="1746" type="line"></point>
+      <point x="636" y="-165" type="line"></point>
     </contour>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radical</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1049</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

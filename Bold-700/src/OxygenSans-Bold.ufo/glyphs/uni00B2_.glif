@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni00B2" format="1">
+  <advance width="573"></advance>
+  <unicode hex="00B2"></unicode>
+  <outline>
+    <contour>
+      <point x="15" y="600" type="line"></point>
+      <point x="15" y="735" type="line"></point>
+      <point x="88" y="811"></point>
+      <point x="410" y="1068"></point>
+      <point x="410" y="1200" type="curve" smooth="yes"></point>
+      <point x="410" y="1286"></point>
+      <point x="345" y="1331"></point>
+      <point x="279" y="1331" type="curve" smooth="yes"></point>
+      <point x="206" y="1331"></point>
+      <point x="127" y="1298"></point>
+      <point x="77" y="1229" type="curve"></point>
+      <point x="0" y="1336" type="line"></point>
+      <point x="58" y="1429"></point>
+      <point x="169" y="1479"></point>
+      <point x="290" y="1479" type="curve" smooth="yes"></point>
+      <point x="434" y="1479"></point>
+      <point x="573" y="1382"></point>
+      <point x="573" y="1207" type="curve" smooth="yes"></point>
+      <point x="573" y="1015"></point>
+      <point x="430" y="903"></point>
+      <point x="244" y="738" type="curve"></point>
+      <point x="569" y="738" type="line"></point>
+      <point x="556" y="600" type="line"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>600</integer>
+            <key>width</key>
+            <integer>135</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1315</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>490</integer>
+            <key>width</key>
+            <integer>163</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni00B2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>828</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

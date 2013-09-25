@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0407" format="1">
-  <advance width="660"/>
-  <unicode hex="0407"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0407" format="1">
+  <advance width="-16384"></advance>
+  <unicode hex="0407"></unicode>
   <outline>
-    <component base="dieresis" xOffset="-36" yOffset="381"/>
-    <component base="uni0406"/>
+    <component base="dieresis" xOffset="-36" yOffset="381"></component>
+    <component base="uni0406"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -30,9 +32,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>660</integer>
+          <integer>-10937</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

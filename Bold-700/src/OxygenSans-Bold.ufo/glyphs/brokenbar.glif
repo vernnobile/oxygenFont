@@ -1,19 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brokenbar" format="1">
-  <advance width="564"/>
-  <unicode hex="00A6"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="brokenbar" format="1">
+  <advance width="177"></advance>
+  <unicode hex="00A6"></unicode>
   <outline>
     <contour>
-      <point x="211" y="-303" type="line"/>
-      <point x="211" y="404" type="line"/>
-      <point x="388" y="404" type="line"/>
-      <point x="388" y="-303" type="line"/>
+      <point x="0" y="-303" type="line"></point>
+      <point x="0" y="420" type="line"></point>
+      <point x="177" y="420" type="line"></point>
+      <point x="177" y="-303" type="line"></point>
     </contour>
     <contour>
-      <point x="211" y="765" type="line"/>
-      <point x="211" y="1470" type="line"/>
-      <point x="388" y="1470" type="line"/>
-      <point x="388" y="765" type="line"/>
+      <point x="0" y="788" type="line"></point>
+      <point x="0" y="1509" type="line"></point>
+      <point x="177" y="1509" type="line"></point>
+      <point x="177" y="788" type="line"></point>
     </contour>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

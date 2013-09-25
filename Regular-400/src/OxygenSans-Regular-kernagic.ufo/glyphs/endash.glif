@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="endash" format="1">
-  <advance width="1386"></advance>
+  <advance width="1204"></advance>
   <unicode hex="2013"></unicode>
   <outline>
     <contour>
-      <point x="75" y="521" type="line"></point>
-      <point x="1279" y="521" type="line"></point>
-      <point x="1279" y="658" type="line"></point>
-      <point x="75" y="658" type="line"></point>
+      <point x="0" y="521" type="line"></point>
+      <point x="1204" y="521" type="line"></point>
+      <point x="1204" y="658" type="line"></point>
+      <point x="0" y="658" type="line"></point>
     </contour>
     <contour>
-      <point x="689" y="588.65" type="move" name="_mid"></point>
+      <point x="614" y="588.65" type="move" name="_mid"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>

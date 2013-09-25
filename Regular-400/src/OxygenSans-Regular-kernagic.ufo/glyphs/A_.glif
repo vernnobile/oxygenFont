@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="A" format="1">
-  <advance width="1328"></advance>
+  <advance width="1245"></advance>
   <unicode hex="0041"></unicode>
   <outline>
     <contour>
-      <point x="18" y="0" type="line"></point>
-      <point x="196" y="0" type="line"></point>
-      <point x="387" y="513" type="line"></point>
-      <point x="325" y="462" type="line"></point>
-      <point x="1005" y="462" type="line"></point>
-      <point x="938" y="508" type="line"></point>
-      <point x="1128" y="0" type="line"></point>
-      <point x="1302" y="0" type="line"></point>
-      <point x="745" y="1456" type="line"></point>
-      <point x="574" y="1456" type="line"></point>
+      <point x="-13" y="0" type="line"></point>
+      <point x="164" y="0" type="line"></point>
+      <point x="355" y="513" type="line"></point>
+      <point x="293" y="462" type="line"></point>
+      <point x="973" y="462" type="line"></point>
+      <point x="906" y="508" type="line"></point>
+      <point x="1096" y="0" type="line"></point>
+      <point x="1270" y="0" type="line"></point>
+      <point x="713" y="1456" type="line"></point>
+      <point x="542" y="1456" type="line"></point>
     </contour>
     <contour>
-      <point x="392" y="543" type="line"></point>
-      <point x="686" y="1350" type="line"></point>
-      <point x="634" y="1350" type="line"></point>
-      <point x="934" y="535" type="line"></point>
-      <point x="974" y="587" type="line"></point>
-      <point x="359" y="587" type="line"></point>
+      <point x="360" y="543" type="line"></point>
+      <point x="654" y="1350" type="line"></point>
+      <point x="602" y="1350" type="line"></point>
+      <point x="902" y="535" type="line"></point>
+      <point x="942" y="587" type="line"></point>
+      <point x="327" y="587" type="line"></point>
     </contour>
     <contour>
-      <point x="660" y="0.0" type="move" name="bot"></point>
+      <point x="628" y="0.0" type="move" name="bot"></point>
     </contour>
     <contour>
-      <point x="1196" y="0.0" type="move" name="ogonek"></point>
+      <point x="1164" y="0.0" type="move" name="ogonek"></point>
     </contour>
     <contour>
-      <point x="658" y="1456" type="move" name="top"></point>
+      <point x="626" y="1456" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>

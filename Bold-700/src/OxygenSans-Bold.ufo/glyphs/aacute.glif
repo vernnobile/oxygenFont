@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="1115"/>
+  <advance width="-16384"/>
   <unicode hex="00E1"/>
   <outline>
     <component base="a"/>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1115</integer>
+          <integer>-16384</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

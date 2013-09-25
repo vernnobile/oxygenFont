@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Omega" format="1">
+  <advance width="1426"></advance>
+  <unicode hex="03A9"></unicode>
+  <outline>
+    <contour>
+      <point x="714" y="201" type="curve" smooth="yes"></point>
+      <point x="989" y="201"></point>
+      <point x="1152" y="423"></point>
+      <point x="1152" y="739" type="curve" smooth="yes"></point>
+      <point x="1152" y="1063"></point>
+      <point x="986" y="1285"></point>
+      <point x="714" y="1285" type="curve" smooth="yes"></point>
+      <point x="442" y="1285"></point>
+      <point x="273" y="1064"></point>
+      <point x="273" y="739" type="curve" smooth="yes"></point>
+      <point x="273" y="423"></point>
+      <point x="439" y="201"></point>
+    </contour>
+    <contour>
+      <point x="714" y="-20" type="curve" smooth="yes"></point>
+      <point x="283" y="-20"></point>
+      <point x="0" y="270"></point>
+      <point x="0" y="741" type="curve" smooth="yes"></point>
+      <point x="0" y="1219"></point>
+      <point x="287" y="1507"></point>
+      <point x="714" y="1507" type="curve" smooth="yes"></point>
+      <point x="1139" y="1507"></point>
+      <point x="1426" y="1218"></point>
+      <point x="1426" y="741" type="curve" smooth="yes"></point>
+      <point x="1426" y="273"></point>
+      <point x="1143" y="-20"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Omega</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1546</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

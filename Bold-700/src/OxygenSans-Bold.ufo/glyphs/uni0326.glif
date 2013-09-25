@@ -1,13 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0326" format="1">
-  <advance width="302"/>
-  <unicode hex="0326"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0326" format="1">
+  <advance width="188"></advance>
+  <unicode hex="0326"></unicode>
   <outline>
     <contour>
-      <point x="52" y="-677" type="line"/>
-      <point x="135" y="-200" type="line"/>
-      <point x="240" y="-200" type="line"/>
-      <point x="119" y="-677" type="line"/>
+      <point x="0" y="-677" type="line"></point>
+      <point x="83" y="-190" type="line"></point>
+      <point x="188" y="-190" type="line"></point>
+      <point x="67" y="-677" type="line"></point>
     </contour>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0326</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>607</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

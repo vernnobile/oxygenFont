@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zacute" format="1">
-  <advance width="967"/>
-  <unicode hex="017A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="zacute" format="1">
+  <advance width="-16384"></advance>
+  <unicode hex="017A"></unicode>
   <outline>
-    <component base="acute" xOffset="295" yOffset="45"/>
-    <component base="z"/>
+    <component base="acute" xOffset="295" yOffset="45"></component>
+    <component base="z"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -30,9 +31,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>967</integer>
+          <integer>-16384</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

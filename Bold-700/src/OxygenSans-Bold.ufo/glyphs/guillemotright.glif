@@ -1,27 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guillemotright" format="1">
-  <advance width="1029"/>
-  <unicode hex="00BB"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="guillemotright" format="1">
+  <advance width="866"></advance>
+  <unicode hex="00BB"></unicode>
   <outline>
     <contour>
-      <point x="664" y="970" type="line"/>
-      <point x="493" y="970" type="line"/>
-      <point x="753" y="553" type="line"/>
-      <point x="488" y="138" type="line"/>
-      <point x="661" y="138" type="line"/>
-      <point x="967" y="556" type="line"/>
+      <point x="563" y="988" type="line"></point>
+      <point x="392" y="988" type="line"></point>
+      <point x="652" y="562" type="line"></point>
+      <point x="387" y="138" type="line"></point>
+      <point x="560" y="138" type="line"></point>
+      <point x="866" y="565" type="line"></point>
     </contour>
     <contour>
-      <point x="278" y="970" type="line"/>
-      <point x="105" y="970" type="line"/>
-      <point x="368" y="553" type="line"/>
-      <point x="101" y="138" type="line"/>
-      <point x="276" y="138" type="line"/>
-      <point x="580" y="556" type="line"/>
+      <point x="177" y="988" type="line"></point>
+      <point x="4" y="988" type="line"></point>
+      <point x="267" y="562" type="line"></point>
+      <point x="0" y="138" type="line"></point>
+      <point x="175" y="138" type="line"></point>
+      <point x="479" y="565" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -44,9 +46,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1029</integer>
+          <integer>994</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

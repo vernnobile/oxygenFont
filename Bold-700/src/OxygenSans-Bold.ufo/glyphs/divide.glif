@@ -1,25 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="divide" format="1">
-  <advance width="1241"/>
-  <unicode hex="00F7"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="divide" format="1">
+  <advance width="1020"></advance>
+  <unicode hex="00F7"></unicode>
   <outline>
     <contour>
-      <point x="497" y="25" type="line"/>
-      <point x="740" y="25" type="line"/>
-      <point x="740" y="273" type="line"/>
-      <point x="497" y="273" type="line"/>
+      <point x="389" y="25" type="line"></point>
+      <point x="632" y="25" type="line"></point>
+      <point x="632" y="278" type="line"></point>
+      <point x="389" y="278" type="line"></point>
     </contour>
     <contour>
-      <point x="108" y="488" type="line"/>
-      <point x="1128" y="488" type="line"/>
-      <point x="1128" y="661" type="line"/>
-      <point x="108" y="661" type="line"/>
+      <point x="0" y="498" type="line"></point>
+      <point x="1020" y="498" type="line"></point>
+      <point x="1020" y="675" type="line"></point>
+      <point x="0" y="675" type="line"></point>
     </contour>
     <contour>
-      <point x="497" y="869" type="line"/>
-      <point x="746" y="869" type="line"/>
-      <point x="746" y="1108" type="line"/>
-      <point x="497" y="1108" type="line"/>
+      <point x="389" y="888" type="line"></point>
+      <point x="638" y="888" type="line"></point>
+      <point x="638" y="1132" type="line"></point>
+      <point x="389" y="1132" type="line"></point>
     </contour>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1215</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

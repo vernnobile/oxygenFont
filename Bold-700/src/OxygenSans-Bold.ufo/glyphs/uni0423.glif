@@ -1,19 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0423" format="1">
-  <advance width="1361"/>
-  <unicode hex="0423"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0423" format="1">
+  <advance width="1079"></advance>
+  <unicode hex="0423"></unicode>
   <outline>
     <contour>
-      <point x="425" y="0" type="line"/>
-      <point x="694" y="546" type="line"/>
-      <point x="711" y="463" type="line"/>
-      <point x="161" y="1469" type="line"/>
-      <point x="278" y="1469" type="line"/>
-      <point x="764" y="563" type="line"/>
-      <point x="720" y="595" type="line"/>
-      <point x="1123" y="1469" type="line"/>
-      <point x="1241" y="1469" type="line"/>
-      <point x="543" y="0" type="line"/>
+      <point x="263" y="0" type="line"></point>
+      <point x="532" y="558" type="line"></point>
+      <point x="549" y="473" type="line"></point>
+      <point x="0" y="1501" type="line"></point>
+      <point x="116" y="1501" type="line"></point>
+      <point x="602" y="575" type="line"></point>
+      <point x="558" y="608" type="line"></point>
+      <point x="961" y="1501" type="line"></point>
+      <point x="1079" y="1501" type="line"></point>
+      <point x="381" y="0" type="line"></point>
     </contour>
   </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0423</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>994</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
 </glyph>

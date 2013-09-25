@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="uni0311" format="1">
-  <advance width="866"></advance>
+  <advance width="465"></advance>
   <unicode hex="0311"></unicode>
   <outline>
     <contour>
-      <point x="208" y="1058" type="curve"></point>
-      <point x="308" y="1058" type="line"></point>
-      <point x="308" y="1157"></point>
-      <point x="364" y="1205"></point>
-      <point x="438" y="1205" type="curve" smooth="yes"></point>
-      <point x="511" y="1205"></point>
-      <point x="570" y="1157"></point>
-      <point x="570" y="1058" type="curve"></point>
-      <point x="673" y="1058" type="line"></point>
-      <point x="673" y="1229"></point>
-      <point x="552" y="1301"></point>
-      <point x="437" y="1301" type="curve" smooth="yes"></point>
-      <point x="323" y="1301"></point>
-      <point x="208" y="1230"></point>
+      <point x="0" y="1058" type="curve"></point>
+      <point x="100" y="1058" type="line"></point>
+      <point x="100" y="1157"></point>
+      <point x="156" y="1205"></point>
+      <point x="230" y="1205" type="curve" smooth="yes"></point>
+      <point x="303" y="1205"></point>
+      <point x="362" y="1157"></point>
+      <point x="362" y="1058" type="curve"></point>
+      <point x="465" y="1058" type="line"></point>
+      <point x="465" y="1229"></point>
+      <point x="344" y="1301"></point>
+      <point x="229" y="1301" type="curve" smooth="yes"></point>
+      <point x="115" y="1301"></point>
+      <point x="0" y="1230"></point>
     </contour>
     <contour>
-      <point x="439" y="945.25" type="move" name="_top"></point>
+      <point x="231" y="945.25" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>

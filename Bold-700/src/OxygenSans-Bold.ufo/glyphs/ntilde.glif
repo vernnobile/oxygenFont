@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ntilde" format="1">
-  <advance width="1207"/>
-  <unicode hex="00F1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ntilde" format="1">
+  <advance width="-16384"></advance>
+  <unicode hex="00F1"></unicode>
   <outline>
-    <component base="n"/>
-    <component base="tilde" xOffset="236" yOffset="34"/>
+    <component base="n"></component>
+    <component base="tilde" xOffset="236" yOffset="34"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -81,9 +83,10 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1207</integer>
+          <integer>-10937</integer>
         </dict>
       </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>
