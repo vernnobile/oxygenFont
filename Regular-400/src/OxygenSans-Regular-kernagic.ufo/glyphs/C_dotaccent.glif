@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Cdotaccent" format="1">
-  <advance width="-16384"/>
-  <unicode hex="010A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Cdotaccent" format="1">
+  <advance width="-10907"></advance>
+  <unicode hex="010A"></unicode>
   <outline>
-    <component base="C"/>
-    <component base="dotaccent" xOffset="535.0" yOffset="452.275"/>
+    <component base="C"></component>
+    <component base="dotaccent" xOffset="535.0" yOffset="452.275"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -33,13 +35,7 @@
           <integer>-16384</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

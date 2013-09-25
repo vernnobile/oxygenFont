@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglright" format="1">
-  <advance width="458"/>
-  <unicode hex="203A"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="guilsinglright" format="1">
+  <advance width="762"></advance>
+  <unicode hex="203A"></unicode>
   <outline>
     <contour>
-      <point x="0" y="1001" type="line"/>
-      <point x="285" y="569" type="line"/>
-      <point x="6" y="148" type="line"/>
-      <point x="165" y="148" type="line"/>
-      <point x="458" y="570" type="line"/>
-      <point x="160" y="1001" type="line"/>
+      <point x="138" y="1001" type="line"></point>
+      <point x="423" y="569" type="line"></point>
+      <point x="144" y="148" type="line"></point>
+      <point x="303" y="148" type="line"></point>
+      <point x="596" y="570" type="line"></point>
+      <point x="298" y="1001" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -39,13 +41,7 @@
           <integer>458</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

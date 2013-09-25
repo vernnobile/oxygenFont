@@ -1,32 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T" format="1">
-  <advance width="1245"/>
-  <unicode hex="0054"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="T" format="1">
+  <advance width="1290"></advance>
+  <unicode hex="0054"></unicode>
   <outline>
     <contour>
-      <point x="705" y="0" type="line"/>
-      <point x="881" y="0" type="line"/>
-      <point x="881" y="1387" type="line"/>
-      <point x="822" y="1319" type="line"/>
-      <point x="1360" y="1319" type="line"/>
-      <point x="1360" y="1456" type="line"/>
-      <point x="228" y="1456" type="line"/>
-      <point x="228" y="1319" type="line"/>
-      <point x="759" y="1319" type="line"/>
-      <point x="705" y="1384" type="line"/>
+      <point x="717" y="0" type="line"></point>
+      <point x="893" y="0" type="line"></point>
+      <point x="893" y="1387" type="line"></point>
+      <point x="834" y="1319" type="line"></point>
+      <point x="1372" y="1319" type="line"></point>
+      <point x="1372" y="1456" type="line"></point>
+      <point x="240" y="1456" type="line"></point>
+      <point x="240" y="1319" type="line"></point>
+      <point x="771" y="1319" type="line"></point>
+      <point x="717" y="1384" type="line"></point>
     </contour>
     <contour>
-      <point x="798" y="0.0" type="move" name="bot"/>
+      <point x="810" y="0.0" type="move" name="bot"></point>
     </contour>
     <contour>
-      <point x="797" y="1456" type="move" name="top"/>
+      <point x="809" y="1456" type="move" name="top"></point>
     </contour>
     <contour>
-      <point x="790" y="785.15" type="move" name="mid"/>
+      <point x="802" y="785.15" type="move" name="mid"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -52,13 +54,7 @@
           <integer>1245</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Mu" format="1">
-  <advance width="-16384"/>
-  <unicode hex="039C"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Mu" format="1">
+  <advance width="-10907"></advance>
+  <unicode hex="039C"></unicode>
   <outline>
-    <component base="M"/>
+    <component base="M"></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -32,13 +34,7 @@
           <integer>-16384</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

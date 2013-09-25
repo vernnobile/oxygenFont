@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotaccent" format="1">
-  <advance width="151"/>
-  <unicode hex="02D9"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotaccent" format="1">
+  <advance width="586"></advance>
+  <unicode hex="02D9"></unicode>
   <outline>
     <contour>
-      <point x="0" y="1179" type="line"/>
-      <point x="151" y="1179" type="line"/>
-      <point x="151" y="1354" type="line"/>
-      <point x="0" y="1354" type="line"/>
+      <point x="240" y="1179" type="line"></point>
+      <point x="391" y="1179" type="line"></point>
+      <point x="391" y="1354" type="line"></point>
+      <point x="240" y="1354" type="line"></point>
     </contour>
     <contour>
-      <point x="75" y="1003.725" type="move" name="_top"/>
+      <point x="315" y="1003.725" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -40,13 +42,7 @@
           <integer>151</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

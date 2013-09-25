@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi" format="1">
-  <advance width="164"/>
-  <unicode hex="0131"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotlessi" format="1">
+  <advance width="586"></advance>
+  <unicode hex="0131"></unicode>
   <outline>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="164" y="0" type="line"/>
-      <point x="164" y="1082" type="line"/>
-      <point x="0" y="1082" type="line"/>
+      <point x="214" y="0" type="line"></point>
+      <point x="378" y="0" type="line"></point>
+      <point x="378" y="1082" type="line"></point>
+      <point x="214" y="1082" type="line"></point>
     </contour>
     <contour>
-      <point x="88" y="1082" type="move" name="top"/>
+      <point x="302" y="1082" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -40,13 +42,7 @@
           <integer>164</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

@@ -1,30 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u.alt" format="1">
-  <advance width="866"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="u.alt" format="1">
+  <advance width="1172"></advance>
   <outline>
     <contour>
-      <point x="433" y="-18" type="curve" smooth="yes"/>
-      <point x="138" y="-18"/>
-      <point x="0" y="127"/>
-      <point x="0" y="437" type="curve" smooth="yes"/>
-      <point x="0" y="1085" type="line"/>
-      <point x="166" y="1085" type="line"/>
-      <point x="166" y="439" type="line" smooth="yes"/>
-      <point x="166" y="226"/>
-      <point x="228" y="109"/>
-      <point x="433" y="109" type="curve" smooth="yes"/>
-      <point x="638" y="109"/>
-      <point x="700" y="226"/>
-      <point x="700" y="439" type="curve" smooth="yes"/>
-      <point x="700" y="1085" type="line"/>
-      <point x="866" y="1085" type="line"/>
-      <point x="866" y="437" type="line" smooth="yes"/>
-      <point x="866" y="125"/>
-      <point x="729" y="-18"/>
+      <point x="571" y="-18" type="curve" smooth="yes"></point>
+      <point x="276" y="-18"></point>
+      <point x="138" y="127"></point>
+      <point x="138" y="437" type="curve" smooth="yes"></point>
+      <point x="138" y="1085" type="line"></point>
+      <point x="304" y="1085" type="line"></point>
+      <point x="304" y="439" type="line" smooth="yes"></point>
+      <point x="304" y="226"></point>
+      <point x="366" y="109"></point>
+      <point x="571" y="109" type="curve" smooth="yes"></point>
+      <point x="776" y="109"></point>
+      <point x="838" y="226"></point>
+      <point x="838" y="439" type="curve" smooth="yes"></point>
+      <point x="838" y="1085" type="line"></point>
+      <point x="1004" y="1085" type="line"></point>
+      <point x="1004" y="437" type="line" smooth="yes"></point>
+      <point x="1004" y="125"></point>
+      <point x="867" y="-18"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -77,13 +79,7 @@
           <integer>866</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>

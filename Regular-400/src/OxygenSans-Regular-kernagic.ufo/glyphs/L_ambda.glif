@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lambda" format="1">
-  <advance width="1245"/>
-  <unicode hex="039B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Lambda" format="1">
+  <advance width="1290"></advance>
+  <unicode hex="039B"></unicode>
   <outline>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="533" y="1482" type="line"/>
-      <point x="710" y="1482" type="line"/>
-      <point x="1245" y="0" type="line"/>
-      <point x="1073" y="0" type="line"/>
-      <point x="621" y="1302" type="line"/>
-      <point x="176" y="0" type="line"/>
+      <point x="4" y="0" type="line"></point>
+      <point x="537" y="1482" type="line"></point>
+      <point x="714" y="1482" type="line"></point>
+      <point x="1249" y="0" type="line"></point>
+      <point x="1077" y="0" type="line"></point>
+      <point x="625" y="1302" type="line"></point>
+      <point x="180" y="0" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -40,13 +42,7 @@
           <integer>1245</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
     </dict>
   </lib>
 </glyph>
