@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="cedilla" format="1">
-  <advance width="232"></advance>
-  <unicode hex="00B8"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="232"/>
+  <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="0" y="-430" type="line"></point>
-      <point x="164" y="-456" type="line"></point>
-      <point x="232" y="22" type="line"></point>
-      <point x="166" y="22" type="line"></point>
+      <point x="0" y="-430" type="line"/>
+      <point x="164" y="-456" type="line"/>
+      <point x="232" y="22" type="line"/>
+      <point x="166" y="22" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="11.4" type="move" name="_bot"></point>
+      <point x="195" y="11.4" type="move" name="_bot"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -38,10 +37,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>687</integer>
+          <integer>232</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

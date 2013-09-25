@@ -3,45 +3,38 @@
 <!-- Superpolator Designspace Object -->
 
 <!-- info -->
-<version format="110221_1144_developer_" superpolator="1" />
+<version format="120823_1018_beta_" superpolator="1" />
 <!-- application data -->
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="200.0" />
-<data name="previewtext" value="Glos 985" />
+<data name="previewTypeSize" value="120.0" />
+<data name="previewtext" value="cseoam CSEGR 56923" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68434230589" />
+<data name="projectionAngle" value="2.68564524638" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="Regular-400/src/OxygenSans-Regular-ROBO.ufo">
+<master filename="Regular-400/src/OxygenSans-Regular-kernagic.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="0" />
 </location>
-<!-- color for Regular-400/src/OxygenSans-Regular-ROBO.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+<!-- color for Regular-400/src/OxygenSans-Regular-kernagic.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
 </master>
-<master filename="Bold-700/src/OxygenSans-Bold-ROBO.ufo">
+<master filename="Bold-700/src/OxygenSans-Bold.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for Bold-700/src/OxygenSans-Bold-ROBO.ufo -->
-<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+<!-- color for Bold-700/src/OxygenSans-Bold.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Oxygen-Sans" sequence="" stylename="--0_xx-367_43">
+<instance familyname="Oxygen-Sans" sequence="" stylename="--0_xx192_40">
 <location>
 <dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-800" />
-</location>
-</instance>
-<instance familyname="Oxygen-Sans" sequence="" stylename="--0_xx2042_17">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="2600" />
+<dimension name="new_axis_1" xvalue="192.3987" />
 </location>
 </instance>
 </designspace>

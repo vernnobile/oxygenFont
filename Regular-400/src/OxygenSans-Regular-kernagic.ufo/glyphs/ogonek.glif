@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="ogonek" format="1">
-  <advance width="333"></advance>
-  <unicode hex="02DB"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="333"/>
+  <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="333" y="-380" type="curve"></point>
-      <point x="331" y="-277" type="line"></point>
-      <point x="312" y="-285"></point>
-      <point x="265" y="-301"></point>
-      <point x="223" y="-301" type="curve" smooth="yes"></point>
-      <point x="178" y="-301"></point>
-      <point x="140" y="-278"></point>
-      <point x="140" y="-220" type="curve" smooth="yes"></point>
-      <point x="140" y="-142"></point>
-      <point x="227" y="-29"></point>
-      <point x="286" y="14" type="curve"></point>
-      <point x="206" y="14" type="line"></point>
-      <point x="102" y="-28"></point>
-      <point x="0" y="-146"></point>
-      <point x="0" y="-260" type="curve" smooth="yes"></point>
-      <point x="0" y="-351"></point>
-      <point x="64" y="-410"></point>
-      <point x="189" y="-410" type="curve" smooth="yes"></point>
-      <point x="238" y="-410"></point>
-      <point x="301" y="-396"></point>
+      <point x="333" y="-380" type="curve"/>
+      <point x="331" y="-277" type="line"/>
+      <point x="312" y="-285"/>
+      <point x="265" y="-301"/>
+      <point x="223" y="-301" type="curve" smooth="yes"/>
+      <point x="178" y="-301"/>
+      <point x="140" y="-278"/>
+      <point x="140" y="-220" type="curve" smooth="yes"/>
+      <point x="140" y="-142"/>
+      <point x="227" y="-29"/>
+      <point x="286" y="14" type="curve"/>
+      <point x="206" y="14" type="line"/>
+      <point x="102" y="-28"/>
+      <point x="0" y="-146"/>
+      <point x="0" y="-260" type="curve" smooth="yes"/>
+      <point x="0" y="-351"/>
+      <point x="64" y="-410"/>
+      <point x="189" y="-410" type="curve" smooth="yes"/>
+      <point x="238" y="-410"/>
+      <point x="301" y="-396"/>
     </contour>
     <contour>
-      <point x="241" y="10.25" type="move" name="_ogonek"></point>
+      <point x="241" y="10.25" type="move" name="_ogonek"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -54,10 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>739</integer>
+          <integer>333</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

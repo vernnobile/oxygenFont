@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0214" format="1">
-  <advance width="-16384"></advance>
-  <unicode hex="0214"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0214" format="1">
+  <advance width="-16384"/>
+  <unicode hex="0214"/>
   <outline>
-    <component base="U"></component>
-    <component base="uni030F" xOffset="324" yOffset="555"></component>
+    <component base="U"/>
+    <component base="uni030F" xOffset="324" yOffset="555"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -31,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10939</integer>
+          <integer>-16384</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
@@ -41,7 +40,13 @@
         <real>0.0</real>
         <real>1.0</real>
       </array>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

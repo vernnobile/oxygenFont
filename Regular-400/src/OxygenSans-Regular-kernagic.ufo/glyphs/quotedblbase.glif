@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="quotedblbase" format="1">
-  <advance width="483"></advance>
-  <unicode hex="201E"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="483"/>
+  <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="262" y="-248" type="line"></point>
-      <point x="358" y="-248" type="line"></point>
-      <point x="483" y="215" type="line"></point>
-      <point x="343" y="215" type="line"></point>
+      <point x="262" y="-248" type="line"/>
+      <point x="358" y="-248" type="line"/>
+      <point x="483" y="215" type="line"/>
+      <point x="343" y="215" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="-248" type="line"></point>
-      <point x="98" y="-248" type="line"></point>
-      <point x="218" y="215" type="line"></point>
-      <point x="82" y="215" type="line"></point>
+      <point x="0" y="-248" type="line"/>
+      <point x="98" y="-248" type="line"/>
+      <point x="218" y="215" type="line"/>
+      <point x="82" y="215" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -41,10 +40,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>792</integer>
+          <integer>483</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>
