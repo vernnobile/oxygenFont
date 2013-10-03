@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="uni01E2" format="1">
-  <advance width="469"></advance>
+  <advance width="475"></advance>
   <unicode hex="01E2"></unicode>
   <outline>
-    <component base="macron" xOffset="74" yOffset="-105"></component>
+    <component base="macron" xOffset="74.0" yOffset="-105"></component>
     <contour>
-      <point x="240" y="1005.05" type="move" name="_top"></point>
+      <point x="229" y="983.328" type="move" name="_top"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
@@ -34,7 +38,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>479.0</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

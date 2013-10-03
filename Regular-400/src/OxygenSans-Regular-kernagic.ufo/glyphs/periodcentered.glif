@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="periodcentered" format="1">
-  <advance width="645"></advance>
+  <advance width="604"></advance>
   <unicode hex="00B7"></unicode>
   <outline>
     <contour>
-      <point x="306" y="732" type="curve" smooth="yes"></point>
-      <point x="369" y="732"></point>
-      <point x="417" y="688"></point>
-      <point x="417" y="624" type="curve" smooth="yes"></point>
-      <point x="417" y="559"></point>
-      <point x="369" y="514"></point>
-      <point x="306" y="514" type="curve" smooth="yes"></point>
-      <point x="242" y="514"></point>
-      <point x="195" y="559"></point>
-      <point x="195" y="624" type="curve" smooth="yes"></point>
-      <point x="195" y="688"></point>
-      <point x="242" y="732"></point>
+      <point x="297" y="699" type="curve" smooth="yes"></point>
+      <point x="360" y="699"></point>
+      <point x="408" y="656"></point>
+      <point x="408" y="595" type="curve" smooth="yes"></point>
+      <point x="408" y="533"></point>
+      <point x="360" y="489"></point>
+      <point x="297" y="489" type="curve" smooth="yes"></point>
+      <point x="233" y="489"></point>
+      <point x="186" y="533"></point>
+      <point x="186" y="595" type="curve" smooth="yes"></point>
+      <point x="186" y="656"></point>
+      <point x="233" y="699"></point>
     </contour>
     <contour>
-      <point x="307" y="622.65" type="move" name="_mid"></point>
+      <point x="298" y="593.664" type="move" name="_mid"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
@@ -47,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>222</integer>
+          <real>610.0</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
