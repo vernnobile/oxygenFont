@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="thorn" format="1">
-  <advance width="586"></advance>
+  <advance width="571"></advance>
   <unicode hex="00FE"></unicode>
   <outline>
     <contour>
-      <point x="214" y="316" type="line"></point>
-      <point x="214" y="-464" type="line"></point>
-      <point x="382" y="-464" type="line"></point>
-      <point x="382" y="316" type="line"></point>
+      <point x="198" y="316" type="line"></point>
+      <point x="198" y="-464" type="line"></point>
+      <point x="366" y="-464" type="line"></point>
+      <point x="366" y="316" type="line"></point>
     </contour>
     <component base="b"></component>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -37,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>168</integer>
+          <integer>586</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

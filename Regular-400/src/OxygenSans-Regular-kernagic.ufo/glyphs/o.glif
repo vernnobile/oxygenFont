@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="o" format="1">
-  <advance width="1172"></advance>
+  <advance width="1142"></advance>
   <unicode hex="006F"></unicode>
   <outline>
     <contour>
-      <point x="584" y="1106" type="curve"></point>
-      <point x="268" y="1106"></point>
-      <point x="100" y="886"></point>
-      <point x="100" y="542" type="curve" smooth="yes"></point>
-      <point x="100" y="206"></point>
-      <point x="272" y="-20"></point>
-      <point x="584" y="-20" type="curve"></point>
-      <point x="896" y="-20"></point>
-      <point x="1068" y="206"></point>
-      <point x="1068" y="542" type="curve" smooth="yes"></point>
-      <point x="1068" y="886"></point>
-      <point x="900" y="1106"></point>
+      <point x="568" y="1106" type="curve"></point>
+      <point x="252" y="1106"></point>
+      <point x="84" y="886"></point>
+      <point x="84" y="542" type="curve" smooth="yes"></point>
+      <point x="84" y="206"></point>
+      <point x="256" y="-20"></point>
+      <point x="568" y="-20" type="curve"></point>
+      <point x="880" y="-20"></point>
+      <point x="1052" y="206"></point>
+      <point x="1052" y="542" type="curve" smooth="yes"></point>
+      <point x="1052" y="886"></point>
+      <point x="884" y="1106"></point>
     </contour>
     <contour>
-      <point x="584" y="106" type="curve"></point>
-      <point x="363" y="106"></point>
-      <point x="270" y="294"></point>
-      <point x="270" y="541" type="curve" smooth="yes"></point>
-      <point x="270" y="794"></point>
-      <point x="364" y="980"></point>
-      <point x="584" y="980" type="curve"></point>
-      <point x="804" y="980"></point>
-      <point x="898" y="794"></point>
-      <point x="898" y="541" type="curve" smooth="yes"></point>
-      <point x="898" y="294"></point>
-      <point x="805" y="106"></point>
+      <point x="568" y="106" type="curve"></point>
+      <point x="347" y="106"></point>
+      <point x="254" y="294"></point>
+      <point x="254" y="541" type="curve" smooth="yes"></point>
+      <point x="254" y="794"></point>
+      <point x="348" y="980"></point>
+      <point x="568" y="980" type="curve"></point>
+      <point x="788" y="980"></point>
+      <point x="882" y="794"></point>
+      <point x="882" y="541" type="curve" smooth="yes"></point>
+      <point x="882" y="294"></point>
+      <point x="789" y="106"></point>
     </contour>
     <contour>
-      <point x="584" y="0.5" type="move" name="bot"></point>
+      <point x="568" y="0.5" type="move" name="bot"></point>
     </contour>
     <contour>
-      <point x="584" y="1082" type="move" name="top"></point>
+      <point x="568" y="1082" type="move" name="top"></point>
     </contour>
   </outline>
   <lib>
@@ -112,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1162</integer>
+          <integer>1172</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="macron" format="1">
-  <advance width="879"></advance>
+  <advance width="857"></advance>
   <unicode hex="00AF"></unicode>
   <outline>
     <contour>
-      <point x="240" y="1231" type="line"></point>
-      <point x="825" y="1231" type="line"></point>
-      <point x="825" y="1353" type="line"></point>
-      <point x="240" y="1353" type="line"></point>
+      <point x="224" y="1231" type="line"></point>
+      <point x="809" y="1231" type="line"></point>
+      <point x="809" y="1353" type="line"></point>
+      <point x="224" y="1353" type="line"></point>
     </contour>
     <contour>
-      <point x="535" y="1042.4" type="move" name="_top"></point>
+      <point x="519" y="1042.4" type="move" name="_top"></point>
     </contour>
     <contour>
-      <point x="504" y="1289.425" type="move" name="_mid"></point>
+      <point x="488" y="1289.425" type="move" name="_mid"></point>
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -42,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>585</integer>
+          <integer>879</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
