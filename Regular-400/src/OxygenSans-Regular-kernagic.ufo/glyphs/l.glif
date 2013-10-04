@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="l" format="1">
+<<<<<<< HEAD
   <advance width="571"></advance>
   <unicode hex="006C"></unicode>
   <outline>
@@ -31,6 +32,45 @@
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>181</integer></dict>
+=======
+  <advance width="604"></advance>
+  <unicode hex="006C"></unicode>
+  <outline>
+    <contour>
+      <point x="428" y="-6" type="curve" smooth="yes"></point>
+      <point x="485" y="-6" type="line"></point>
+      <point x="499" y="111" type="line"></point>
+      <point x="467" y="113" type="line" smooth="yes"></point>
+      <point x="342" y="122"></point>
+      <point x="320" y="135"></point>
+      <point x="320" y="300" type="curve" smooth="yes"></point>
+      <point x="320" y="1496" type="line"></point>
+      <point x="156" y="1484" type="line"></point>
+      <point x="156" y="295" type="line" smooth="yes"></point>
+      <point x="156" y="39"></point>
+      <point x="247" y="-6"></point>
+    </contour>
+    <contour>
+      <point x="322" y="2.232" type="move" name="bot"></point>
+    </contour>
+    <contour>
+      <point x="616" y="1042.32" type="move" name="mid"></point>
+    </contour>
+    <contour>
+      <point x="330" y="1438.872" type="move" name="top"></point>
+    </contour>
+    <contour>
+      <point x="236" y="883.896" type="move" name="mid2"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 
       <key>com.fontlab.hintData</key>
       <dict>
@@ -192,10 +232,14 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>586</integer>
+=======
+          <integer>627</integer>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>181</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>204</integer></dict>
     </dict>
   </lib>
 </glyph>

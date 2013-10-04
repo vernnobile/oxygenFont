@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="lessequal" format="1">
+<<<<<<< HEAD
   <advance width="1061"></advance>
   <unicode hex="2264"></unicode>
   <outline>
@@ -16,10 +17,37 @@
       <point x="958" y="1306" type="line"></point>
       <point x="81" y="811" type="line"></point>
       <point x="81" y="729" type="line"></point>
+=======
+  <advance width="1123"></advance>
+  <unicode hex="2264"></unicode>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"></point>
+      <point x="1020" y="0" type="line"></point>
+      <point x="1020" y="115" type="line"></point>
+      <point x="79" y="115" type="line"></point>
+    </contour>
+    <contour>
+      <point x="991" y="247" type="line"></point>
+      <point x="991" y="380" type="line"></point>
+      <point x="292" y="739" type="line"></point>
+      <point x="991" y="1118" type="line"></point>
+      <point x="991" y="1253" type="line"></point>
+      <point x="114" y="778" type="line"></point>
+      <point x="114" y="699" type="line"></point>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<<<<<<< HEAD
+=======
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -43,7 +71,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>1114</integer>
+=======
+          <integer>1141</integer>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="Y" format="1">
+<<<<<<< HEAD
   <advance width="1020"></advance>
   <unicode hex="0059"></unicode>
   <outline>
@@ -18,10 +19,40 @@
     </contour>
     <contour>
       <point x="511" y="1456" type="move" name="top"></point>
+=======
+  <advance width="1080"></advance>
+  <unicode hex="0059"></unicode>
+  <outline>
+    <contour>
+      <point x="448" y="0" type="line"></point>
+      <point x="624" y="0" type="line"></point>
+      <point x="624" y="543" type="line"></point>
+      <point x="589" y="425" type="line"></point>
+      <point x="1133" y="1398" type="line"></point>
+      <point x="959" y="1398" type="line"></point>
+      <point x="508" y="584" type="line"></point>
+      <point x="564" y="584" type="line"></point>
+      <point x="97" y="1398" type="line"></point>
+      <point x="-61" y="1398" type="line"></point>
+      <point x="487" y="423" type="line"></point>
+      <point x="448" y="545" type="line"></point>
+    </contour>
+    <contour>
+      <point x="535" y="1397.88" type="move" name="top"></point>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<<<<<<< HEAD
+=======
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -45,7 +76,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>1055</integer>
+=======
+          <real>1133.0</real>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

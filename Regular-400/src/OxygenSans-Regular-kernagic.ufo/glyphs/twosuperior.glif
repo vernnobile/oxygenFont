@@ -2,6 +2,7 @@
   <advance width="775"></advance>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="138" y="605" type="line"></point>
       <point x="659" y="605" type="line"></point>
       <point x="665" y="719" type="line"></point>
@@ -27,10 +28,45 @@
       <point x="501" y="1079"></point>
       <point x="386" y="963" type="curve" smooth="yes"></point>
       <point x="138" y="715" type="line"></point>
+=======
+      <point x="148" y="579" type="line"></point>
+      <point x="669" y="579" type="line"></point>
+      <point x="675" y="689" type="line"></point>
+      <point x="314" y="689" type="line"></point>
+      <point x="485" y="849" type="line" smooth="yes"></point>
+      <point x="609" y="965"></point>
+      <point x="683" y="1034"></point>
+      <point x="683" y="1170" type="curve" smooth="yes"></point>
+      <point x="683" y="1330"></point>
+      <point x="548" y="1416"></point>
+      <point x="396" y="1416" type="curve" smooth="yes"></point>
+      <point x="281" y="1416"></point>
+      <point x="160" y="1359"></point>
+      <point x="107" y="1267" type="curve"></point>
+      <point x="179" y="1191" type="line"></point>
+      <point x="237" y="1267"></point>
+      <point x="320" y="1300"></point>
+      <point x="398" y="1300" type="curve" smooth="yes"></point>
+      <point x="480" y="1300"></point>
+      <point x="551" y="1256"></point>
+      <point x="551" y="1162" type="curve" smooth="yes"></point>
+      <point x="551" y="1094"></point>
+      <point x="511" y="1034"></point>
+      <point x="396" y="923" type="curve" smooth="yes"></point>
+      <point x="148" y="685" type="line"></point>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<<<<<<< HEAD
+=======
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -54,7 +90,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>820</integer>
+=======
+          <integer>798</integer>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

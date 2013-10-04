@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name=".notdef" format="1">
+<<<<<<< HEAD
   <advance width="1101"></advance>
   <outline>
     <contour>
@@ -12,10 +13,34 @@
       <point x="839" y="188" type="line"></point>
       <point x="839" y="890" type="line"></point>
       <point x="257" y="890" type="line"></point>
+=======
+  <advance width="1123"></advance>
+  <outline>
+    <contour>
+      <point x="162" y="78" type="line"></point>
+      <point x="162" y="942" type="line"></point>
+      <point x="937" y="942" type="line"></point>
+      <point x="937" y="78" type="line"></point>
+    </contour>
+    <contour>
+      <point x="259" y="173" type="line"></point>
+      <point x="841" y="173" type="line"></point>
+      <point x="841" y="847" type="line"></point>
+      <point x="259" y="847" type="line"></point>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
     </contour>
   </outline>
   <lib>
     <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<<<<<<< HEAD
+=======
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 
       <key>com.fontlab.hintData</key>
       <dict>
@@ -72,7 +97,11 @@
           <array>
           </array>
           <key>width</key>
+<<<<<<< HEAD
           <integer>1114</integer>
+=======
+          <real>1133.0</real>
+>>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
