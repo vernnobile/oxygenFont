@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="greater" format="1">
-  <advance width="1061"></advance>
-  <unicode hex="003E"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1061"/>
+  <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="65" y="141" type="line"></point>
-      <point x="995" y="589" type="line"></point>
-      <point x="995" y="679" type="line"></point>
-      <point x="67" y="1175" type="line"></point>
-      <point x="67" y="1032" type="line"></point>
-      <point x="802" y="640" type="line"></point>
-      <point x="65" y="286" type="line"></point>
+      <point x="65" y="141" type="line"/>
+      <point x="995" y="589" type="line"/>
+      <point x="995" y="679" type="line"/>
+      <point x="67" y="1175" type="line"/>
+      <point x="67" y="1032" type="line"/>
+      <point x="802" y="640" type="line"/>
+      <point x="65" y="286" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -37,10 +37,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1055</integer>
+          <integer>1061</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

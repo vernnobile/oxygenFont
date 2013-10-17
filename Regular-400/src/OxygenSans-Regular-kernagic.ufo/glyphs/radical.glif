@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="radical" format="1">
-  <advance width="1020"></advance>
-  <unicode hex="221A"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1020"/>
+  <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="476" y="-162" type="line"></point>
-      <point x="152" y="745" type="line"></point>
-      <point x="3" y="714" type="line"></point>
-      <point x="-11" y="835" type="line"></point>
-      <point x="242" y="892" type="line"></point>
-      <point x="476" y="234" type="line"></point>
-      <point x="534" y="48" type="line"></point>
-      <point x="666" y="606"></point>
-      <point x="797" y="1160"></point>
-      <point x="930" y="1718" type="curve"></point>
-      <point x="1040" y="1718" type="line"></point>
-      <point x="611" y="-162" type="line"></point>
+      <point x="476" y="-162" type="line"/>
+      <point x="152" y="745" type="line"/>
+      <point x="3" y="714" type="line"/>
+      <point x="-11" y="835" type="line"/>
+      <point x="242" y="892" type="line"/>
+      <point x="476" y="234" type="line"/>
+      <point x="534" y="48" type="line"/>
+      <point x="666" y="606"/>
+      <point x="797" y="1160"/>
+      <point x="930" y="1718" type="curve"/>
+      <point x="1040" y="1718" type="line"/>
+      <point x="611" y="-162" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -42,10 +42,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1055</integer>
+          <integer>1020</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

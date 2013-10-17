@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="quotedblleft" format="1">
-  <advance width="948"></advance>
-  <unicode hex="201C"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="948"/>
+  <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="431" y="956" type="line"></point>
-      <point x="282" y="1471" type="line"></point>
-      <point x="125" y="1471" type="line"></point>
-      <point x="214" y="956" type="line"></point>
+      <point x="431" y="956" type="line"/>
+      <point x="282" y="1471" type="line"/>
+      <point x="125" y="1471" type="line"/>
+      <point x="214" y="956" type="line"/>
     </contour>
     <contour>
-      <point x="762" y="955" type="line"></point>
-      <point x="600" y="1471" type="line"></point>
-      <point x="448" y="1471" type="line"></point>
-      <point x="542" y="955" type="line"></point>
+      <point x="762" y="955" type="line"/>
+      <point x="600" y="1471" type="line"/>
+      <point x="448" y="1471" type="line"/>
+      <point x="542" y="955" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -38,7 +37,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>412.0</real>
                   <key>y</key>
@@ -48,7 +47,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>564.0</real>
                   <key>y</key>
@@ -58,7 +57,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>727.0</real>
                   <key>y</key>
@@ -68,7 +67,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>506.0</real>
                   <key>y</key>
@@ -83,7 +82,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>90.0</real>
                   <key>y</key>
@@ -93,7 +92,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>247.0</real>
                   <key>y</key>
@@ -103,7 +102,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>397.0</real>
                   <key>y</key>
@@ -113,7 +112,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <real>180.0</real>
                   <key>y</key>
@@ -131,10 +130,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>890</integer>
+          <integer>948</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

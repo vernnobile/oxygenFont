@@ -1,50 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Phi" format="1">
-  <advance width="1611"></advance>
-  <unicode hex="03A6"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phi" format="1">
+  <advance width="1611"/>
+  <unicode hex="03A6"/>
   <outline>
     <contour>
-      <point x="717" y="0" type="line"></point>
-      <point x="717" y="171" type="line"></point>
-      <point x="313" y="204"></point>
-      <point x="99" y="452"></point>
-      <point x="99" y="776" type="curve" smooth="yes"></point>
-      <point x="99" y="1104"></point>
-      <point x="324" y="1333"></point>
-      <point x="717" y="1364" type="curve"></point>
-      <point x="717" y="1502" type="line"></point>
-      <point x="898" y="1502" type="line"></point>
-      <point x="898" y="1364" type="line"></point>
-      <point x="1293" y="1335"></point>
-      <point x="1521" y="1106"></point>
-      <point x="1521" y="776" type="curve" smooth="yes"></point>
-      <point x="1521" y="452"></point>
-      <point x="1307" y="202"></point>
-      <point x="898" y="171" type="curve"></point>
-      <point x="898" y="0" type="line"></point>
+      <point x="717" y="0" type="line"/>
+      <point x="717" y="171" type="line"/>
+      <point x="313" y="204"/>
+      <point x="99" y="452"/>
+      <point x="99" y="776" type="curve" smooth="yes"/>
+      <point x="99" y="1104"/>
+      <point x="324" y="1333"/>
+      <point x="717" y="1364" type="curve"/>
+      <point x="717" y="1502" type="line"/>
+      <point x="898" y="1502" type="line"/>
+      <point x="898" y="1364" type="line"/>
+      <point x="1293" y="1335"/>
+      <point x="1521" y="1106"/>
+      <point x="1521" y="776" type="curve" smooth="yes"/>
+      <point x="1521" y="452"/>
+      <point x="1307" y="202"/>
+      <point x="898" y="171" type="curve"/>
+      <point x="898" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="717" y="336" type="curve"></point>
-      <point x="717" y="1199" type="line"></point>
-      <point x="434" y="1170"></point>
-      <point x="292" y="1010"></point>
-      <point x="292" y="776" type="curve" smooth="yes"></point>
-      <point x="292" y="551"></point>
-      <point x="421" y="368"></point>
+      <point x="717" y="336" type="curve"/>
+      <point x="717" y="1199" type="line"/>
+      <point x="434" y="1170"/>
+      <point x="292" y="1010"/>
+      <point x="292" y="776" type="curve" smooth="yes"/>
+      <point x="292" y="551"/>
+      <point x="421" y="368"/>
     </contour>
     <contour>
-      <point x="898" y="336" type="line"></point>
-      <point x="1195" y="366"></point>
-      <point x="1327" y="549"></point>
-      <point x="1327" y="776" type="curve" smooth="yes"></point>
-      <point x="1327" y="1008"></point>
-      <point x="1186" y="1171"></point>
-      <point x="898" y="1199" type="curve"></point>
+      <point x="898" y="336" type="line"/>
+      <point x="1195" y="366"/>
+      <point x="1327" y="549"/>
+      <point x="1327" y="776" type="curve" smooth="yes"/>
+      <point x="1327" y="1008"/>
+      <point x="1186" y="1171"/>
+      <point x="898" y="1199" type="curve"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -67,10 +66,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1602</integer>
+          <integer>1611</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

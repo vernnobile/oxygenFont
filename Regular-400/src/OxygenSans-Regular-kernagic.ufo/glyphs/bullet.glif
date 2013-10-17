@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="bullet" format="1">
-  <advance width="857"></advance>
-  <unicode hex="2022"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="857"/>
+  <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="415" y="413" type="curve" smooth="yes"></point>
-      <point x="251" y="413"></point>
-      <point x="103" y="531"></point>
-      <point x="103" y="740" type="curve" smooth="yes"></point>
-      <point x="103" y="952"></point>
-      <point x="255" y="1074"></point>
-      <point x="420" y="1074" type="curve" smooth="yes"></point>
-      <point x="584" y="1074"></point>
-      <point x="733" y="955"></point>
-      <point x="733" y="745" type="curve" smooth="yes"></point>
-      <point x="733" y="534"></point>
-      <point x="580" y="413"></point>
+      <point x="415" y="413" type="curve" smooth="yes"/>
+      <point x="251" y="413"/>
+      <point x="103" y="531"/>
+      <point x="103" y="740" type="curve" smooth="yes"/>
+      <point x="103" y="952"/>
+      <point x="255" y="1074"/>
+      <point x="420" y="1074" type="curve" smooth="yes"/>
+      <point x="584" y="1074"/>
+      <point x="733" y="955"/>
+      <point x="733" y="745" type="curve" smooth="yes"/>
+      <point x="733" y="534"/>
+      <point x="580" y="413"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -42,10 +42,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>879</integer>
+          <integer>857</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

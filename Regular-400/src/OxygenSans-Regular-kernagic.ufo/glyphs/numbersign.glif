@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="numbersign" format="1">
-  <advance width="1020"></advance>
-  <unicode hex="0023"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1020"/>
+  <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="498" y="-20" type="line"></point>
-      <point x="623" y="-20" type="line"></point>
-      <point x="716" y="442" type="line"></point>
-      <point x="924" y="442" type="line"></point>
-      <point x="939" y="536" type="line"></point>
-      <point x="736" y="536" type="line"></point>
-      <point x="829" y="992" type="line"></point>
-      <point x="1020" y="992" type="line"></point>
-      <point x="1035" y="1085" type="line"></point>
-      <point x="847" y="1085" type="line"></point>
-      <point x="929" y="1497" type="line"></point>
-      <point x="805" y="1497" type="line"></point>
-      <point x="722" y="1085" type="line"></point>
-      <point x="439" y="1085" type="line"></point>
-      <point x="521" y="1497" type="line"></point>
-      <point x="395" y="1497" type="line"></point>
-      <point x="313" y="1085" type="line"></point>
-      <point x="110" y="1085" type="line"></point>
-      <point x="97" y="992" type="line"></point>
-      <point x="294" y="992" type="line"></point>
-      <point x="201" y="536" type="line"></point>
-      <point x="14" y="536" type="line"></point>
-      <point x="1" y="442" type="line"></point>
-      <point x="183" y="442" type="line"></point>
-      <point x="90" y="-20" type="line"></point>
-      <point x="214" y="-20" type="line"></point>
-      <point x="308" y="442" type="line"></point>
-      <point x="590" y="442" type="line"></point>
+      <point x="498" y="-20" type="line"/>
+      <point x="623" y="-20" type="line"/>
+      <point x="716" y="442" type="line"/>
+      <point x="924" y="442" type="line"/>
+      <point x="939" y="536" type="line"/>
+      <point x="736" y="536" type="line"/>
+      <point x="829" y="992" type="line"/>
+      <point x="1020" y="992" type="line"/>
+      <point x="1035" y="1085" type="line"/>
+      <point x="847" y="1085" type="line"/>
+      <point x="929" y="1497" type="line"/>
+      <point x="805" y="1497" type="line"/>
+      <point x="722" y="1085" type="line"/>
+      <point x="439" y="1085" type="line"/>
+      <point x="521" y="1497" type="line"/>
+      <point x="395" y="1497" type="line"/>
+      <point x="313" y="1085" type="line"/>
+      <point x="110" y="1085" type="line"/>
+      <point x="97" y="992" type="line"/>
+      <point x="294" y="992" type="line"/>
+      <point x="201" y="536" type="line"/>
+      <point x="14" y="536" type="line"/>
+      <point x="1" y="442" type="line"/>
+      <point x="183" y="442" type="line"/>
+      <point x="90" y="-20" type="line"/>
+      <point x="214" y="-20" type="line"/>
+      <point x="308" y="442" type="line"/>
+      <point x="590" y="442" type="line"/>
     </contour>
     <contour>
-      <point x="610" y="536" type="line"></point>
-      <point x="326" y="536" type="line"></point>
-      <point x="420" y="992" type="line"></point>
-      <point x="703" y="992" type="line"></point>
+      <point x="610" y="536" type="line"/>
+      <point x="326" y="536" type="line"/>
+      <point x="420" y="992" type="line"/>
+      <point x="703" y="992" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -64,10 +64,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1055</integer>
+          <integer>1020</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>
