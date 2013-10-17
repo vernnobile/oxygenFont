@@ -20,11 +20,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-<<<<<<< HEAD
 	<string>/Users/vern/gitHub/oxygenFont/Regular-400/src/OxygenSans-Regular-unhinted.ttf</string>
-=======
-	<string>/Users/vern/gitHub/oxygenFont/Regular-400/src/OxygenSans-Regular-kernagic.ttf</string>
->>>>>>> a682e5496193d53979a8881d15f4a58493c1359d
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -46,9 +42,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>729</integer>
+			<integer>767</integer>
 			<key>y</key>
-			<integer>1280</integer>
+			<integer>1334</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -60,9 +56,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>581</integer>
+			<integer>613</integer>
 			<key>y</key>
-			<integer>940</integer>
+			<integer>980</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -74,9 +70,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>797</integer>
+			<integer>804</integer>
 			<key>y</key>
-			<integer>116</integer>
+			<integer>123</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -102,9 +98,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>627</integer>
+			<integer>650</integer>
 			<key>y</key>
-			<integer>1060</integer>
+			<integer>1106</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -116,23 +112,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>728</integer>
+			<integer>770</integer>
 			<key>y</key>
-			<integer>1416</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>337</integer>
-			<key>y</key>
-			<integer>100</integer>
+			<integer>1476</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -144,7 +126,7 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>

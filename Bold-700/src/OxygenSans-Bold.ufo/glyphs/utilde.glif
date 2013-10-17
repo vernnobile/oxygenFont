@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="utilde" format="1">
-  <advance width="-10955"></advance>
+  <advance width="-10902"></advance>
   <unicode hex="0169"></unicode>
   <outline>
-    <component base="tilde" xOffset="220.0" yOffset="16"></component>
+    <component base="tilde" xOffset="220" yOffset="16"></component>
     <component base="u"></component>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10961</integer>
+          <integer>-10907</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

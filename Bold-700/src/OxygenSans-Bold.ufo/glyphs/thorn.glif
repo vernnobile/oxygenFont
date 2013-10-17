@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="thorn" format="1">
-  <advance width="632"></advance>
+  <advance width="663"></advance>
   <unicode hex="00FE"></unicode>
   <outline>
     <contour>
-      <point x="198" y="1435" type="line"></point>
-      <point x="198" y="751" type="line"></point>
-      <point x="423" y="751" type="line"></point>
-      <point x="423" y="1454" type="line"></point>
+      <point x="227" y="1502" type="line"></point>
+      <point x="227" y="789" type="line"></point>
+      <point x="452" y="789" type="line"></point>
+      <point x="452" y="1522" type="line"></point>
     </contour>
     <component base="p"></component>
   </outline>
@@ -36,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>625</integer>
+          <integer>667</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
