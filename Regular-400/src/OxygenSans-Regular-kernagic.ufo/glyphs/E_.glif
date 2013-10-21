@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1142"/>
+  <advance width="1162"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="116" y="0" type="line"/>
-      <point x="1070" y="0" type="line"/>
-      <point x="1082" y="137" type="line"/>
-      <point x="233" y="137" type="line"/>
-      <point x="292" y="67" type="line"/>
-      <point x="292" y="741" type="line"/>
-      <point x="233" y="686" type="line"/>
-      <point x="999" y="686" type="line"/>
-      <point x="999" y="822" type="line"/>
-      <point x="233" y="822" type="line"/>
-      <point x="292" y="775" type="line"/>
-      <point x="292" y="1374" type="line"/>
-      <point x="233" y="1321" type="line"/>
-      <point x="1061" y="1321" type="line"/>
-      <point x="1067" y="1456" type="line"/>
-      <point x="116" y="1456" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1102" y="137" type="line"/>
+      <point x="253" y="137" type="line"/>
+      <point x="312" y="67" type="line"/>
+      <point x="312" y="741" type="line"/>
+      <point x="253" y="686" type="line"/>
+      <point x="1019" y="686" type="line"/>
+      <point x="1019" y="822" type="line"/>
+      <point x="253" y="822" type="line"/>
+      <point x="312" y="775" type="line"/>
+      <point x="312" y="1374" type="line"/>
+      <point x="253" y="1321" type="line"/>
+      <point x="1081" y="1321" type="line"/>
+      <point x="1087" y="1456" type="line"/>
+      <point x="136" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="793" y="0.0" type="move" name="ogonek"/>
+      <point x="813" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="623" y="0" type="move" name="bot"/>
+      <point x="643" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="646" y="1456" type="move" name="top"/>
+      <point x="666" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1142</integer>
+          <integer>1162</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -4,27 +4,46 @@
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="130" y="0" type="line"/>
-      <point x="352" y="0" type="line"/>
-      <point x="352" y="443" type="line"/>
-      <point x="298" y="327" type="line"/>
-      <point x="494" y="522" type="line"/>
-      <point x="422" y="522" type="line"/>
-      <point x="822" y="0" type="line"/>
-      <point x="1085" y="0" type="line"/>
-      <point x="580" y="641" type="line"/>
-      <point x="570" y="537" type="line"/>
-      <point x="1063" y="1082" type="line"/>
-      <point x="788" y="1082" type="line"/>
-      <point x="304" y="538" type="line"/>
-      <point x="345" y="538" type="line"/>
-      <point x="352" y="800" type="line"/>
-      <point x="352" y="1560" type="line"/>
-      <point x="130" y="1539" type="line"/>
+      <point x="130.0" y="0.0" type="line"/>
+      <point x="352.0" y="0.0" type="line"/>
+      <point x="352.0" y="443.0" type="line"/>
+      <point x="298.0" y="327.0" type="line"/>
+      <point x="494.0" y="522.0" type="line"/>
+      <point x="422.0" y="522.0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="1065" y="0" type="line"/>
+      <point x="1065" y="23" type="line"/>
+      <point x="580.0" y="641.0" type="line"/>
+      <point x="570.0" y="537.0" type="line"/>
+      <point x="1046.0" y="1063.0" type="line"/>
+      <point x="1046.0" y="1082.0" type="line"/>
+      <point x="788.0" y="1082.0" type="line"/>
+      <point x="304.0" y="538.0" type="line"/>
+      <point x="345.0" y="538.0" type="line"/>
+      <point x="352.0" y="800.0" type="line"/>
+      <point x="352.0" y="1560.0" type="line"/>
+      <point x="130.0" y="1539.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1045</integer>
+          <key>y</key>
+          <integer>785</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>

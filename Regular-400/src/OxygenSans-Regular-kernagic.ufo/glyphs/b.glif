@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1142"/>
+  <advance width="1136"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -8,10 +8,10 @@
       <point x="389" y="110"/>
       <point x="279" y="261"/>
       <point x="279" y="559" type="curve" smooth="yes"/>
-      <point x="279" y="812"/>
-      <point x="370" y="978"/>
-      <point x="597" y="978" type="curve" smooth="yes"/>
-      <point x="812" y="978"/>
+      <point x="279" y="822"/>
+      <point x="391" y="980"/>
+      <point x="605" y="980" type="curve" smooth="yes"/>
+      <point x="820" y="980"/>
       <point x="876" y="799"/>
       <point x="876" y="542" type="curve" smooth="yes"/>
       <point x="876" y="275"/>
@@ -23,12 +23,12 @@
       <point x="1046" y="204"/>
       <point x="1046" y="542" type="curve" smooth="yes"/>
       <point x="1046" y="880"/>
-      <point x="910" y="1108"/>
-      <point x="611" y="1108" type="curve" smooth="yes"/>
-      <point x="449" y="1108"/>
-      <point x="345" y="1022"/>
-      <point x="259" y="874" type="curve"/>
-      <point x="280" y="872" type="line"/>
+      <point x="910" y="1106"/>
+      <point x="611" y="1106" type="curve" smooth="yes"/>
+      <point x="449" y="1106"/>
+      <point x="326" y="1018"/>
+      <point x="259" y="866" type="curve"/>
+      <point x="280" y="864" type="line"/>
       <point x="286" y="1105" type="line"/>
       <point x="286" y="1560" type="line"/>
       <point x="122" y="1548" type="line"/>
@@ -36,7 +36,7 @@
       <point x="253" y="0" type="line"/>
       <point x="273" y="251" type="line"/>
       <point x="248" y="244" type="line"/>
-      <point x="303" y="113"/>
+      <point x="292" y="112"/>
       <point x="418" y="-20"/>
     </contour>
   </outline>
@@ -384,7 +384,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1142</integer>
+          <integer>1136</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1346"/>
+  <advance width="1373"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="122" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="723" type="line"/>
-      <point x="238" y="678" type="line"/>
-      <point x="1098" y="678" type="line"/>
-      <point x="1047" y="723" type="line"/>
-      <point x="1047" y="0" type="line"/>
-      <point x="1223" y="0" type="line"/>
-      <point x="1223" y="1456" type="line"/>
-      <point x="1047" y="1456" type="line"/>
-      <point x="1047" y="780" type="line"/>
-      <point x="1097" y="820" type="line"/>
-      <point x="233" y="820" type="line"/>
-      <point x="298" y="780" type="line"/>
-      <point x="298" y="1456" type="line"/>
-      <point x="122" y="1456" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="723" type="line"/>
+      <point x="252" y="678" type="line"/>
+      <point x="1112" y="678" type="line"/>
+      <point x="1061" y="723" type="line"/>
+      <point x="1061" y="0" type="line"/>
+      <point x="1237" y="0" type="line"/>
+      <point x="1237" y="1456" type="line"/>
+      <point x="1061" y="1456" type="line"/>
+      <point x="1061" y="780" type="line"/>
+      <point x="1111" y="820" type="line"/>
+      <point x="247" y="820" type="line"/>
+      <point x="312" y="780" type="line"/>
+      <point x="312" y="1456" type="line"/>
+      <point x="136" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="683" y="1456" type="move" name="top"/>
+      <point x="697" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="680" y="1206.425" type="move" name="mid"/>
+      <point x="694" y="1206" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1346</integer>
+          <integer>1373</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

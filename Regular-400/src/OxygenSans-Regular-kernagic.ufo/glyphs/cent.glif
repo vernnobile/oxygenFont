@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="571"/>
+  <advance width="1020.0"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="367" y="1391" type="line"/>
-      <point x="256" y="1391" type="line"/>
-      <point x="203" y="1042" type="line"/>
-      <point x="367" y="1042" type="line"/>
+      <point x="660" y="1391" type="line"/>
+      <point x="549" y="1391" type="line"/>
+      <point x="496" y="1042" type="line"/>
+      <point x="660" y="1042" type="line"/>
     </contour>
     <contour>
-      <point x="186" y="-310" type="line"/>
-      <point x="300" y="-310" type="line"/>
-      <point x="350" y="62" type="line"/>
-      <point x="186" y="62" type="line"/>
+      <point x="479" y="-310" type="line"/>
+      <point x="593" y="-310" type="line"/>
+      <point x="643" y="62" type="line"/>
+      <point x="479" y="62" type="line"/>
     </contour>
     <component base="c"/>
   </outline>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>571</integer>
+          <real>1020.0</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

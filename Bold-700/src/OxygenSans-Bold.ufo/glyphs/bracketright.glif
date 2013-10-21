@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
-  <advance width="900"/>
+  <advance width="758"/>
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="265" y="-175" type="line"/>
-      <point x="265" y="-9" type="line"/>
-      <point x="506" y="-9" type="line"/>
-      <point x="506" y="1329" type="line"/>
-      <point x="265" y="1329" type="line"/>
-      <point x="265" y="1496" type="line"/>
-      <point x="719" y="1496" type="line"/>
-      <point x="719" y="-175" type="line"/>
+      <point x="563" y="1480" type="line"/>
+      <point x="563" y="-252" type="line"/>
+      <point x="108" y="-252" type="line"/>
+      <point x="108" y="-86" type="line"/>
+      <point x="349" y="-86" type="line"/>
+      <point x="349" y="1314" type="line"/>
+      <point x="108" y="1314" type="line"/>
+      <point x="108" y="1480" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,12 +33,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>bracketright</string>
+          <string>bracketleft</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>900</integer>
+          <integer>758</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

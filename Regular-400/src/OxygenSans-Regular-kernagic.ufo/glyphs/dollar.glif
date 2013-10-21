@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="571"/>
+  <advance width="1157.0304227"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="179" y="-278" type="line"/>
-      <point x="315" y="-278" type="line"/>
-      <point x="353" y="61" type="line"/>
-      <point x="218" y="61" type="line"/>
+      <point x="518" y="-278" type="line"/>
+      <point x="615" y="-278" type="line"/>
+      <point x="653" y="61" type="line"/>
+      <point x="518" y="61" type="line"/>
     </contour>
     <contour>
-      <point x="363" y="1785" type="line"/>
-      <point x="233" y="1785" type="line"/>
-      <point x="195" y="1446" type="line"/>
-      <point x="326" y="1446" type="line"/>
+      <point x="641" y="1785" type="line"/>
+      <point x="538" y="1785" type="line"/>
+      <point x="500" y="1446" type="line"/>
+      <point x="641" y="1446" type="line"/>
     </contour>
     <component base="S"/>
   </outline>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>571</integer>
+          <real>1157.0304227019215</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
