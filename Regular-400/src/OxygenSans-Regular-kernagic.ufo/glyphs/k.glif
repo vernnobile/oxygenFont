@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1005"/>
+  <advance width="1010"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="128.0" y="0.0" type="line"/>
-      <point x="292.0" y="0.0" type="line"/>
-      <point x="292.0" y="438.0" type="line"/>
-      <point x="263.0" y="372.0" type="line"/>
-      <point x="447.0" y="529.0" type="line"/>
-      <point x="395.0" y="538.0" type="line"/>
-      <point x="841.0" y="0.0" type="line"/>
-      <point x="1020.0" y="0.0" type="line"/>
-      <point x="1020" y="24" type="line"/>
-      <point x="508.0" y="621.0" type="line"/>
-      <point x="504.0" y="556.0" type="line"/>
-      <point x="986" y="1058" type="line"/>
-      <point x="986.0" y="1082.0" type="line"/>
-      <point x="797.0" y="1082.0" type="line"/>
-      <point x="251.0" y="499.0" type="line"/>
-      <point x="285.0" y="486.0" type="line"/>
-      <point x="292.0" y="757.0" type="line"/>
-      <point x="292.0" y="1560.0" type="line"/>
-      <point x="128.0" y="1547.0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="438" type="line"/>
+      <point x="268" y="372" type="line"/>
+      <point x="452" y="529" type="line"/>
+      <point x="400" y="538" type="line"/>
+      <point x="846" y="0" type="line"/>
+      <point x="1025" y="0" type="line"/>
+      <point x="1025" y="24" type="line"/>
+      <point x="513" y="621" type="line"/>
+      <point x="509" y="556" type="line"/>
+      <point x="991" y="1058" type="line"/>
+      <point x="991" y="1082" type="line"/>
+      <point x="802" y="1082" type="line"/>
+      <point x="256" y="499" type="line"/>
+      <point x="290" y="486" type="line"/>
+      <point x="297" y="757" type="line"/>
+      <point x="297" y="1560" type="line"/>
+      <point x="133" y="1547" type="line"/>
     </contour>
     <contour>
-      <point x="547" y="0.0" type="move" name="bot"/>
+      <point x="552" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>149.0</real>
+                  <real>154.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -61,7 +61,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>313.0</real>
+                  <real>318.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -71,7 +71,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>313.0</real>
+                  <real>318.0</real>
                   <key>y</key>
                   <real>397.0</real>
                 </dict>
@@ -81,7 +81,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>442.0</real>
+                  <real>447.0</real>
                   <key>y</key>
                   <real>507.0</real>
                 </dict>
@@ -91,7 +91,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>862.0</real>
+                  <real>867.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -101,7 +101,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>1057.0</real>
+                  <real>1062.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -111,7 +111,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>557.0</real>
+                  <real>562.0</real>
                   <key>y</key>
                   <real>589.0</real>
                 </dict>
@@ -121,7 +121,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>1019.0</real>
+                  <real>1024.0</real>
                   <key>y</key>
                   <real>1082.0</real>
                 </dict>
@@ -131,7 +131,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>818.0</real>
+                  <real>823.0</real>
                   <key>y</key>
                   <real>1082.0</real>
                 </dict>
@@ -141,7 +141,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>307.0</real>
+                  <real>312.0</real>
                   <key>y</key>
                   <real>534.0</real>
                 </dict>
@@ -151,7 +151,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>313.0</real>
+                  <real>318.0</real>
                   <key>y</key>
                   <real>757.0</real>
                 </dict>
@@ -161,7 +161,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>313.0</real>
+                  <real>318.0</real>
                   <key>y</key>
                   <real>1560.0</real>
                 </dict>
@@ -171,7 +171,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>149.0</real>
+                  <real>154.0</real>
                   <key>y</key>
                   <real>1547.0</real>
                 </dict>
@@ -187,7 +187,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1005</integer>
+          <integer>1010</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
