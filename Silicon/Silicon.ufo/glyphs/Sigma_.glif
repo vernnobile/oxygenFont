@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="1061"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="128" y="0" type="line"/>
+      <point x="128" y="1469" type="line"/>
+      <point x="992" y="1469" type="line"/>
+      <point x="985" y="1331" type="line"/>
+      <point x="286" y="1331" type="line"/>
+      <point x="286" y="828" type="line"/>
+      <point x="925" y="828" type="line"/>
+      <point x="925" y="692" type="line"/>
+      <point x="286" y="692" type="line"/>
+      <point x="286" y="137" type="line"/>
+      <point x="990" y="137" type="line"/>
+      <point x="982" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Sigma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1061</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

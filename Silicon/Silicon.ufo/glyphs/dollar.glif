@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="1157.0304227"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="518" y="-278" type="line"/>
+      <point x="615" y="-278" type="line"/>
+      <point x="653" y="61" type="line"/>
+      <point x="518" y="61" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="1785" type="line"/>
+      <point x="538" y="1785" type="line"/>
+      <point x="500" y="1446" type="line"/>
+      <point x="641" y="1446" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1157.0304227</real>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

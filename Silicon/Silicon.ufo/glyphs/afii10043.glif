@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10043" format="1">
+  <advance width="1550"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="1369" y="-288" type="line"/>
+      <point x="1520" y="-288" type="line"/>
+      <point x="1520" y="166" type="line"/>
+      <point x="1420" y="166" type="line"/>
+      <point x="1420" y="1504" type="line"/>
+      <point x="1269" y="1504" type="line"/>
+      <point x="1269" y="151" type="line"/>
+      <point x="845" y="151" type="line"/>
+      <point x="845" y="1504" type="line"/>
+      <point x="693" y="1504" type="line"/>
+      <point x="693" y="151" type="line"/>
+      <point x="278" y="151" type="line"/>
+      <point x="278" y="1504" type="line"/>
+      <point x="128" y="1504" type="line"/>
+      <point x="128" y="7" type="line"/>
+      <point x="1370" y="7" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>afii10043</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1550</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
