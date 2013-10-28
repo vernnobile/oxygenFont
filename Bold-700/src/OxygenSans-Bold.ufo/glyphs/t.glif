@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="702"/>
+  <advance width="727"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="539" y="-6" type="curve" smooth="yes"/>
-      <point x="647" y="-6" type="line"/>
-      <point x="656" y="161" type="line"/>
-      <point x="610" y="165" type="line" smooth="yes"/>
-      <point x="406" y="183"/>
+      <point x="547" y="-6" type="curve" smooth="yes"/>
+      <point x="675" y="-6" type="line"/>
+      <point x="684" y="161" type="line"/>
+      <point x="618" y="165" type="line" smooth="yes"/>
+      <point x="414" y="177"/>
       <point x="396" y="176"/>
       <point x="396" y="369" type="curve" smooth="yes"/>
       <point x="396" y="981" type="line"/>
       <point x="357" y="932" type="line"/>
-      <point x="634" y="932" type="line"/>
-      <point x="634" y="1082" type="line"/>
+      <point x="698" y="932" type="line"/>
+      <point x="698" y="1082" type="line"/>
       <point x="357" y="1082" type="line"/>
       <point x="396" y="1030" type="line"/>
       <point x="396" y="1397" type="line"/>
@@ -27,7 +27,7 @@
       <point x="172" y="982" type="line"/>
       <point x="172" y="375" type="line" smooth="yes"/>
       <point x="172" y="103"/>
-      <point x="242" y="-6"/>
+      <point x="220" y="-6"/>
     </contour>
   </outline>
   <lib>
@@ -198,7 +198,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>702</integer>
+          <integer>727</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
