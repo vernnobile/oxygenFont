@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="-10977"/>
+  <advance width="571"/>
   <unicode hex="00EE"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-132.0" yOffset="80.4"/>
+    <component base="circumflex" xOffset="-247" yOffset="77.95"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <integer>571</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

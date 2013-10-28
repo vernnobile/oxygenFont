@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ubreve" format="1">
-  <advance width="-10977"/>
+  <advance width="1306"/>
   <unicode hex="016C"/>
   <outline>
     <component base="U"/>
-    <component base="breve" xOffset="340.0" yOffset="450.725"/>
+    <component base="breve" xOffset="208" yOffset="450.725"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <integer>1306</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

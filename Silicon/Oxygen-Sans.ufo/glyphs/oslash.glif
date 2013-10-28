@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="1020"/>
+  <advance width="1142"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="155" y="-162" type="line"/>
-      <point x="880" y="1200" type="line"/>
-      <point x="809" y="1238" type="line"/>
-      <point x="90" y="-124" type="line"/>
+      <point x="248" y="-162" type="line"/>
+      <point x="973" y="1200" type="line"/>
+      <point x="902" y="1238" type="line"/>
+      <point x="183" y="-124" type="line"/>
     </contour>
     <component base="o"/>
   </outline>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1020</integer>
+          <integer>1142</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="-10977"/>
+  <advance width="1142"/>
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="macron" xOffset="-250.0" yOffset="-5.1"/>
+    <component base="macron" xOffset="-273" yOffset="-5.425"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <integer>1142</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

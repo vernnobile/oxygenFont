@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="-10977"/>
+  <advance width="1162"/>
   <unicode hex="0116"/>
   <outline>
     <component base="E"/>
-    <component base="dotaccent" xOffset="526.0" yOffset="452.275"/>
+    <component base="dotaccent" xOffset="367" yOffset="452.275"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <integer>1162</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="1">
-  <advance width="-10977"/>
+  <advance width="1157.0304227"/>
   <unicode hex="015A"/>
   <outline>
     <component base="S"/>
-    <component base="acute.cap" xOffset="441.0" yOffset="530.75"/>
+    <component base="acute.cap" xOffset="354" yOffset="530.75"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <real>1157.0304227</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

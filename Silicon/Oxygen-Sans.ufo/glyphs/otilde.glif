@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="1">
-  <advance width="-10977"/>
+  <advance width="1142"/>
   <unicode hex="00F5"/>
   <outline>
     <component base="o"/>
-    <component base="tilde" xOffset="136.0" yOffset="29.975"/>
+    <component base="tilde" xOffset="32" yOffset="29.075"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>-10977</integer>
+          <integer>1142</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
