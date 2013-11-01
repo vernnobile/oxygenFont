@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414" format="1">
+  <advance width="1420"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="-44" y="-300" type="line"/>
+      <point x="-44" y="99" type="line"/>
+      <point x="114" y="99" type="line"/>
+      <point x="208" y="166"/>
+      <point x="251" y="399"/>
+      <point x="308" y="1143" type="curve"/>
+      <point x="335" y="1516" type="line"/>
+      <point x="1181" y="1516" type="line"/>
+      <point x="1181" y="99" type="line"/>
+      <point x="1316" y="99" type="line"/>
+      <point x="1316" y="-300" type="line"/>
+      <point x="1205" y="-300" type="line"/>
+      <point x="1205" y="7" type="line"/>
+      <point x="64" y="7" type="line"/>
+      <point x="64" y="-300" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="41" type="curve"/>
+      <point x="189" y="99" type="line"/>
+      <point x="1097" y="99" type="line"/>
+      <point x="1057" y="99" type="line"/>
+      <point x="1056" y="1485" type="line"/>
+      <point x="1118" y="1425" type="line"/>
+      <point x="388" y="1424" type="line"/>
+      <point x="453" y="1470" type="line"/>
+      <point x="424" y="1132" type="line"/>
+      <point x="383" y="610"/>
+      <point x="354" y="172"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0414</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1420</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

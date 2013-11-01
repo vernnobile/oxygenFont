@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449" format="1">
+  <advance width="1420"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="1182" y="-286" type="line"/>
+      <point x="1193" y="6" type="line"/>
+      <point x="169" y="6" type="line"/>
+      <point x="169" y="1108" type="line"/>
+      <point x="311" y="1108" type="line"/>
+      <point x="311" y="87" type="line"/>
+      <point x="665" y="87" type="line"/>
+      <point x="665" y="1108" type="line"/>
+      <point x="809" y="1108" type="line"/>
+      <point x="809" y="87" type="line"/>
+      <point x="1101" y="87" type="line"/>
+      <point x="1101" y="1108" type="line"/>
+      <point x="1245" y="1108" type="line"/>
+      <point x="1245" y="146" type="line"/>
+      <point x="1343" y="146" type="line"/>
+      <point x="1343" y="-286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0449</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1420</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

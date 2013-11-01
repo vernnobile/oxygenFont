@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040F" format="1">
+  <advance width="1533"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="1311" y="1517" type="line"/>
+      <point x="1311" y="7" type="line"/>
+      <point x="216" y="7" type="line"/>
+      <point x="216" y="1517" type="line"/>
+      <point x="340" y="1517" type="line"/>
+      <point x="340" y="60" type="line"/>
+      <point x="279" y="98" type="line"/>
+      <point x="1243" y="98" type="line"/>
+      <point x="1187" y="60" type="line"/>
+      <point x="1187" y="1517" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="-300" type="line"/>
+      <point x="719" y="40" type="line"/>
+      <point x="844" y="40" type="line"/>
+      <point x="844" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni040F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1533</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

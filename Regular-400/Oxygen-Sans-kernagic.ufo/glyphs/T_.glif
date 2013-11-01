@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="T" format="1">
+  <advance width="1136"></advance>
+  <unicode hex="0054"></unicode>
+  <outline>
+    <contour>
+      <point x="479" y="0" type="line"></point>
+      <point x="655" y="0" type="line"></point>
+      <point x="655" y="1387" type="line"></point>
+      <point x="596" y="1319" type="line"></point>
+      <point x="1134" y="1319" type="line"></point>
+      <point x="1134" y="1456" type="line"></point>
+      <point x="2" y="1456" type="line"></point>
+      <point x="2" y="1319" type="line"></point>
+      <point x="533" y="1319" type="line"></point>
+      <point x="479" y="1384" type="line"></point>
+    </contour>
+    <contour>
+      <point x="572" y="0" type="move" name="bot"></point>
+    </contour>
+    <contour>
+      <point x="571" y="1456" type="move" name="top"></point>
+    </contour>
+    <contour>
+      <point x="564" y="785" type="move" name="mid"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>285</integer><key>rstem</key><integer>844</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>285</integer><key>rstem</key><integer>844</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>285</integer><key>rstem</key><integer>844</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1364</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>285</integer><key>rstem</key><integer>844</integer></dict>
+    </dict>
+  </lib>
+</glyph>

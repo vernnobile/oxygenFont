@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="o" format="1">
+  <advance width="1192"></advance>
+  <unicode hex="006F"></unicode>
+  <outline>
+    <contour>
+      <point x="596" y="1106" type="curve"></point>
+      <point x="280" y="1106"></point>
+      <point x="112" y="886"></point>
+      <point x="112" y="542" type="curve" smooth="yes"></point>
+      <point x="112" y="206"></point>
+      <point x="284" y="-20"></point>
+      <point x="596" y="-20" type="curve"></point>
+      <point x="908" y="-20"></point>
+      <point x="1080" y="206"></point>
+      <point x="1080" y="542" type="curve" smooth="yes"></point>
+      <point x="1080" y="886"></point>
+      <point x="912" y="1106"></point>
+    </contour>
+    <contour>
+      <point x="596" y="106" type="curve"></point>
+      <point x="375" y="106"></point>
+      <point x="282" y="294"></point>
+      <point x="282" y="541" type="curve" smooth="yes"></point>
+      <point x="282" y="794"></point>
+      <point x="376" y="980"></point>
+      <point x="596" y="980" type="curve"></point>
+      <point x="816" y="980"></point>
+      <point x="910" y="794"></point>
+      <point x="910" y="541" type="curve" smooth="yes"></point>
+      <point x="910" y="294"></point>
+      <point x="817" y="106"></point>
+    </contour>
+    <contour>
+      <point x="596" y="1" type="move" name="bot"></point>
+    </contour>
+    <contour>
+      <point x="596" y="1082" type="move" name="top"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>953</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>114</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>946</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false></false>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>582</integer>
+          <key>y</key>
+          <integer>1093</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>o</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1182</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

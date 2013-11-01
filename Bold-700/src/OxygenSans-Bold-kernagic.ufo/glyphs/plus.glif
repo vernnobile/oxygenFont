@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="1164"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="492" y="154" type="line"/>
+      <point x="665" y="154" type="line"/>
+      <point x="665" y="566" type="line"/>
+      <point x="1049" y="566" type="line"/>
+      <point x="1049" y="736" type="line"/>
+      <point x="666" y="736" type="line"/>
+      <point x="666" y="1144" type="line"/>
+      <point x="493" y="1144" type="line"/>
+      <point x="493" y="736" type="line"/>
+      <point x="105" y="736" type="line"/>
+      <point x="105" y="566" type="line"/>
+      <point x="492" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1164</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="994"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="777" y="168" type="line"/>
+      <point x="895" y="296" type="line"/>
+      <point x="895" y="296"/>
+      <point x="668" y="539"/>
+      <point x="619" y="589" type="curve"/>
+      <point x="893" y="881" type="line"/>
+      <point x="772" y="1006" type="line"/>
+      <point x="498" y="716" type="line"/>
+      <point x="221" y="1008" type="line"/>
+      <point x="103" y="883" type="line"/>
+      <point x="376" y="589" type="line"/>
+      <point x="99" y="294" type="line"/>
+      <point x="217" y="167" type="line"/>
+      <point x="498" y="461" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>multiply</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>994</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

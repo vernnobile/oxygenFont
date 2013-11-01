@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="bullet" format="1">
+  <advance width="908"></advance>
+  <unicode hex="2022"></unicode>
+  <outline>
+    <contour>
+      <point x="443" y="413" type="curve" smooth="yes"></point>
+      <point x="279" y="413"></point>
+      <point x="131" y="531"></point>
+      <point x="131" y="740" type="curve" smooth="yes"></point>
+      <point x="131" y="952"></point>
+      <point x="283" y="1074"></point>
+      <point x="448" y="1074" type="curve" smooth="yes"></point>
+      <point x="612" y="1074"></point>
+      <point x="761" y="955"></point>
+      <point x="761" y="745" type="curve" smooth="yes"></point>
+      <point x="761" y="534"></point>
+      <point x="608" y="413"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>857</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

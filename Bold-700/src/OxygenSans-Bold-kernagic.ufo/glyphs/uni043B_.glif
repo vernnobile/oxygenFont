@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043B" format="1">
+  <advance width="1221"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="34" y="-7" type="curve"/>
+      <point x="16" y="97" type="line"/>
+      <point x="196" y="97"/>
+      <point x="262" y="141"/>
+      <point x="310" y="510" type="curve"/>
+      <point x="377" y="1100" type="line"/>
+      <point x="1038" y="1100" type="line"/>
+      <point x="1038" y="-1" type="line"/>
+      <point x="906" y="-1" type="line"/>
+      <point x="906" y="1003" type="line"/>
+      <point x="490" y="1003" type="line"/>
+      <point x="427" y="498" type="line"/>
+      <point x="377" y="67"/>
+      <point x="287" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>103</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni043B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1221</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

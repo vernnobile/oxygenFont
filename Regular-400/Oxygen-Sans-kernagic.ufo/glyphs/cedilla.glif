@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="cedilla" format="1">
+  <advance width="766"></advance>
+  <unicode hex="00B8"></unicode>
+  <outline>
+    <contour>
+      <point x="282" y="-264" type="line"></point>
+      <point x="408" y="-311"></point>
+      <point x="500" y="-282.317615001"></point>
+      <point x="507" y="-207" type="curve" smooth="yes"></point>
+      <point x="512" y="-151"></point>
+      <point x="463" y="-125"></point>
+      <point x="383" y="-134" type="curve"></point>
+      <point x="383" y="-60" type="line"></point>
+      <point x="500" y="-16"></point>
+      <point x="647" y="-56.4468085106"></point>
+      <point x="647" y="-199" type="curve" smooth="yes"></point>
+      <point x="647" y="-312"></point>
+      <point x="544" y="-387"></point>
+      <point x="399" y="-387" type="curve" smooth="yes"></point>
+      <point x="344" y="-387" name="inserted"></point>
+      <point x="295" y="-376"></point>
+      <point x="252" y="-356" type="curve"></point>
+    </contour>
+    <contour>
+      <point x="482" y="11.4" type="move" name="_bot"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>652</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>

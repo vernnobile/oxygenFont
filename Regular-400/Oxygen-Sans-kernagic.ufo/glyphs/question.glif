@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="question" format="1">
+  <advance width="908"></advance>
+  <unicode hex="003F"></unicode>
+  <outline>
+    <contour>
+      <point x="371" y="-13" type="curve" smooth="yes"></point>
+      <point x="450" y="-13"></point>
+      <point x="485" y="41"></point>
+      <point x="485" y="101" type="curve" smooth="yes"></point>
+      <point x="485" y="158"></point>
+      <point x="450" y="214"></point>
+      <point x="371" y="214" type="curve" smooth="yes"></point>
+      <point x="292" y="214"></point>
+      <point x="256" y="158"></point>
+      <point x="256" y="101" type="curve" smooth="yes"></point>
+      <point x="256" y="43"></point>
+      <point x="292" y="-13"></point>
+    </contour>
+    <contour>
+      <point x="392" y="1343" type="curve" smooth="yes"></point>
+      <point x="517" y="1343"></point>
+      <point x="590" y="1273"></point>
+      <point x="590" y="1127" type="curve" smooth="yes"></point>
+      <point x="590" y="908"></point>
+      <point x="341" y="731"></point>
+      <point x="332" y="424" type="curve"></point>
+      <point x="415" y="424" type="line"></point>
+      <point x="514" y="788"></point>
+      <point x="749" y="836"></point>
+      <point x="749" y="1132" type="curve" smooth="yes"></point>
+      <point x="749" y="1380"></point>
+      <point x="589" y="1477"></point>
+      <point x="410" y="1477" type="curve" smooth="yes"></point>
+      <point x="286" y="1477"></point>
+      <point x="189" y="1437"></point>
+      <point x="116" y="1382" type="curve"></point>
+      <point x="149" y="1256" type="line"></point>
+      <point x="191" y="1285"></point>
+      <point x="286" y="1343"></point>
+    </contour>
+  </outline>
+  <lib>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>775</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+    </dict>
+  </lib>
+</glyph>
