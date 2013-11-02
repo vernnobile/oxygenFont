@@ -54,6 +54,15 @@
       <point x="762" y="859"/>
       <point x="762" y="697" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="553.5" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="553.5" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="890" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

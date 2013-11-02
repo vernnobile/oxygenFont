@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ebreve" format="1">
-  <advance width="1136"/>
+  <advance width="1111"/>
   <unicode hex="0115"/>
   <outline>
-    <component base="breve" xOffset="313.235291" yOffset="34.0"/>
-    <component base="e" xOffset="29.717655"/>
+    <component base="e"/>
+    <component base="breve" xOffset="115.5"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1111</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -27,6 +27,15 @@
       <point x="873" y="0" type="line"/>
       <point x="1035" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="586.0" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="586.0" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="948" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

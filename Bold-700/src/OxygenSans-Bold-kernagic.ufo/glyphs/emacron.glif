@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emacron" format="1">
-  <advance width="1107"/>
+  <advance width="1111"/>
   <unicode hex="0113"/>
   <outline>
-    <component base="e" xOffset="-38.188232"/>
-    <component base="macron" xOffset="124.329407" yOffset="-57.0"/>
+    <component base="e"/>
+    <component base="macron" xOffset="73.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1107</integer>
+          <integer>1111</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

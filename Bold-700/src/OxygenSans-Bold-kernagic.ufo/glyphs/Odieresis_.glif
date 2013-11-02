@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="1562"/>
+  <advance width="1533"/>
   <unicode hex="00D6"/>
   <outline>
-    <component base="O" xOffset="200.258835"/>
-    <component base="dieresis" xOffset="697.14917" yOffset="381.0"/>
+    <component base="O"/>
+    <component base="dieresis" xOffset="269.0" yOffset="374"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1562</integer>
+          <integer>1533</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1704"/>
+  <advance width="1192"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" xOffset="911.705933"/>
-    <component base="uni02BC" xOffset="2115.776611" yOffset="-2.0"/>
+    <component base="d"/>
+    <component base="uni02BC"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1704</integer>
+          <integer>1192</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

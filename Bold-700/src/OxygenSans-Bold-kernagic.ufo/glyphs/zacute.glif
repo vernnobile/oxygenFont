@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="1">
-  <advance width="1107"/>
+  <advance width="994"/>
   <unicode hex="017A"/>
   <outline>
-    <component base="acute" xOffset="507.25882" yOffset="45.0"/>
-    <component base="z" xOffset="212.164703"/>
+    <component base="z"/>
+    <component base="acute" xOffset="126.0" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1107</integer>
+          <integer>994</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="880"/>
+  <advance width="823"/>
   <unicode hex="0167"/>
   <outline>
-    <contour>
-      <point x="551" y="-19" type="curve" smooth="yes"/>
-      <point x="286" y="-19"/>
-      <point x="266" y="113"/>
-      <point x="266" y="452" type="curve" smooth="yes"/>
-      <point x="266" y="648" type="line"/>
-      <point x="112" y="648" type="line"/>
-      <point x="112" y="776" type="line"/>
-      <point x="266" y="776" type="line"/>
-      <point x="266" y="995" type="line"/>
-      <point x="99" y="995" type="line"/>
-      <point x="113" y="1114" type="line"/>
-      <point x="266" y="1114" type="line"/>
-      <point x="309" y="1367" type="line"/>
-      <point x="432" y="1375" type="line"/>
-      <point x="432" y="1114" type="line"/>
-      <point x="721" y="1114" type="line"/>
-      <point x="721" y="995" type="line"/>
-      <point x="432" y="995" type="line"/>
-      <point x="432" y="776" type="line"/>
-      <point x="640" y="776" type="line"/>
-      <point x="640" y="648" type="line"/>
-      <point x="432" y="648" type="line"/>
-      <point x="432" y="372" type="line" smooth="yes"/>
-      <point x="432" y="164"/>
-      <point x="455" y="119"/>
-      <point x="589" y="119" type="curve" smooth="yes"/>
-      <point x="607" y="119"/>
-      <point x="649" y="126"/>
-      <point x="725" y="131" type="curve"/>
-      <point x="740" y="-6" type="line"/>
-      <point x="616" y="-17"/>
-      <point x="585" y="-19"/>
-    </contour>
+    <component base="t"/>
+    <component base="macron"/>
   </outline>
   <lib>
     <dict>
@@ -62,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>880</integer>
+          <integer>823</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

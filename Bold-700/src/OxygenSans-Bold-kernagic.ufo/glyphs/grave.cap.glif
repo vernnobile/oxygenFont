@@ -3,19 +3,41 @@
   <advance width="937"/>
   <outline>
     <contour>
-      <point x="612" y="1058" type="line"/>
-      <point x="753" y="1058" type="line"/>
-      <point x="568" y="1469" type="line"/>
-      <point x="303" y="1469" type="line"/>
+      <point x="397" y="1276" type="line"/>
+      <point x="538" y="1276" type="line"/>
+      <point x="353" y="1687" type="line"/>
+      <point x="88" y="1687" type="line"/>
     </contour>
     <contour>
-      <point x="680" y="970" type="move" name="_top"/>
+      <point x="468.5" y="1082" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grave.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>937</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

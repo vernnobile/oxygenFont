@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scedilla" format="1">
-  <advance width="1249"/>
+  <advance width="1221"/>
   <unicode hex="015E"/>
   <outline>
-    <component base="S" xOffset="118.62352"/>
-    <component base="cedilla" xOffset="499.513855" yOffset="-46.0"/>
+    <component base="S"/>
+    <component base="cedilla" xOffset="255.5"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1249</integer>
+          <integer>1221</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="1">
-  <advance width="1590"/>
+  <advance width="1533"/>
   <unicode hex="014E"/>
   <outline>
-    <component base="O" xOffset="222.258835"/>
-    <component base="breve" xOffset="741.14917" yOffset="370.0"/>
+    <component base="O"/>
+    <component base="breve" xOffset="326.5" yOffset="374"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1590</integer>
+          <integer>1533</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

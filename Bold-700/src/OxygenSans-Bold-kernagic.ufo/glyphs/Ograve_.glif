@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="1">
-  <advance width="1562"/>
+  <advance width="1533"/>
   <unicode hex="00D2"/>
   <outline>
-    <component base="O" xOffset="158.258835"/>
-    <component base="grave" xOffset="613.14917" yOffset="386.0"/>
+    <component base="O"/>
+    <component base="grave.cap" xOffset="298.0" yOffset="374"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1562</integer>
+          <integer>1533</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

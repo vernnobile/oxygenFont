@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="1">
-  <advance width="1136"/>
+  <advance width="1079"/>
   <unicode hex="010B"/>
   <outline>
-    <component base="c" xOffset="138.258835"/>
-    <component base="dotaccent" xOffset="562.141174" yOffset="14.0"/>
+    <component base="c"/>
+    <component base="dotaccent" xOffset="215.5"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1079</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

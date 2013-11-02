@@ -31,6 +31,15 @@
       <point x="108" y="258"/>
       <point x="336" y="-18"/>
     </contour>
+    <contour>
+      <point x="766.5" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="800" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="766.5" y="1456" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

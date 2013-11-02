@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="1249"/>
+  <advance width="1221"/>
   <unicode hex="017D"/>
   <outline>
-    <component base="Z" xOffset="24.176472"/>
-    <component base="caron" xOffset="324.972656" yOffset="405.0"/>
+    <component base="Z"/>
+    <component base="caron.cap" xOffset="128.0" yOffset="374"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1249</integer>
+          <integer>1221</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

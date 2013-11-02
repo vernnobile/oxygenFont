@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020B" format="1">
-  <advance width="965"/>
+  <advance width="596"/>
   <unicode hex="020B"/>
   <outline>
-    <component base="dotlessi" xOffset="38.188248"/>
-    <component base="uni0311" xOffset="-48.0" yOffset="-1.0"/>
+    <component base="dotlessi"/>
+    <component base="uni0311" xOffset="301"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>965</integer>
+          <integer>596</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
