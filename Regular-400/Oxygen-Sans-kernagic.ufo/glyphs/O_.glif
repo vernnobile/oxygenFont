@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="O" format="1">
-  <advance width="1590"></advance>
-  <unicode hex="004F"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="1590"/>
+  <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="796" y="122" type="curve" smooth="yes"></point>
-      <point x="446" y="122"></point>
-      <point x="324" y="365"></point>
-      <point x="324" y="720" type="curve" smooth="yes"></point>
-      <point x="324" y="1091"></point>
-      <point x="458" y="1334"></point>
-      <point x="798" y="1334" type="curve" smooth="yes"></point>
-      <point x="1139" y="1334"></point>
-      <point x="1267" y="1089"></point>
-      <point x="1267" y="720" type="curve" smooth="yes"></point>
-      <point x="1267" y="365"></point>
-      <point x="1146" y="122"></point>
+      <point x="796" y="122" type="curve" smooth="yes"/>
+      <point x="446" y="122"/>
+      <point x="324" y="365"/>
+      <point x="324" y="720" type="curve" smooth="yes"/>
+      <point x="324" y="1091"/>
+      <point x="458" y="1334"/>
+      <point x="798" y="1334" type="curve" smooth="yes"/>
+      <point x="1139" y="1334"/>
+      <point x="1267" y="1089"/>
+      <point x="1267" y="720" type="curve" smooth="yes"/>
+      <point x="1267" y="365"/>
+      <point x="1146" y="122"/>
     </contour>
     <contour>
-      <point x="798" y="-20" type="curve" smooth="yes"></point>
-      <point x="1240" y="-20"></point>
-      <point x="1443" y="275"></point>
-      <point x="1443" y="718" type="curve" smooth="yes"></point>
-      <point x="1443" y="1181"></point>
-      <point x="1228" y="1476"></point>
-      <point x="799" y="1476" type="curve" smooth="yes"></point>
-      <point x="361" y="1476"></point>
-      <point x="147" y="1184"></point>
-      <point x="147" y="721" type="curve" smooth="yes"></point>
-      <point x="147" y="269"></point>
-      <point x="351" y="-20"></point>
+      <point x="798" y="-20" type="curve" smooth="yes"/>
+      <point x="1240" y="-20"/>
+      <point x="1443" y="275"/>
+      <point x="1443" y="718" type="curve" smooth="yes"/>
+      <point x="1443" y="1181"/>
+      <point x="1228" y="1476"/>
+      <point x="799" y="1476" type="curve" smooth="yes"/>
+      <point x="361" y="1476"/>
+      <point x="147" y="1184"/>
+      <point x="147" y="721" type="curve" smooth="yes"/>
+      <point x="147" y="269"/>
+      <point x="351" y="-20"/>
     </contour>
     <contour>
-      <point x="798" y="1" type="move" name="bot"></point>
+      <point x="798" y="1" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="799" y="1456" type="move" name="top"></point>
+      <point x="799" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -101,10 +98,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1470</integer>
+          <integer>1590</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

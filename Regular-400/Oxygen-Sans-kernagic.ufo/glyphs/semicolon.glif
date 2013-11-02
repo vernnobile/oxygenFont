@@ -1,39 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="semicolon" format="1">
-  <advance width="710"></advance>
-  <unicode hex="003B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="710"/>
+  <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="372" y="837" type="curve" smooth="yes"></point>
-      <point x="454" y="837"></point>
-      <point x="489" y="897"></point>
-      <point x="489" y="959" type="curve" smooth="yes"></point>
-      <point x="489" y="1019"></point>
-      <point x="454" y="1082"></point>
-      <point x="372" y="1082" type="curve" smooth="yes"></point>
-      <point x="289" y="1082"></point>
-      <point x="251" y="1019"></point>
-      <point x="251" y="959" type="curve" smooth="yes"></point>
-      <point x="251" y="897"></point>
-      <point x="290" y="837"></point>
+      <point x="372" y="837" type="curve" smooth="yes"/>
+      <point x="454" y="837"/>
+      <point x="489" y="897"/>
+      <point x="489" y="959" type="curve" smooth="yes"/>
+      <point x="489" y="1019"/>
+      <point x="454" y="1082"/>
+      <point x="372" y="1082" type="curve" smooth="yes"/>
+      <point x="289" y="1082"/>
+      <point x="251" y="1019"/>
+      <point x="251" y="959" type="curve" smooth="yes"/>
+      <point x="251" y="897"/>
+      <point x="290" y="837"/>
     </contour>
     <contour>
-      <point x="211" y="-260" type="curve"></point>
-      <point x="308" y="-300" type="line"></point>
-      <point x="349" y="-245"></point>
-      <point x="465" y="37"></point>
-      <point x="465" y="192" type="curve" smooth="yes"></point>
-      <point x="465" y="235" type="line"></point>
-      <point x="292" y="235" type="line"></point>
-      <point x="281" y="70"></point>
-      <point x="254" y="-95"></point>
+      <point x="211" y="-260" type="curve"/>
+      <point x="308" y="-300" type="line"/>
+      <point x="349" y="-245"/>
+      <point x="465" y="37"/>
+      <point x="465" y="192" type="curve" smooth="yes"/>
+      <point x="465" y="235" type="line"/>
+      <point x="292" y="235" type="line"/>
+      <point x="281" y="70"/>
+      <point x="254" y="-95"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -56,10 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>571</integer>
+          <integer>710</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

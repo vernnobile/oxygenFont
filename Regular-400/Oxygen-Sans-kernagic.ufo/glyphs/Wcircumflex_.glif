@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Wcircumflex" format="1">
-  <advance width="2016"></advance>
-  <unicode hex="0174"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="2016"/>
+  <unicode hex="0174"/>
   <outline>
-    <component base="W" xOffset="5811.682129" yOffset="0.000000" ></component>
-    <component base="asciicircum" xOffset="6379.153320" yOffset="515.000000" ></component>
+    <component base="W" xOffset="5811.682129"/>
+    <component base="asciicircum" xOffset="6379.15332" yOffset="515.0"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -32,10 +30,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1760</integer>
+          <integer>2016</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

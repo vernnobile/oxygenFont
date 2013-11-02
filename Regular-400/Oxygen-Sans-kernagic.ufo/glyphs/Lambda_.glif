@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Lambda" format="1">
-  <advance width="1363"></advance>
-  <unicode hex="039B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="1">
+  <advance width="1363"/>
+  <unicode hex="039B"/>
   <outline>
     <contour>
-      <point x="52" y="0" type="line"></point>
-      <point x="584" y="1482" type="line"></point>
-      <point x="761" y="1482" type="line"></point>
-      <point x="1296" y="0" type="line"></point>
-      <point x="1124" y="0" type="line"></point>
-      <point x="672" y="1302" type="line"></point>
-      <point x="227" y="0" type="line"></point>
+      <point x="52" y="0" type="line"/>
+      <point x="584" y="1482" type="line"/>
+      <point x="761" y="1482" type="line"/>
+      <point x="1296" y="0" type="line"/>
+      <point x="1124" y="0" type="line"/>
+      <point x="672" y="1302" type="line"/>
+      <point x="227" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -40,10 +37,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1224</integer>
+          <integer>1363</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

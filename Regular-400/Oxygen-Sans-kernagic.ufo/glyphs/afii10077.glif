@@ -1,30 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10077" format="1">
-  <advance width="1192"></advance>
-  <unicode hex="043B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10077" format="1">
+  <advance width="1192"/>
+  <unicode hex="043B"/>
   <outline>
     <contour>
-      <point x="40" y="-7" type="curve"></point>
-      <point x="23" y="95" type="line"></point>
-      <point x="198" y="95"></point>
-      <point x="264" y="139"></point>
-      <point x="311" y="501" type="curve"></point>
-      <point x="376" y="1082" type="line"></point>
-      <point x="1024" y="1082" type="line"></point>
-      <point x="1024" y="-1" type="line"></point>
-      <point x="895" y="-1" type="line"></point>
-      <point x="895" y="986" type="line"></point>
-      <point x="487" y="986" type="line"></point>
-      <point x="425" y="489" type="line"></point>
-      <point x="376" y="65"></point>
-      <point x="288" y="-7"></point>
+      <point x="40" y="-7" type="curve"/>
+      <point x="23" y="95" type="line"/>
+      <point x="198" y="95"/>
+      <point x="264" y="139"/>
+      <point x="311" y="501" type="curve"/>
+      <point x="376" y="1082" type="line"/>
+      <point x="1024" y="1082" type="line"/>
+      <point x="1024" y="-1" type="line"/>
+      <point x="895" y="-1" type="line"/>
+      <point x="895" y="986" type="line"/>
+      <point x="487" y="986" type="line"/>
+      <point x="425" y="489" type="line"/>
+      <point x="376" y="65"/>
+      <point x="288" y="-7"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -59,10 +56,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1142</integer>
+          <integer>1192</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="afii10052" format="1">
-  <advance width="6333"></advance>
-  <unicode hex="0403"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10052" format="1">
+  <advance width="6333"/>
+  <unicode hex="0403"/>
   <outline>
-    <component base="acute" xOffset="8808.129883" yOffset="0.000000" ></component>
+    <component base="acute" xOffset="8808.129883"/>
     <contour>
-      <point x="8572" y="1006.75" type="move" name="_top"></point>
+      <point x="8572" y="1006.75" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -35,10 +32,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>448</integer>
+          <integer>6333</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

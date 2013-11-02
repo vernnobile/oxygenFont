@@ -1,39 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="uni031B" format="1">
-  <advance width="681"></advance>
-  <unicode hex="031B"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031B" format="1">
+  <advance width="681"/>
+  <unicode hex="031B"/>
   <outline>
     <contour>
-      <point x="350" y="502" type="line"></point>
-      <point x="358" y="481"></point>
-      <point x="364" y="448"></point>
-      <point x="364" y="414" type="curve" smooth="yes"></point>
-      <point x="364" y="341"></point>
-      <point x="338" y="247"></point>
-      <point x="229" y="247" type="curve" smooth="yes"></point>
-      <point x="223" y="247"></point>
-      <point x="214" y="247"></point>
-      <point x="207" y="248" type="curve"></point>
-      <point x="207" y="165" type="line"></point>
-      <point x="228" y="162"></point>
-      <point x="248" y="160"></point>
-      <point x="267" y="160" type="curve" smooth="yes"></point>
-      <point x="426" y="160"></point>
-      <point x="469" y="269"></point>
-      <point x="469" y="368" type="curve" smooth="yes"></point>
-      <point x="469" y="419"></point>
-      <point x="457" y="470"></point>
-      <point x="443" y="502" type="curve"></point>
+      <point x="350" y="502" type="line"/>
+      <point x="358" y="481"/>
+      <point x="364" y="448"/>
+      <point x="364" y="414" type="curve" smooth="yes"/>
+      <point x="364" y="341"/>
+      <point x="338" y="247"/>
+      <point x="229" y="247" type="curve" smooth="yes"/>
+      <point x="223" y="247"/>
+      <point x="214" y="247"/>
+      <point x="207" y="248" type="curve"/>
+      <point x="207" y="165" type="line"/>
+      <point x="228" y="162"/>
+      <point x="248" y="160"/>
+      <point x="267" y="160" type="curve" smooth="yes"/>
+      <point x="426" y="160"/>
+      <point x="469" y="269"/>
+      <point x="469" y="368" type="curve" smooth="yes"/>
+      <point x="469" y="419"/>
+      <point x="457" y="470"/>
+      <point x="443" y="502" type="curve"/>
     </contour>
     <contour>
-      <point x="211" y="206.125" type="move" name="_hook"></point>
+      <point x="211" y="206.125" type="move" name="_hook"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -56,10 +53,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>612</integer>
+          <integer>681</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

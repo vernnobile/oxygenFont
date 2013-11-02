@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="Wgrave" format="1">
-  <advance width="2470"></advance>
-  <unicode hex="1E80"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="1">
+  <advance width="2470"/>
+  <unicode hex="1E80"/>
   <outline>
-    <component base="W" xOffset="4094.788330" yOffset="0.000000" ></component>
-    <component base="gravecomb" xOffset="4578.629395" yOffset="544.000000" ></component>
+    <component base="W" xOffset="4094.78833"/>
+    <component base="gravecomb" xOffset="4578.629395" yOffset="544.0"/>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -32,10 +30,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1704</integer>
+          <integer>2470</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

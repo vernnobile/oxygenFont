@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><glyph name="y" format="1">
-  <advance width="1136"></advance>
-  <unicode hex="0079"></unicode>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="1136"/>
+  <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="487" y="-410" type="line"></point>
-      <point x="1075" y="1082" type="line"></point>
-      <point x="912" y="1082" type="line"></point>
-      <point x="912" y="1082"></point>
-      <point x="341" y="-377"></point>
-      <point x="341" y="-377" type="curve"></point>
+      <point x="487" y="-410" type="line"/>
+      <point x="1075" y="1082" type="line"/>
+      <point x="912" y="1082" type="line"/>
+      <point x="912" y="1082"/>
+      <point x="341" y="-377"/>
+      <point x="341" y="-377" type="curve"/>
     </contour>
     <contour>
-      <point x="48" y="1082" type="line"></point>
-      <point x="501" y="16" type="line"></point>
-      <point x="646" y="59" type="line"></point>
-      <point x="220" y="1082" type="line"></point>
+      <point x="48" y="1082" type="line"/>
+      <point x="501" y="16" type="line"/>
+      <point x="646" y="59" type="line"/>
+      <point x="220" y="1082" type="line"/>
     </contour>
     <contour>
-      <point x="585" y="1082" type="move" name="top"></point>
+      <point x="585" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
-    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-
+    <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
@@ -45,7 +42,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>444</integer>
                   <key>y</key>
@@ -55,7 +52,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>1012</integer>
                   <key>y</key>
@@ -65,7 +62,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>845</integer>
                   <key>y</key>
@@ -75,7 +72,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>514</integer>
                   <key>y</key>
@@ -85,7 +82,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>555</integer>
                   <key>y</key>
@@ -95,7 +92,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>194</integer>
                   <key>y</key>
@@ -105,7 +102,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>27</integer>
                   <key>y</key>
@@ -115,7 +112,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>473</integer>
                   <key>y</key>
@@ -125,7 +122,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>485</integer>
                   <key>y</key>
@@ -135,7 +132,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false></false>
+                  <false/>
                   <key>x</key>
                   <integer>298</integer>
                   <key>y</key>
@@ -153,10 +150,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1045</integer>
+          <integer>1136</integer>
         </dict>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>
