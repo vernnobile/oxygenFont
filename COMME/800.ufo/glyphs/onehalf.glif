@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="1600.500"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="97" y="586" type="line"/>
+      <point x="546" y="586" type="line"/>
+      <point x="546" y="726" type="line"/>
+      <point x="417" y="726" type="line"/>
+      <point x="417" y="1433" type="line"/>
+      <point x="253" y="1434" type="line"/>
+      <point x="249" y="1430"/>
+      <point x="85" y="1332"/>
+      <point x="79" y="1329" type="curve"/>
+      <point x="79" y="1174" type="line"/>
+      <point x="83" y="1176"/>
+      <point x="193" y="1237"/>
+      <point x="228" y="1258" type="curve"/>
+      <point x="228" y="726" type="line"/>
+      <point x="97" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="1031" y="-24" type="line"/>
+      <point x="1567" y="-24" type="line"/>
+      <point x="1583" y="118" type="line"/>
+      <point x="1279" y="118" type="line"/>
+      <point x="1453" y="265"/>
+      <point x="1584" y="365"/>
+      <point x="1584" y="548" type="curve" smooth="yes"/>
+      <point x="1584" y="718"/>
+      <point x="1448" y="815"/>
+      <point x="1305" y="815" type="curve" smooth="yes"/>
+      <point x="1185" y="815"/>
+      <point x="1079" y="772"/>
+      <point x="1021" y="685" type="curve"/>
+      <point x="1097" y="569" type="line" smooth="yes"/>
+      <point x="1142" y="631"/>
+      <point x="1220" y="660"/>
+      <point x="1288" y="660" type="curve" smooth="yes"/>
+      <point x="1349" y="660"/>
+      <point x="1411" y="618"/>
+      <point x="1411" y="543" type="curve" smooth="yes"/>
+      <point x="1411" y="415"/>
+      <point x="1056" y="140"/>
+      <point x="1032" y="116" type="curve"/>
+    </contour>
+    <contour>
+      <point x="262" y="18" type="line"/>
+      <point x="463" y="18" type="line"/>
+      <point x="1415" y="1423" type="line"/>
+      <point x="1216" y="1423" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

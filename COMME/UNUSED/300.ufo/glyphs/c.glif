@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="991.400"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="877" y="258" type="line"/>
+      <point x="840" y="158"/>
+      <point x="736" y="96"/>
+      <point x="606" y="96" type="curve" smooth="yes"/>
+      <point x="398" y="96"/>
+      <point x="267" y="268"/>
+      <point x="267" y="543" type="curve" smooth="yes"/>
+      <point x="267" y="815"/>
+      <point x="398" y="986"/>
+      <point x="606" y="986" type="curve" smooth="yes"/>
+      <point x="726" y="986"/>
+      <point x="830" y="924"/>
+      <point x="874" y="824" type="curve"/>
+      <point x="893" y="824" type="line"/>
+      <point x="984" y="872" type="line"/>
+      <point x="936" y="1013"/>
+      <point x="790" y="1102"/>
+      <point x="606" y="1102" type="curve" smooth="yes"/>
+      <point x="306" y="1102"/>
+      <point x="117" y="886"/>
+      <point x="117" y="543" type="curve" smooth="yes"/>
+      <point x="117" y="197"/>
+      <point x="306" y="-20"/>
+      <point x="606" y="-20" type="curve" smooth="yes"/>
+      <point x="790" y="-20"/>
+      <point x="936" y="69"/>
+      <point x="984" y="210" type="curve"/>
+      <point x="894" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="602" y="1082" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>128</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

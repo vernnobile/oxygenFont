@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="1146"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="419" y="1492" type="line"/>
+      <point x="419" y="1150" type="line"/>
+      <point x="166" y="1150" type="line"/>
+      <point x="166" y="955" type="line"/>
+      <point x="419" y="955" type="line"/>
+      <point x="419" y="-80" type="line"/>
+      <point x="714" y="-80" type="line"/>
+      <point x="714" y="955" type="line"/>
+      <point x="992" y="955" type="line"/>
+      <point x="992" y="1150" type="line"/>
+      <point x="721" y="1150" type="line"/>
+      <point x="721" y="1492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dagger</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

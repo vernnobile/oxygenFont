@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1221"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="1048" y="1456" type="line"/>
+      <point x="740" y="598" type="line"/>
+      <point x="580" y="150" type="line"/>
+      <point x="627" y="150" type="line"/>
+      <point x="468" y="599" type="line"/>
+      <point x="159" y="1456" type="line"/>
+      <point x="-11" y="1456" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="1229" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>V</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1221</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

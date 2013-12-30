@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1136.79999997"/>
+  <advance width="1136.800"/>
   <unicode hex="0164"/>
   <outline>
-    <component base="caron" xOffset="172.199999884" yOffset="319.799999744"/>
+    <component base="caron" xOffset="172.200" yOffset="319.800"/>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

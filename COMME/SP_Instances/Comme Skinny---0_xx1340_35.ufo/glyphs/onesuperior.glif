@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="842"/>
+  <outline>
+    <contour>
+      <point x="170" y="644" type="line"/>
+      <point x="695" y="644" type="line"/>
+      <point x="695" y="818" type="line"/>
+      <point x="539" y="818" type="line"/>
+      <point x="539" y="1517" type="line"/>
+      <point x="372" y="1518" type="line"/>
+      <point x="380" y="1525"/>
+      <point x="156" y="1402"/>
+      <point x="155" y="1406" type="curve"/>
+      <point x="155" y="1213" type="line"/>
+      <point x="160" y="1211"/>
+      <point x="287" y="1270"/>
+      <point x="324" y="1288" type="curve"/>
+      <point x="324" y="818" type="line"/>
+      <point x="170" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>795</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

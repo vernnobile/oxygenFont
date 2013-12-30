@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="937"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="445" y="1216" type="line"/>
+      <point x="583" y="1216" type="line"/>
+      <point x="405" y="1627" type="line"/>
+      <point x="136" y="1627" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="1082" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>grave</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>937</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

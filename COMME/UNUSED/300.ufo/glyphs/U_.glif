@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="1478.600"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="1152" y="1456" type="line"/>
+      <point x="1152" y="532" type="line" smooth="yes"/>
+      <point x="1152" y="255"/>
+      <point x="1013" y="106"/>
+      <point x="740" y="106" type="curve" smooth="yes"/>
+      <point x="455" y="106"/>
+      <point x="326" y="256"/>
+      <point x="326" y="533" type="curve" smooth="yes"/>
+      <point x="326" y="1456" type="line"/>
+      <point x="168" y="1456" type="line"/>
+      <point x="168" y="531" type="line" smooth="yes"/>
+      <point x="168" y="208"/>
+      <point x="348" y="-19"/>
+      <point x="740" y="-19" type="curve" smooth="yes"/>
+      <point x="1127" y="-19"/>
+      <point x="1310" y="216"/>
+      <point x="1310" y="529" type="curve" smooth="yes"/>
+      <point x="1310" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="839" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="763" y="1456" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

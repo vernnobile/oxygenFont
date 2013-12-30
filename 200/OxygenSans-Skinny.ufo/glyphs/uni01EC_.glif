@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01EC" format="1">
-  <advance width="1680.8000003"/>
+  <advance width="1681"/>
   <unicode hex="01EC"/>
   <outline>
     <component base="uni01EA"/>
-    <component base="macron" xOffset="245.399999648" yOffset="332.4000002"/>
+    <component base="macron" xOffset="245" yOffset="332"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

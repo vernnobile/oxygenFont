@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="2048.100"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="1781" y="1456" type="line"/>
+      <point x="1442" y="214" type="line"/>
+      <point x="1481" y="214" type="line"/>
+      <point x="1128" y="1433" type="line"/>
+      <point x="921" y="1433" type="line"/>
+      <point x="561" y="213" type="line"/>
+      <point x="602" y="213" type="line"/>
+      <point x="266" y="1456" type="line"/>
+      <point x="52" y="1456" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="1051" y="1236" type="line"/>
+      <point x="1002" y="1236" type="line"/>
+      <point x="1358" y="0" type="line"/>
+      <point x="1570" y="0" type="line"/>
+      <point x="1996" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1024" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1456" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

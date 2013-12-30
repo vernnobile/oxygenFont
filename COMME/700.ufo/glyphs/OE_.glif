@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="2297"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="341" y="1480"/>
+      <point x="108" y="1201"/>
+      <point x="108" y="725" type="curve" smooth="yes"/>
+      <point x="108" y="258"/>
+      <point x="336" y="-18"/>
+      <point x="772" y="-18" type="curve" smooth="yes"/>
+      <point x="955.238" y="-18"/>
+      <point x="1086.96" y="31.5561"/>
+      <point x="1178" y="123.743" type="curve"/>
+      <point x="1178" y="-2.56958e-06" type="line"/>
+      <point x="2151" y="-2.56958e-06" type="line"/>
+      <point x="2159" y="195" type="line"/>
+      <point x="1418" y="195" type="line"/>
+      <point x="1418" y="654" type="line"/>
+      <point x="2089" y="654" type="line"/>
+      <point x="2089" y="845" type="line"/>
+      <point x="1418" y="845" type="line"/>
+      <point x="1418" y="1266" type="line"/>
+      <point x="2129" y="1266" type="line"/>
+      <point x="2142" y="1456" type="line"/>
+      <point x="1178" y="1456" type="line"/>
+      <point x="1178" y="1333.22" type="line"/>
+      <point x="1086.38" y="1428.82"/>
+      <point x="954.236" y="1480"/>
+      <point x="772" y="1480" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1060" y="1276"/>
+      <point x="1177" y="1060"/>
+      <point x="1177" y="724" type="curve" smooth="yes"/>
+      <point x="1177" y="398"/>
+      <point x="1063" y="186"/>
+      <point x="771" y="186" type="curve" smooth="yes"/>
+      <point x="479" y="186"/>
+      <point x="362" y="398"/>
+      <point x="362" y="724" type="curve" smooth="yes"/>
+      <point x="362" y="1061"/>
+      <point x="485" y="1276"/>
+      <point x="772" y="1276" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1658" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="1901" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1658" y="1456" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>2068</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

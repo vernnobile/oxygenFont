@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1117"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="162" y="-2" type="line"/>
+      <point x="327" y="-2" type="line"/>
+      <point x="407" y="459" type="line"/>
+      <point x="604" y="459" type="line"/>
+      <point x="523" y="-2" type="line"/>
+      <point x="689" y="-2" type="line"/>
+      <point x="772" y="459" type="line"/>
+      <point x="942" y="459" type="line"/>
+      <point x="958" y="586" type="line"/>
+      <point x="795" y="586" type="line"/>
+      <point x="861" y="970" type="line"/>
+      <point x="1023" y="970" type="line"/>
+      <point x="1041" y="1101" type="line"/>
+      <point x="885" y="1101" type="line"/>
+      <point x="937" y="1426" type="line"/>
+      <point x="768" y="1426" type="line"/>
+      <point x="718" y="1101" type="line"/>
+      <point x="522" y="1101" type="line"/>
+      <point x="574" y="1426" type="line"/>
+      <point x="407" y="1426" type="line"/>
+      <point x="356" y="1101" type="line"/>
+      <point x="160" y="1101" type="line"/>
+      <point x="142" y="970" type="line"/>
+      <point x="334" y="970" type="line"/>
+      <point x="266" y="586" type="line"/>
+      <point x="90" y="586" type="line"/>
+      <point x="72" y="459" type="line"/>
+      <point x="243" y="459" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="586" type="line"/>
+      <point x="499" y="970" type="line"/>
+      <point x="694" y="970" type="line"/>
+      <point x="626" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1164</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

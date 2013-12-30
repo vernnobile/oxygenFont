@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="1079"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="353" y="449" type="line"/>
+      <point x="299" y="333" type="line"/>
+      <point x="506" y="528" type="line"/>
+      <point x="434" y="528" type="line"/>
+      <point x="826" y="0" type="line"/>
+      <point x="1071" y="0" type="line"/>
+      <point x="1071" y="29" type="line"/>
+      <point x="592" y="641" type="line"/>
+      <point x="582" y="544" type="line"/>
+      <point x="1047" y="1060" type="line"/>
+      <point x="1047" y="1082" type="line"/>
+      <point x="789" y="1082" type="line"/>
+      <point x="305" y="538" type="line"/>
+      <point x="346" y="538" type="line"/>
+      <point x="353" y="800" type="line"/>
+      <point x="353" y="1560" type="line"/>
+      <point x="131" y="1540" type="line"/>
+    </contour>
+    <contour>
+      <point x="581" y="-18" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="614" y="1456" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1045</integer>
+          <key>y</key>
+          <integer>785</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1079</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>696</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="1212.20000009"/>
+  <advance width="1167"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="163.999999776" yOffset="-57.000000298"/>
+    <component base="tilde" xOffset="164" yOffset="-57"/>
   </outline>
   <lib>
     <dict>
@@ -60,8 +60,7 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

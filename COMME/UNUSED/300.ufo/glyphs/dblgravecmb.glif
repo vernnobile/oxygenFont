@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="695"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="304" y="1205" type="line"/>
+      <point x="373" y="1205" type="line"/>
+      <point x="221" y="1507" type="line"/>
+      <point x="78" y="1507" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="1205" type="line"/>
+      <point x="571" y="1205" type="line"/>
+      <point x="462" y="1507" type="line"/>
+      <point x="331" y="1507" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="1057" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashbar" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="126" y="276" type="line"/>
+      <point x="592" y="576" type="line"/>
+      <point x="592" y="712" type="line"/>
+      <point x="126" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="621" y="520" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

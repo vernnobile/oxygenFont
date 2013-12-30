@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="Auto" />
+<data name="previewtext" value="Montana" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="0.392699081699" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="200.ufo">
+<location>
+</location>
+<!-- color for 200.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="400.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+<!-- color for 400.ufo -->
+<color a="1.000000" b="0.500000" g="0.000000" r="0.000000" />
+</master>
+<master filename="700.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for 700.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Comme Skinny" sequence="" stylename="--0_xx1340_35">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="1340.3511" />
+</location>
+</instance>
+</designspace>

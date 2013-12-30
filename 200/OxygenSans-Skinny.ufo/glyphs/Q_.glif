@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1646.59999998"/>
+  <advance width="1646.600"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="1278.00000015" y="-394.199999779" type="curve"/>
-      <point x="1322.99999982" y="-345.800000042" type="line"/>
-      <point x="1250.39999993" y="-269.600000143"/>
-      <point x="1105.99999982" y="-102.40000017"/>
-      <point x="1052.99999981" y="16.1999999285" type="curve"/>
-      <point x="986.800000265" y="14.2000000775" type="line"/>
-      <point x="1079.8000003" y="-170.800000012"/>
-      <point x="1240.00000034" y="-340.999999851"/>
+      <point x="1278" y="-394.2" type="curve"/>
+      <point x="1323" y="-345.8" type="line"/>
+      <point x="1250.4" y="-269.6"/>
+      <point x="1106" y="-102.4"/>
+      <point x="1053" y="16.2" type="curve"/>
+      <point x="986.8" y="14.2" type="line"/>
+      <point x="1079.8" y="-170.8"/>
+      <point x="1240" y="-341"/>
     </contour>
     <component base="O"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

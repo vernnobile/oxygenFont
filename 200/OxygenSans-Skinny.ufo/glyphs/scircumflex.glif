@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
-  <advance width="961.200000048"/>
+  <advance width="961.200"/>
   <unicode hex="015D"/>
   <outline>
-    <component base="circumflex" xOffset="102.199999928" yOffset="-69.2000004798"/>
+    <component base="circumflex" xOffset="102.200" yOffset="-69.200"/>
     <component base="s"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

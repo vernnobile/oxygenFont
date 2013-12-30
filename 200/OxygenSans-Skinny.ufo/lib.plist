@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
 	<key>com.superpolator.editor.generateInfo</key>
 	<string>Generated with LTR Superpolator version 120823_1018_beta_</string>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -241,20 +245,12 @@
 		<string>uni01C7</string>
 		<string>uni01CA</string>
 		<string>uni01F1</string>
-		<string>Alpha</string>
-		<string>Beta</string>
 		<string>Gamma</string>
 		<string>Delta</string>
 		<string>Epsilon</string>
-		<string>Zeta</string>
-		<string>Eta</string>
-		<string>Iota</string>
 		<string>Lambda</string>
 		<string>Mu</string>
-		<string>Nu</string>
-		<string>Omicron</string>
 		<string>Pi</string>
-		<string>Rho</string>
 		<string>Sigma</string>
 		<string>Tau</string>
 		<string>Upsilon</string>
@@ -266,19 +262,15 @@
 		<string>uni0406</string>
 		<string>uni0407</string>
 		<string>uni0408</string>
-		<string>uni0409</string>
 		<string>uni040A</string>
 		<string>uni040B</string>
 		<string>uni040F</string>
 		<string>uni0410</string>
 		<string>uni0411</string>
-		<string>uni0412</string>
-		<string>uni0413</string>
 		<string>uni0403</string>
 		<string>uni0414</string>
 		<string>uni0415</string>
 		<string>uni0401</string>
-		<string>uni0416</string>
 		<string>uni0419</string>
 		<string>uni041A</string>
 		<string>uni040C</string>
@@ -291,17 +283,14 @@
 		<string>uni0421</string>
 		<string>uni0422</string>
 		<string>uni0423</string>
-		<string>uni040E</string>
 		<string>uni0424</string>
 		<string>uni0425</string>
-		<string>uni0426</string>
 		<string>uni0427</string>
 		<string>uni0428</string>
 		<string>uni0429</string>
 		<string>uni042A</string>
 		<string>uni042B</string>
 		<string>uni042C</string>
-		<string>uni042E</string>
 		<string>uni00B5</string>
 		<string>a</string>
 		<string>agrave</string>
@@ -477,7 +466,6 @@
 		<string>hbar</string>
 		<string>dotlessi</string>
 		<string>ij</string>
-		<string>kgreenlandic</string>
 		<string>ldot</string>
 		<string>lslash</string>
 		<string>napostrophe</string>
@@ -490,16 +478,11 @@
 		<string>uni01CC</string>
 		<string>uni01F3</string>
 		<string>uni0237</string>
-		<string>uni0259</string>
 		<string>uniFB00</string>
-		<string>uniFB01</string>
-		<string>uniFB02</string>
 		<string>uniFB03</string>
 		<string>uniFB04</string>
-		<string>mu</string>
 		<string>omicron</string>
 		<string>rho</string>
-		<string>chi</string>
 		<string>uni0430</string>
 		<string>uni0431</string>
 		<string>uni0432</string>
@@ -510,7 +493,6 @@
 		<string>uni0450</string>
 		<string>uni0451</string>
 		<string>uni0436</string>
-		<string>uni0437</string>
 		<string>uni0438</string>
 		<string>uni0439</string>
 		<string>uni045D</string>
@@ -543,9 +525,7 @@
 		<string>uni0456</string>
 		<string>uni0457</string>
 		<string>uni0458</string>
-		<string>uni0459</string>
 		<string>uni045A</string>
-		<string>uni045B</string>
 		<string>uni045F</string>
 		<string>uni01C5</string>
 		<string>uni01C8</string>
@@ -668,7 +648,6 @@
 		<string>registered</string>
 		<string>degree</string>
 		<string>paragraph</string>
-		<string>uni2116</string>
 		<string>trademark</string>
 		<string>lozenge</string>
 		<string>space</string>
@@ -680,6 +659,13 @@
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>pi</string>
+		<string>uni2126</string>
+		<string>estimated</string>
+		<string>uni2113</string>
+		<string>uni02C9</string>
 	</array>
 </dict>
 </plist>

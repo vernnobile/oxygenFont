@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="1132.800"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="184" y="1018" type="curve"/>
+      <point x="226" y="913" type="line"/>
+      <point x="324" y="962"/>
+      <point x="458" y="989"/>
+      <point x="563" y="989" type="curve" smooth="yes"/>
+      <point x="733" y="989"/>
+      <point x="815" y="903"/>
+      <point x="815" y="747" type="curve" smooth="yes"/>
+      <point x="815" y="592" type="line"/>
+      <point x="849" y="628" type="line"/>
+      <point x="614" y="624" type="line" smooth="yes"/>
+      <point x="269" y="620"/>
+      <point x="119" y="506"/>
+      <point x="119" y="280" type="curve" smooth="yes"/>
+      <point x="119" y="83"/>
+      <point x="258" y="-20"/>
+      <point x="449" y="-20" type="curve" smooth="yes"/>
+      <point x="582" y="-20"/>
+      <point x="746" y="25"/>
+      <point x="865" y="201" type="curve"/>
+      <point x="826" y="208" type="line"/>
+      <point x="855" y="1" type="line"/>
+      <point x="963" y="1" type="line"/>
+      <point x="963" y="724" type="line" smooth="yes"/>
+      <point x="963" y="1006"/>
+      <point x="794" y="1102"/>
+      <point x="553" y="1102" type="curve" smooth="yes"/>
+      <point x="431" y="1102"/>
+      <point x="281" y="1069"/>
+    </contour>
+    <contour>
+      <point x="815" y="236" type="line"/>
+      <point x="849" y="346" type="line"/>
+      <point x="758" y="170"/>
+      <point x="614" y="92"/>
+      <point x="453" y="92" type="curve" smooth="yes"/>
+      <point x="358" y="92"/>
+      <point x="265" y="148"/>
+      <point x="265" y="281" type="curve" smooth="yes"/>
+      <point x="265" y="438"/>
+      <point x="337" y="522"/>
+      <point x="650" y="525" type="curve" smooth="yes"/>
+      <point x="846" y="527" type="line"/>
+      <point x="815" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="547" y="1078" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="919" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-15</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>535</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>983</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>126</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>842</integer>
+            <key>width</key>
+            <integer>32</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>875</integer>
+            <key>width</key>
+            <integer>86</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

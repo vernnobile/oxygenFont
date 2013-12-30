@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Utilde" format="1">
-  <advance width="1488.80000022"/>
+  <advance width="1453"/>
   <unicode hex="0168"/>
   <outline>
     <component base="U"/>
-    <component base="tilde" xOffset="275.799999774" yOffset="277.399999708"/>
+    <component base="tilde" xOffset="276" yOffset="277"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
