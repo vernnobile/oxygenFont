@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEacute" format="1">
-  <advance width="2025"/>
-  <unicode hex="01FC"/>
+  <advance width="2872"/>
   <outline>
+    <component base="acute" xOffset="1507" yOffset="329"/>
     <component base="AE"/>
-    <component base="acute" xOffset="976" yOffset="357"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

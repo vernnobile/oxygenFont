@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslashacute" format="1">
-  <advance width="1158"/>
-  <unicode hex="01FF"/>
+  <advance width="1133"/>
   <outline>
     <component base="oslash"/>
-    <component base="acute" xOffset="383"/>
+    <component base="acute" xOffset="228"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

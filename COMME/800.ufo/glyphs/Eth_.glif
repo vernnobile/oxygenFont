@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="1464.600"/>
+  <advance width="1417"/>
   <unicode hex="00D0"/>
   <outline>
-    <contour>
-      <point x="22" y="804" type="line"/>
-      <point x="22" y="632" type="line"/>
-      <point x="663" y="632" type="line"/>
-      <point x="663" y="804" type="line"/>
-    </contour>
+    <component base="hyphen" xOffset="-195" yOffset="184"/>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

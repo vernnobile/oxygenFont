@@ -1,25 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="1046"/>
+  <advance width="1289"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="166" y="1028" type="line"/>
-      <point x="166" y="839" type="line"/>
-      <point x="880" y="839" type="line"/>
-      <point x="880" y="1028" type="line"/>
+      <point x="91" y="1159" type="line"/>
+      <point x="91" y="933" type="line"/>
+      <point x="1169" y="933" type="line"/>
+      <point x="1169" y="1159" type="line"/>
     </contour>
     <contour>
-      <point x="166" y="624" type="line"/>
-      <point x="166" y="435" type="line"/>
-      <point x="880" y="435" type="line"/>
-      <point x="880" y="624" type="line"/>
+      <point x="91" y="758" type="line"/>
+      <point x="91" y="531" type="line"/>
+      <point x="1169" y="531" type="line"/>
+      <point x="1169" y="758" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>equal</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

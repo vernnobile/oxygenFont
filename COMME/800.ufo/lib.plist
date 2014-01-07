@@ -2,17 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>45045840-C2F8-4391-8868-007C921F4A2B</key>
+		<dict>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>-35.0</real>
-		<key>GSOffsetProportional</key>
-		<true/>
+		<real>44.0</real>
 		<key>GSOffsetVertical</key>
-		<real>10.0</real>
+		<real>6.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>AB870ED3-4395-42A1-BD21-3B52C7D220DD</string>
+	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
 	<key>com.schriftgestaltung.weight</key>
@@ -121,16 +125,11 @@
 				<string>Omacron</string>
 				<string>Obreve</string>
 				<string>Ohungarumlaut</string>
-				<string>Ohorn</string>
 				<string>uni01D1</string>
 				<string>uni01EA</string>
-				<string>uni01EC</string>
 				<string>uni020C</string>
 				<string>uni020E</string>
-				<string>uni022A</string>
-				<string>uni022C</string>
 				<string>uni022E</string>
-				<string>uni0230</string>
 				<string>P</string>
 				<string>uni1E56</string>
 				<string>Q</string>
@@ -163,12 +162,8 @@
 				<string>Uring</string>
 				<string>Uhungarumlaut</string>
 				<string>Uogonek</string>
-				<string>Uhorn</string>
 				<string>uni01D3</string>
 				<string>uni01D5</string>
-				<string>uni01D7</string>
-				<string>uni01D9</string>
-				<string>uni01DB</string>
 				<string>uni0214</string>
 				<string>uni0216</string>
 				<string>V</string>
@@ -189,15 +184,18 @@
 				<string>Zacute</string>
 				<string>Zdotaccent</string>
 				<string>Zcaron</string>
+				<string>AE</string>
 				<string>uni01E2</string>
 				<string>AEacute</string>
 				<string>Eth</string>
 				<string>Oslash</string>
 				<string>Oslashacute</string>
+				<string>Thorn</string>
 				<string>Dcroat</string>
 				<string>Hbar</string>
 				<string>IJ</string>
 				<string>Ldot</string>
+				<string>Lslash</string>
 				<string>Eng</string>
 				<string>OE</string>
 				<string>Tbar</string>
@@ -205,52 +203,7 @@
 				<string>uni01C7</string>
 				<string>uni01CA</string>
 				<string>uni01F1</string>
-				<string>Gamma</string>
 				<string>Delta</string>
-				<string>Epsilon</string>
-				<string>Lambda</string>
-				<string>Mu</string>
-				<string>Pi</string>
-				<string>Sigma</string>
-				<string>Tau</string>
-				<string>Upsilon</string>
-				<string>Phi</string>
-				<string>Chi</string>
-				<string>Omega</string>
-				<string>uni0402</string>
-				<string>uni0405</string>
-				<string>uni0406</string>
-				<string>uni0407</string>
-				<string>uni0408</string>
-				<string>uni040A</string>
-				<string>uni040B</string>
-				<string>uni040F</string>
-				<string>uni0410</string>
-				<string>uni0411</string>
-				<string>uni0403</string>
-				<string>uni0414</string>
-				<string>uni0415</string>
-				<string>uni0401</string>
-				<string>uni0419</string>
-				<string>uni041A</string>
-				<string>uni040C</string>
-				<string>uni041B</string>
-				<string>uni041C</string>
-				<string>uni041D</string>
-				<string>uni041E</string>
-				<string>uni041F</string>
-				<string>uni0420</string>
-				<string>uni0421</string>
-				<string>uni0422</string>
-				<string>uni0423</string>
-				<string>uni0424</string>
-				<string>uni0425</string>
-				<string>uni0427</string>
-				<string>uni0428</string>
-				<string>uni0429</string>
-				<string>uni042A</string>
-				<string>uni042B</string>
-				<string>uni042C</string>
 				<string>uni00B5</string>
 				<string>a</string>
 				<string>agrave</string>
@@ -264,7 +217,6 @@
 				<string>aogonek</string>
 				<string>uni01CE</string>
 				<string>uni01DF</string>
-				<string>aringacute</string>
 				<string>uni0201</string>
 				<string>uni0203</string>
 				<string>uni0227</string>
@@ -299,6 +251,7 @@
 				<string>gcircumflex</string>
 				<string>gbreve</string>
 				<string>gdotaccent</string>
+				<string>gcommaaccent</string>
 				<string>gcaron</string>
 				<string>uni01F5</string>
 				<string>h</string>
@@ -343,7 +296,6 @@
 				<string>omacron</string>
 				<string>obreve</string>
 				<string>ohungarumlaut</string>
-				<string>ohorn</string>
 				<string>uni01D2</string>
 				<string>uni01EB</string>
 				<string>uni01ED</string>
@@ -385,7 +337,6 @@
 				<string>uring</string>
 				<string>uhungarumlaut</string>
 				<string>uogonek</string>
-				<string>uhorn</string>
 				<string>uni01D4</string>
 				<string>uni01D6</string>
 				<string>uni01D8</string>
@@ -411,6 +362,7 @@
 				<string>zacute</string>
 				<string>zdotaccent</string>
 				<string>zcaron</string>
+				<string>ordfeminine</string>
 				<string>ordmasculine</string>
 				<string>germandbls</string>
 				<string>ae</string>
@@ -419,68 +371,25 @@
 				<string>eth</string>
 				<string>oslash</string>
 				<string>oslashacute</string>
+				<string>thorn</string>
 				<string>dcroat</string>
 				<string>hbar</string>
 				<string>dotlessi</string>
 				<string>ij</string>
 				<string>ldot</string>
+				<string>lslash</string>
 				<string>napostrophe</string>
 				<string>eng</string>
+				<string>oe</string>
 				<string>tbar</string>
+				<string>florin</string>
 				<string>uni01C6</string>
 				<string>uni01C9</string>
 				<string>uni01CC</string>
 				<string>uni01F3</string>
-				<string>uni0237</string>
 				<string>uniFB00</string>
 				<string>uniFB03</string>
 				<string>uniFB04</string>
-				<string>omicron</string>
-				<string>rho</string>
-				<string>uni0430</string>
-				<string>uni0431</string>
-				<string>uni0432</string>
-				<string>uni0433</string>
-				<string>uni0453</string>
-				<string>uni0434</string>
-				<string>uni0435</string>
-				<string>uni0450</string>
-				<string>uni0451</string>
-				<string>uni0436</string>
-				<string>uni0438</string>
-				<string>uni0439</string>
-				<string>uni045D</string>
-				<string>uni043A</string>
-				<string>uni045C</string>
-				<string>uni043B</string>
-				<string>uni043C</string>
-				<string>uni043D</string>
-				<string>uni043E</string>
-				<string>uni043F</string>
-				<string>uni0440</string>
-				<string>uni0441</string>
-				<string>uni0442</string>
-				<string>uni0443</string>
-				<string>uni045E</string>
-				<string>uni0444</string>
-				<string>uni0445</string>
-				<string>uni0446</string>
-				<string>uni0447</string>
-				<string>uni0448</string>
-				<string>uni0449</string>
-				<string>uni044A</string>
-				<string>uni044B</string>
-				<string>uni044C</string>
-				<string>uni044D</string>
-				<string>uni044E</string>
-				<string>uni044F</string>
-				<string>uni0452</string>
-				<string>uni0455</string>
-				<string>uni0456</string>
-				<string>uni0457</string>
-				<string>uni0458</string>
-				<string>uni045A</string>
-				<string>uni045F</string>
 				<string>uni01C5</string>
 				<string>uni01C8</string>
 				<string>uni01CB</string>
@@ -503,13 +412,9 @@
 				<string>seven</string>
 				<string>eight</string>
 				<string>nine</string>
-				<string>uni00B2</string>
-				<string>uni00B3</string>
-				<string>uni00B9</string>
 				<string>onequarter</string>
 				<string>onehalf</string>
 				<string>threequarters</string>
-				<string>uni2074</string>
 				<string>underscore</string>
 				<string>hyphen</string>
 				<string>endash</string>
@@ -555,6 +460,7 @@
 				<string>perthousand</string>
 				<string>plus</string>
 				<string>less</string>
+				<string>equal</string>
 				<string>greater</string>
 				<string>bar</string>
 				<string>asciitilde</string>
@@ -577,6 +483,7 @@
 				<string>notequal</string>
 				<string>lessequal</string>
 				<string>greaterequal</string>
+				<string>dollar</string>
 				<string>cent</string>
 				<string>sterling</string>
 				<string>currency</string>
@@ -608,6 +515,36 @@
 				<string>uni00AD</string>
 				<string>.notdef</string>
 				<string>middot</string>
+				<string>onesuperior</string>
+				<string>threesuperior</string>
+				<string>twosuperior</string>
+				<string>fi</string>
+				<string>fl</string>
+				<string>pi</string>
+				<string>uni2126</string>
+				<string>estimated</string>
+				<string>uni2113</string>
+				<string>uni02C9</string>
+				<string>Tcedilla</string>
+				<string>uni01c7</string>
+				<string>uni01c8</string>
+				<string>uni01ca</string>
+				<string>uni01cb</string>
+				<string>idotaccent</string>
+				<string>dotlessj</string>
+				<string>kgreenlandic</string>
+				<string>tcedilla</string>
+				<string>foursuperior</string>
+				<string>CR</string>
+				<string>commaaccent</string>
+				<string>apostrophemod</string>
+				<string>NULL</string>
+				<string>ff</string>
+				<string>ffi</string>
+				<string>ffl</string>
+				<string>fj</string>
+				<string>slashbar</string>
+				<string>foundryicon</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -763,6 +700,8 @@
 		<string>Zacute</string>
 		<string>Zdotaccent</string>
 		<string>Zcaron</string>
+		<string>AE</string>
+		<string>uni01E2</string>
 		<string>AEacute</string>
 		<string>Eth</string>
 		<string>Oslash</string>
@@ -771,7 +710,7 @@
 		<string>Hbar</string>
 		<string>IJ</string>
 		<string>Ldot</string>
-		<string>Eng</string>
+		<string>Lslash</string>
 		<string>OE</string>
 		<string>Tbar</string>
 		<string>uni01C4</string>
@@ -825,6 +764,7 @@
 		<string>gcircumflex</string>
 		<string>gbreve</string>
 		<string>gdotaccent</string>
+		<string>gcommaaccent</string>
 		<string>gcaron</string>
 		<string>uni01F5</string>
 		<string>h</string>
@@ -925,6 +865,7 @@
 		<string>zacute</string>
 		<string>zdotaccent</string>
 		<string>zcaron</string>
+		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>germandbls</string>
 		<string>ae</string>
@@ -932,14 +873,18 @@
 		<string>eth</string>
 		<string>oslash</string>
 		<string>oslashacute</string>
+		<string>thorn</string>
 		<string>dcroat</string>
 		<string>hbar</string>
 		<string>dotlessi</string>
 		<string>ij</string>
 		<string>ldot</string>
+		<string>lslash</string>
 		<string>napostrophe</string>
 		<string>eng</string>
+		<string>oe</string>
 		<string>tbar</string>
+		<string>florin</string>
 		<string>uni01C6</string>
 		<string>uni01C9</string>
 		<string>uni01CC</string>
@@ -1012,6 +957,7 @@
 		<string>perthousand</string>
 		<string>plus</string>
 		<string>less</string>
+		<string>equal</string>
 		<string>greater</string>
 		<string>bar</string>
 		<string>asciitilde</string>
@@ -1034,6 +980,7 @@
 		<string>notequal</string>
 		<string>lessequal</string>
 		<string>greaterequal</string>
+		<string>dollar</string>
 		<string>cent</string>
 		<string>sterling</string>
 		<string>currency</string>
@@ -1063,55 +1010,44 @@
 		<string>uni00A0</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
-		<string>.notdef</string>
 		<string>middot</string>
-		<string>AE</string>
-		<string>Lslash</string>
-		<string>Thorn</string>
+		<string>onesuperior</string>
+		<string>threesuperior</string>
+		<string>twosuperior</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>pi</string>
+		<string>uni2126</string>
+		<string>estimated</string>
+		<string>uni2113</string>
+		<string>uni02C9</string>
 		<string>Tcedilla</string>
 		<string>uni01c7</string>
 		<string>uni01c8</string>
 		<string>uni01ca</string>
 		<string>uni01cb</string>
-		<string>gcommaaccent</string>
-		<string>idblgrave</string>
 		<string>idotaccent</string>
-		<string>iinvertedbreve</string>
 		<string>dotlessj</string>
 		<string>kgreenlandic</string>
-		<string>lslash</string>
-		<string>oe</string>
-		<string>thorn</string>
 		<string>tcedilla</string>
-		<string>fi</string>
-		<string>fl</string>
-		<string>ordfeminine</string>
-		<string>pi</string>
-		<string>onesuperior</string>
-		<string>twosuperior</string>
-		<string>threesuperior</string>
 		<string>foursuperior</string>
 		<string>CR</string>
-		<string>florin</string>
-		<string>dollar</string>
-		<string>equal</string>
-		<string>uni2126</string>
-		<string>estimated</string>
-		<string>uni2113</string>
-		<string>caron.alt</string>
-		<string>breveinvertedcomb</string>
 		<string>commaaccent</string>
-		<string>commaturnedabovecomb</string>
-		<string>dblgravecmb</string>
 		<string>apostrophemod</string>
-		<string>uni02C9</string>
 		<string>NULL</string>
 		<string>ff</string>
 		<string>ffi</string>
 		<string>ffl</string>
 		<string>fj</string>
-		<string>foundryicon</string>
 		<string>slashbar</string>
+		<string>foundryicon</string>
+		<string>commaturnedabovecomb</string>
+		<string>idblgrave</string>
+		<string>caron.alt</string>
+		<string>iinvertedbreve</string>
+		<string>breveinvertedcomb</string>
+		<string>dblgravecomb</string>
+		<string>dblgravecmb</string>
 	</array>
 </dict>
 </plist>

@@ -1,30 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj" format="1">
-  <advance width="614"/>
-  <unicode hex="0237"/>
+  <advance width="639"/>
   <outline>
     <contour>
-      <point x="214" y="1082" type="line"/>
-      <point x="214" y="9" type="line" smooth="yes"/>
-      <point x="214" y="-148"/>
-      <point x="201" y="-198"/>
-      <point x="52" y="-198" type="curve" smooth="yes"/>
-      <point x="-10" y="-198" type="line"/>
-      <point x="18" y="-391" type="line"/>
-      <point x="80" y="-391" type="line" smooth="yes"/>
-      <point x="398" y="-391"/>
-      <point x="466" y="-251"/>
-      <point x="466" y="37" type="curve" smooth="yes"/>
-      <point x="466" y="1082" type="line"/>
+      <point x="147" y="1082" type="line"/>
+      <point x="147" y="0" type="line" smooth="yes"/>
+      <point x="147" y="-146"/>
+      <point x="115" y="-182"/>
+      <point x="-56" y="-262" type="curve" smooth="yes"/>
+      <point x="-152" y="-307" type="line"/>
+      <point x="-6" y="-584" type="line"/>
+      <point x="86" y="-541" type="line" smooth="yes"/>
+      <point x="357" y="-414"/>
+      <point x="525" y="-343"/>
+      <point x="525" y="-33" type="curve" smooth="yes"/>
+      <point x="525" y="1082" type="line"/>
     </contour>
     <contour>
-      <point x="336" y="1081" type="move" name="top"/>
+      <point x="347" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-479</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>111</integer>
+            <key>width</key>
+            <integer>142</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>j</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>908</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

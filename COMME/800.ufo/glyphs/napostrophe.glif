@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="1">
-  <advance width="1796"/>
-  <unicode hex="0149"/>
+  <advance width="1784"/>
   <outline>
     <component base="apostrophemod"/>
     <component base="n"/>
@@ -10,8 +9,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

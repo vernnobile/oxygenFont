@@ -8,6 +8,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
       <key>com.fontlab.hintData</key>
       <dict>
         <key>hhints</key>
@@ -86,6 +90,8 @@
         <key>rstem</key>
         <integer>0</integer>
       </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,8 +4,6 @@
   <unicode hex="221E"/>
   <outline>
     <contour>
-      <point x="1102" y="1027"/>
-      <point x="976" y="911"/>
       <point x="862" y="751" type="curve"/>
       <point x="740" y="916"/>
       <point x="614" y="1027"/>
@@ -28,10 +26,10 @@
       <point x="1626" y="867"/>
       <point x="1500" y="1027"/>
       <point x="1275" y="1027" type="curve" smooth="yes"/>
+      <point x="1102" y="1027"/>
+      <point x="976" y="911"/>
     </contour>
     <contour>
-      <point x="565" y="861"/>
-      <point x="663" y="771"/>
       <point x="748" y="641" type="curve"/>
       <point x="662" y="517"/>
       <point x="561" y="421"/>
@@ -42,10 +40,10 @@
       <point x="239" y="761"/>
       <point x="317" y="861"/>
       <point x="443" y="861" type="curve"/>
+      <point x="565" y="861"/>
+      <point x="663" y="771"/>
     </contour>
     <contour>
-      <point x="1388" y="861"/>
-      <point x="1470" y="772"/>
       <point x="1470" y="669" type="curve"/>
       <point x="1470" y="525"/>
       <point x="1408" y="421"/>
@@ -56,6 +54,8 @@
       <point x="1060" y="761"/>
       <point x="1156" y="861"/>
       <point x="1271" y="861" type="curve"/>
+      <point x="1388" y="861"/>
+      <point x="1470" y="772"/>
     </contour>
   </outline>
   <lib>
@@ -65,17 +65,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>infinity</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1675</integer>
         </dict>

@@ -10,10 +10,10 @@
 	<false/>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>1</real>
+		<real>1.0</real>
 		<real>0.75</real>
 		<real>0.0</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -34,7 +34,7 @@
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.guides</key>
 	<array>
@@ -1100,7 +1100,6 @@
 		<string>aeacute</string>
 		<string>breveinvertedcomb</string>
 		<string>commaturnedabovecomb</string>
-		<string>dblgravecmb</string>
 		<string>gcaron</string>
 		<string>idblgrave</string>
 		<string>iinvertedbreve</string>
@@ -1151,6 +1150,7 @@
 		<string>uniFB03</string>
 		<string>uniFB04</string>
 		<string>caron.alt</string>
+		<string>dblgravecomb</string>
 	</array>
 </dict>
 </plist>

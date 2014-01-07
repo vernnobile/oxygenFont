@@ -4,20 +4,6 @@
   <unicode hex="00F0"/>
   <outline>
     <contour>
-      <point x="600" y="-20" type="curve" smooth="yes"/>
-      <point x="932" y="-20"/>
-      <point x="1095" y="203"/>
-      <point x="1095" y="492" type="curve" smooth="yes"/>
-      <point x="1095" y="630"/>
-      <point x="1061" y="771"/>
-      <point x="1010" y="872" type="curve" smooth="yes"/>
-      <point x="944" y="1001"/>
-      <point x="845" y="1132"/>
-      <point x="653" y="1340" type="curve"/>
-      <point x="906" y="1437" type="line"/>
-      <point x="858" y="1544" type="line"/>
-      <point x="569" y="1432" type="line"/>
-      <point x="414" y="1587" type="line"/>
       <point x="229" y="1587" type="line"/>
       <point x="445" y="1382" type="line"/>
       <point x="221" y="1294" type="line"/>
@@ -34,8 +20,25 @@
       <point x="105" y="490" type="curve" smooth="yes"/>
       <point x="105" y="222"/>
       <point x="276" y="-20"/>
+      <point x="600" y="-20" type="curve" smooth="yes"/>
+      <point x="932" y="-20"/>
+      <point x="1095" y="203"/>
+      <point x="1095" y="492" type="curve" smooth="yes"/>
+      <point x="1095" y="630"/>
+      <point x="1061" y="771"/>
+      <point x="1010" y="872" type="curve" smooth="yes"/>
+      <point x="944" y="1001"/>
+      <point x="845" y="1132"/>
+      <point x="653" y="1340" type="curve"/>
+      <point x="906" y="1437" type="line"/>
+      <point x="858" y="1544" type="line"/>
+      <point x="569" y="1432" type="line"/>
+      <point x="414" y="1587" type="line"/>
     </contour>
     <contour>
+      <point x="947" y="499" type="curve" smooth="yes"/>
+      <point x="947" y="263"/>
+      <point x="831" y="109"/>
       <point x="606" y="109" type="curve" smooth="yes"/>
       <point x="375" y="109"/>
       <point x="264" y="295"/>
@@ -45,9 +48,6 @@
       <point x="600" y="854" type="curve" smooth="yes"/>
       <point x="824" y="854"/>
       <point x="947" y="681"/>
-      <point x="947" y="499" type="curve" smooth="yes"/>
-      <point x="947" y="263"/>
-      <point x="831" y="109"/>
     </contour>
   </outline>
   <lib>
@@ -57,17 +57,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>eth</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1221</integer>
         </dict>

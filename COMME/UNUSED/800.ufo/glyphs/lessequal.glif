@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="1089"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="1020" y="279" type="line"/>
+      <point x="1020" y="479" type="line"/>
+      <point x="380" y="755" type="line"/>
+      <point x="1020" y="1046" type="line"/>
+      <point x="1020" y="1241" type="line"/>
+      <point x="133" y="812" type="line"/>
+      <point x="133" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="2" type="line"/>
+      <point x="1030" y="2" type="line"/>
+      <point x="1030" y="160" type="line"/>
+      <point x="123" y="160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

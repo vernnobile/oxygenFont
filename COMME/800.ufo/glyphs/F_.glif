@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1176"/>
+  <advance width="1280"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="185" y="1456" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="469" y="0" type="line"/>
-      <point x="469" y="732" type="line"/>
-      <point x="373" y="638" type="line"/>
-      <point x="1055" y="638" type="line"/>
-      <point x="1055" y="844" type="line"/>
-      <point x="369" y="844" type="line"/>
-      <point x="469" y="769" type="line"/>
-      <point x="469" y="1327" type="line"/>
-      <point x="365" y="1239" type="line"/>
-      <point x="1112" y="1239" type="line"/>
-      <point x="1124" y="1456" type="line"/>
+      <point x="168" y="1462" type="line"/>
+      <point x="168" y="-6" type="line"/>
+      <point x="567" y="-6" type="line"/>
+      <point x="567" y="813" type="line"/>
+      <point x="388" y="582" type="line"/>
+      <point x="1161" y="582" type="line"/>
+      <point x="1161" y="845" type="line"/>
+      <point x="371" y="845" type="line"/>
+      <point x="567" y="681" type="line"/>
+      <point x="567" y="1361" type="line"/>
+      <point x="363" y="1188" type="line"/>
+      <point x="1176" y="1188" type="line"/>
+      <point x="1194" y="1462" type="line"/>
     </contour>
     <contour>
-      <point x="588" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="665" y="1456" type="move" name="top"/>
+      <point x="531" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>705</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

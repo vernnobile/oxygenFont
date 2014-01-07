@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="600"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="52" y="1193" type="line"/>
+      <point x="197" y="1193" type="line"/>
+      <point x="263" y="1689" type="line"/>
+      <point x="62" y="1689" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="1066" type="move" name="_caron.alt"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

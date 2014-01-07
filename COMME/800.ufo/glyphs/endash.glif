@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="1130.700"/>
+  <advance width="1156"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="82" y="452" type="line"/>
-      <point x="1117" y="452" type="line"/>
-      <point x="1117" y="636" type="line"/>
-      <point x="82" y="636" type="line"/>
+      <point x="122" y="432" type="line"/>
+      <point x="992" y="432" type="line"/>
+      <point x="992" y="667" type="line"/>
+      <point x="122" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>endash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1334</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

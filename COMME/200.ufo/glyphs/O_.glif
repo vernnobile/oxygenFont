@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="1">
-  <advance width="1646.200"/>
+  <advance width="1646.2"/>
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="370" y="1474"/>
-      <point x="147" y="1162"/>
       <point x="147" y="714" type="curve" smooth="yes"/>
       <point x="147" y="283"/>
       <point x="355" y="-19"/>
@@ -16,10 +14,10 @@
       <point x="1500" y="1156"/>
       <point x="1270" y="1474"/>
       <point x="828" y="1474" type="curve" smooth="yes"/>
+      <point x="370" y="1474"/>
+      <point x="147" y="1162"/>
     </contour>
     <contour>
-      <point x="1241" y="1407"/>
-      <point x="1414" y="1121"/>
       <point x="1414" y="714" type="curve" smooth="yes"/>
       <point x="1414" y="327"/>
       <point x="1253" y="48"/>
@@ -30,6 +28,8 @@
       <point x="233" y="1125"/>
       <point x="414" y="1407"/>
       <point x="827" y="1407" type="curve" smooth="yes"/>
+      <point x="1241" y="1407"/>
+      <point x="1414" y="1121"/>
     </contour>
     <contour>
       <point x="918" y="0" type="move" name="ogonek"/>
@@ -77,7 +77,8 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

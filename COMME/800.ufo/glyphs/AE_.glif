@@ -1,39 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="2025"/>
+  <advance width="2872"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="904" y="1423" type="line"/>
-      <point x="-10" y="0" type="line"/>
-      <point x="285" y="0" type="line"/>
-      <point x="530" y="394" type="line"/>
-      <point x="979" y="394" type="line"/>
-      <point x="979" y="0" type="line"/>
-      <point x="1888" y="0" type="line"/>
-      <point x="1905" y="214" type="line"/>
-      <point x="1255" y="214" type="line"/>
-      <point x="1255" y="641" type="line"/>
-      <point x="1851" y="641" type="line"/>
-      <point x="1851" y="850" type="line"/>
-      <point x="1255" y="850" type="line"/>
-      <point x="1255" y="1215" type="line"/>
-      <point x="1885" y="1215" type="line"/>
-      <point x="1895" y="1423" type="line"/>
+      <point x="1357" y="1456" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="853" y="0" type="line"/>
+      <point x="1058" y="348" type="line"/>
+      <point x="1491" y="348" type="line"/>
+      <point x="1491" y="0" type="line"/>
+      <point x="2475" y="0" type="line"/>
+      <point x="2484" y="259" type="line"/>
+      <point x="1790" y="259" type="line"/>
+      <point x="1790" y="608" type="line"/>
+      <point x="2423" y="608" type="line"/>
+      <point x="2423" y="859" type="line"/>
+      <point x="1790" y="859" type="line"/>
+      <point x="1790" y="1206" type="line"/>
+      <point x="2439" y="1206" type="line"/>
+      <point x="2460" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="979" y="583" type="line"/>
-      <point x="646" y="583" type="line"/>
-      <point x="979" y="1155" type="line"/>
+      <point x="1491" y="576" type="line"/>
+      <point x="1165" y="576" type="line"/>
+      <point x="1491" y="1154" type="line"/>
     </contour>
     <contour>
-      <point x="1222" y="1423" type="move" name="top"/>
+      <point x="1826" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1562</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

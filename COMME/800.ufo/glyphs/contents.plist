@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>.notdef</key>
-	<string>_notdef.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -70,8 +68,6 @@
 	<string>Egrave_.glif</string>
 	<key>Emacron</key>
 	<string>Emacron_.glif</string>
-	<key>Eng</key>
-	<string>Eng_.glif</string>
 	<key>Eogonek</key>
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
@@ -212,8 +208,6 @@
 	<string>Tcedilla_.glif</string>
 	<key>Tcommaaccent</key>
 	<string>Tcommaaccent_.glif</string>
-	<key>Thorn</key>
-	<string>Thorn_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -370,8 +364,8 @@
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
-	<key>dblgravecmb</key>
-	<string>dblgravecmb.glif</string>
+	<key>dblgravecomb</key>
+	<string>dblgravecomb.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
@@ -798,6 +792,8 @@
 	<string>uni01D3_.glif</string>
 	<key>uni01D4</key>
 	<string>uni01D4_.glif</string>
+	<key>uni01E2</key>
+	<string>uni01E2_.glif</string>
 	<key>uni01E8</key>
 	<string>uni01E8_.glif</string>
 	<key>uni01E9</key>

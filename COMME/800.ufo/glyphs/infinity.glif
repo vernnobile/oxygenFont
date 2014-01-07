@@ -1,67 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="infinity" format="1">
-  <advance width="1735"/>
+  <advance width="1796"/>
   <unicode hex="221E"/>
   <outline>
     <contour>
-      <point x="1104.23" y="1025"/>
-      <point x="975.868" y="921.356"/>
-      <point x="867.529" y="782.562" type="curve"/>
-      <point x="752.589" y="925.335"/>
-      <point x="624.182" y="1025"/>
-      <point x="458" y="1025" type="curve"/>
-      <point x="247.416" y="1025"/>
-      <point x="78" y="854.45"/>
-      <point x="78" y="642" type="curve"/>
-      <point x="78" y="413.907"/>
-      <point x="218.809" y="212"/>
-      <point x="462" y="212" type="curve"/>
-      <point x="624.502" y="212"/>
-      <point x="755.042" y="314.987"/>
-      <point x="867.856" y="454.108" type="curve"/>
-      <point x="994.842" y="295.93"/>
-      <point x="1122.64" y="212"/>
-      <point x="1271" y="212" type="curve"/>
-      <point x="1483.72" y="212"/>
-      <point x="1652" y="383.686"/>
-      <point x="1652" y="625" type="curve"/>
-      <point x="1652" y="853.342"/>
-      <point x="1514.79" y="1025"/>
-      <point x="1273" y="1025" type="curve"/>
+      <point x="906" y="766" type="curve"/>
+      <point x="782" y="934"/>
+      <point x="652" y="1047"/>
+      <point x="479" y="1047" type="curve" smooth="yes"/>
+      <point x="279" y="1047"/>
+      <point x="119" y="882"/>
+      <point x="119" y="677" type="curve" smooth="yes"/>
+      <point x="119" y="451"/>
+      <point x="254" y="257"/>
+      <point x="483" y="257" type="curve" smooth="yes"/>
+      <point x="652" y="257"/>
+      <point x="785" y="373"/>
+      <point x="906" y="537" type="curve"/>
+      <point x="1045" y="349"/>
+      <point x="1171" y="257"/>
+      <point x="1326" y="257" type="curve" smooth="yes"/>
+      <point x="1528" y="257"/>
+      <point x="1686" y="423"/>
+      <point x="1686" y="659" type="curve" smooth="yes"/>
+      <point x="1686" y="883"/>
+      <point x="1557" y="1047"/>
+      <point x="1328" y="1047" type="curve" smooth="yes"/>
+      <point x="1151" y="1047"/>
+      <point x="1022" y="929"/>
     </contour>
     <contour>
-      <point x="567.336" y="825"/>
-      <point x="661.469" y="742.458"/>
-      <point x="743.678" y="620.796" type="curve"/>
-      <point x="659.438" y="503.107"/>
-      <point x="565.285" y="416"/>
-      <point x="464" y="416" type="curve"/>
-      <point x="348.113" y="416"/>
-      <point x="269" y="517.213"/>
-      <point x="269" y="622" type="curve"/>
-      <point x="269" y="734.583"/>
-      <point x="340.891" y="825"/>
-      <point x="457" y="825" type="curve"/>
+      <point x="744" y="654" type="curve"/>
+      <point x="664" y="546"/>
+      <point x="576" y="473"/>
+      <point x="485" y="473" type="curve" smooth="yes"/>
+      <point x="379" y="473"/>
+      <point x="306" y="565"/>
+      <point x="306" y="654" type="curve" smooth="yes"/>
+      <point x="306" y="752"/>
+      <point x="372" y="834"/>
+      <point x="478" y="834" type="curve" smooth="yes"/>
+      <point x="580" y="834"/>
+      <point x="665" y="766"/>
     </contour>
     <contour>
-      <point x="1376.49" y="825"/>
-      <point x="1452" y="744.369"/>
-      <point x="1452" y="647" type="curve"/>
-      <point x="1452" y="511.231"/>
-      <point x="1393.37" y="416"/>
-      <point x="1273" y="416" type="curve"/>
-      <point x="1174.86" y="416"/>
-      <point x="1099.56" y="481.479"/>
-      <point x="993.388" y="622.832" type="curve"/>
-      <point x="1073.16" y="734.788"/>
-      <point x="1164.01" y="825"/>
-      <point x="1269" y="825" type="curve"/>
+      <point x="1491" y="682" type="curve" smooth="yes"/>
+      <point x="1491" y="554"/>
+      <point x="1440" y="473"/>
+      <point x="1328" y="473" type="curve" smooth="yes"/>
+      <point x="1239" y="473"/>
+      <point x="1169" y="530"/>
+      <point x="1073" y="656" type="curve"/>
+      <point x="1149" y="759"/>
+      <point x="1231" y="834"/>
+      <point x="1324" y="834" type="curve" smooth="yes"/>
+      <point x="1423" y="834"/>
+      <point x="1491" y="762"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>infinity</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1647</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

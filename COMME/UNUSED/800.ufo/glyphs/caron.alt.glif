@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="359" y="1064" type="line"/>
+      <point x="504" y="1064" type="line"/>
+      <point x="570" y="1560" type="line"/>
+      <point x="369" y="1560" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="1082" type="move" name="_caron.alt"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

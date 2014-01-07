@@ -4,13 +4,21 @@
   <unicode hex="0307"/>
   <outline>
     <contour>
-      <point x="252" y="1164" type="line"/>
-      <point x="403" y="1164" type="line"/>
-      <point x="403" y="1355" type="line"/>
-      <point x="252" y="1355" type="line"/>
+      <point x="232" y="1372" type="curve" smooth="yes"/>
+      <point x="232" y="1304"/>
+      <point x="258" y="1265"/>
+      <point x="328" y="1265" type="curve" smooth="yes"/>
+      <point x="396" y="1265"/>
+      <point x="423" y="1304"/>
+      <point x="423" y="1372" type="curve" smooth="yes"/>
+      <point x="423" y="1438"/>
+      <point x="396" y="1476"/>
+      <point x="328" y="1476" type="curve" smooth="yes"/>
+      <point x="258" y="1476"/>
+      <point x="232" y="1438"/>
     </contour>
     <contour>
-      <point x="322" y="1004.1" type="move" name="_top"/>
+      <point x="322" y="1082" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -20,17 +28,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni0307</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>596</integer>
         </dict>

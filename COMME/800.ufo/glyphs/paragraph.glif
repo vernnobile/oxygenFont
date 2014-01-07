@@ -1,31 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="paragraph" format="1">
-  <advance width="1059.300"/>
+  <advance width="1195"/>
   <unicode hex="00B6"/>
   <outline>
     <contour>
-      <point x="547" y="1434" type="line" smooth="yes"/>
-      <point x="264" y="1434"/>
-      <point x="72" y="1351"/>
-      <point x="72" y="1113" type="curve" smooth="yes"/>
-      <point x="72" y="931"/>
-      <point x="204" y="812"/>
-      <point x="409" y="812" type="curve"/>
-      <point x="409" y="-16" type="line"/>
-      <point x="576" y="-16" type="line"/>
-      <point x="576" y="1263" type="line"/>
-      <point x="725" y="1263" type="line"/>
-      <point x="725" y="-16" type="line"/>
-      <point x="892" y="-16" type="line"/>
-      <point x="892" y="1263" type="line"/>
-      <point x="968" y="1263" type="line"/>
-      <point x="968" y="1434" type="line"/>
+      <point x="600" y="1456" type="line"/>
+      <point x="320" y="1456"/>
+      <point x="82" y="1404"/>
+      <point x="82" y="1119" type="curve" smooth="yes"/>
+      <point x="82" y="921"/>
+      <point x="232" y="813"/>
+      <point x="416" y="813" type="curve"/>
+      <point x="416" y="-230" type="line"/>
+      <point x="599" y="-230" type="line"/>
+      <point x="599" y="1261" type="line"/>
+      <point x="758" y="1261" type="line"/>
+      <point x="758" y="-230" type="line"/>
+      <point x="943" y="-230" type="line"/>
+      <point x="943" y="1261" type="line"/>
+      <point x="977" y="1261" type="line"/>
+      <point x="977" y="1456" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>paragraph</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1136</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -4,22 +4,26 @@
   <unicode hex="0029"/>
   <outline>
     <contour>
-      <point x="167" y="-230" type="line"/>
-      <point x="303" y="-230" type="line"/>
-      <point x="471" y="45"/>
-      <point x="560" y="357"/>
-      <point x="560" y="680" type="curve"/>
-      <point x="560" y="1003"/>
-      <point x="471" y="1315"/>
-      <point x="303" y="1590" type="curve"/>
-      <point x="167" y="1590" type="line"/>
       <point x="167" y="1556" type="line"/>
       <point x="342" y="1259"/>
       <point x="410" y="969"/>
       <point x="410" y="680" type="curve"/>
+      <point x="560" y="680" type="line"/>
+      <point x="560" y="1003"/>
+      <point x="471" y="1315"/>
+      <point x="303" y="1590" type="curve"/>
+      <point x="167" y="1590" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="-230" type="line"/>
+      <point x="471" y="45"/>
+      <point x="560" y="357"/>
+      <point x="560" y="680" type="curve"/>
+      <point x="410" y="680" type="line"/>
       <point x="410" y="391"/>
       <point x="342" y="101"/>
       <point x="167" y="-196" type="curve"/>
+      <point x="167" y="-230" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,17 +33,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>parenright</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>766</integer>
         </dict>

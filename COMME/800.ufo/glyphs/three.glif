@@ -1,58 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three" format="1">
-  <advance width="1207"/>
+  <advance width="1223"/>
   <unicode hex="0033"/>
   <outline>
     <contour>
-      <point x="591" y="-25" type="curve" smooth="yes"/>
-      <point x="855" y="-25"/>
-      <point x="1080" y="116"/>
-      <point x="1080" y="386" type="curve" smooth="yes"/>
-      <point x="1080" y="555"/>
-      <point x="989" y="705"/>
-      <point x="832" y="749" type="curve"/>
-      <point x="968" y="803"/>
-      <point x="1043" y="912"/>
-      <point x="1043" y="1063" type="curve" smooth="yes"/>
-      <point x="1043" y="1289"/>
-      <point x="839" y="1441"/>
-      <point x="582" y="1441" type="curve" smooth="yes"/>
-      <point x="412" y="1441"/>
-      <point x="284" y="1404"/>
-      <point x="176" y="1337" type="curve"/>
-      <point x="250" y="1151" type="line"/>
-      <point x="331" y="1203"/>
-      <point x="441" y="1239"/>
-      <point x="561" y="1239" type="curve" smooth="yes"/>
-      <point x="709" y="1239"/>
-      <point x="787" y="1148"/>
-      <point x="787" y="1044" type="curve" smooth="yes"/>
-      <point x="787" y="880"/>
-      <point x="640" y="843"/>
-      <point x="443" y="841" type="curve"/>
-      <point x="383" y="841" type="line"/>
-      <point x="383" y="642" type="line"/>
-      <point x="443" y="642" type="line"/>
-      <point x="669" y="637"/>
-      <point x="813" y="595"/>
-      <point x="813" y="397" type="curve" smooth="yes"/>
-      <point x="813" y="257"/>
-      <point x="705" y="190"/>
-      <point x="560" y="190" type="curve" smooth="yes"/>
-      <point x="461" y="190"/>
-      <point x="349" y="222"/>
-      <point x="252" y="280" type="curve"/>
-      <point x="175" y="98" type="line"/>
-      <point x="294" y="19"/>
-      <point x="443" y="-25"/>
+      <point x="49.5896" y="152.317"/>
+      <point x="202.079" y="-22"/>
+      <point x="578" y="-22" type="curve"/>
+      <point x="849.928" y="-22"/>
+      <point x="1182" y="85.2789"/>
+      <point x="1181" y="442.017" type="curve"/>
+      <point x="1180.01" y="618.553"/>
+      <point x="1091.38" y="765.031"/>
+      <point x="646.608" y="826.205" type="curve"/>
+      <point x="590.964" y="752.476" type="line"/>
+      <point x="1035.99" y="777.41"/>
+      <point x="1136" y="973.355"/>
+      <point x="1136" y="1164" type="curve"/>
+      <point x="1130.09" y="1429.66"/>
+      <point x="842.078" y="1560"/>
+      <point x="568" y="1560" type="curve"/>
+      <point x="206.542" y="1560"/>
+      <point x="78.5576" y="1352.71"/>
+      <point x="64.052" y="1259.62" type="curve"/>
+      <point x="302.441" y="1131" type="line"/>
+      <point x="373.847" y="1131" type="line"/>
+      <point x="417.061" y="1233.19"/>
+      <point x="471.37" y="1272.04"/>
+      <point x="548.953" y="1276" type="curve"/>
+      <point x="674.99" y="1275.62"/>
+      <point x="738.629" y="1238.2"/>
+      <point x="745.077" y="1129.64" type="curve"/>
+      <point x="745" y="964.711"/>
+      <point x="634.447" y="913.987"/>
+      <point x="394.711" y="884.956" type="curve"/>
+      <point x="395.453" y="884.968" type="line"/>
+      <point x="278.971" y="872.866" type="line"/>
+      <point x="300.754" y="654" type="line"/>
+      <point x="399" y="654" type="line"/>
+      <point x="608.56" y="654"/>
+      <point x="764.012" y="630.971"/>
+      <point x="763.001" y="450.034" type="curve"/>
+      <point x="761.924" y="329.336"/>
+      <point x="694.576" y="257"/>
+      <point x="552" y="257" type="curve"/>
+      <point x="400.667" y="257"/>
+      <point x="348.653" y="345.74"/>
+      <point x="278.714" y="408" type="curve"/>
+      <point x="198.314" y="408" type="line"/>
+      <point x="27.983" y="193.009" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

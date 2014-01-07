@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="489.400"/>
+  <advance width="655"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="183" y="886" type="line"/>
-      <point x="335" y="886" type="line"/>
-      <point x="360" y="1412" type="line"/>
-      <point x="152" y="1412" type="line"/>
+      <point x="245" y="718" type="line"/>
+      <point x="409" y="718" type="line"/>
+      <point x="458" y="1377" type="line"/>
+      <point x="146" y="1377" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>quotesingle</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>596</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -23,14 +23,16 @@
       <point x="159" y="1438" type="curve"/>
     </contour>
     <contour>
-      <point x="879" y="1316"/>
-      <point x="976" y="1233"/>
+      <point x="399" y="747" type="line"/>
+      <point x="399" y="1327" type="line"/>
+      <point x="315" y="1258" type="line"/>
+      <point x="868" y="1325"/>
+      <point x="976" y="1244"/>
       <point x="976" y="1044" type="curve" smooth="yes"/>
       <point x="976" y="880"/>
       <point x="894" y="806"/>
       <point x="671" y="807" type="curve" smooth="yes"/>
-      <point x="399" y="807" type="line"/>
-      <point x="399" y="1267" type="line"/>
+      <point x="339" y="807" type="line"/>
     </contour>
     <contour>
       <point x="681.5" y="0" type="move" name="bot"/>

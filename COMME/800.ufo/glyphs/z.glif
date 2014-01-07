@@ -1,35 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="1004.300"/>
+  <advance width="963"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="136" y="1082" type="line"/>
-      <point x="136" y="900" type="line"/>
-      <point x="682" y="900" type="line"/>
-      <point x="656" y="964" type="line"/>
-      <point x="113" y="158" type="line"/>
-      <point x="113" y="0" type="line"/>
-      <point x="909" y="0" type="line"/>
-      <point x="909" y="190" type="line"/>
-      <point x="349" y="190" type="line"/>
-      <point x="368" y="117" type="line"/>
-      <point x="893" y="907" type="line"/>
-      <point x="893" y="1082" type="line"/>
+      <point x="72.22" y="1088" type="line"/>
+      <point x="64.8162" y="868" type="line"/>
+      <point x="680.034" y="868" type="line"/>
+      <point x="607.405" y="1038.1" type="line"/>
+      <point x="48" y="171.36" type="line"/>
+      <point x="48" y="-6" type="line"/>
+      <point x="974.757" y="-6" type="line"/>
+      <point x="983.199" y="223" type="line"/>
+      <point x="313.635" y="223" type="line"/>
+      <point x="330.831" y="-2.68812" type="line"/>
+      <point x="907" y="887.65" type="line"/>
+      <point x="907" y="1088" type="line"/>
     </contour>
     <contour>
-      <point x="502" y="0" type="move" name="bot"/>
+      <point x="478" y="1082" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="540" y="1082" type="move" name="top"/>
+      <point x="517" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

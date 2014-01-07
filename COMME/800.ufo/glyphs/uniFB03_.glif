@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB03" format="1">
-  <advance width="2092"/>
+  <advance width="2330"/>
   <unicode hex="FB03"/>
   <outline>
-    <component base="f"/>
-    <component base="f" xOffset="792"/>
-    <component base="i" xOffset="1584"/>
+    <component base="i"/>
+    <component base="f" xOffset="626"/>
+    <component base="f" xOffset="1478"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

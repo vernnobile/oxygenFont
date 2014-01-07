@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1563.800"/>
+  <advance width="1596"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="414" y="-192" type="line"/>
-      <point x="541" y="-237" type="line"/>
-      <point x="1257" y="1593" type="line"/>
-      <point x="1124" y="1643" type="line"/>
+      <point x="709" y="-174" type="line"/>
+      <point x="853" y="-227" type="line"/>
+      <point x="1596" y="1707" type="line"/>
+      <point x="1446" y="1765" type="line"/>
     </contour>
-    <component base="O"/>
+    <component base="O" xOffset="388"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

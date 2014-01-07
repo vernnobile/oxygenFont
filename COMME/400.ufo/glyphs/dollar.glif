@@ -4,18 +4,18 @@
   <unicode hex="0024"/>
   <outline>
     <contour>
+      <point x="187" y="1785" type="line"/>
+      <point x="149" y="1446" type="line"/>
+      <point x="290" y="1446" type="line"/>
+      <point x="290" y="1785" type="line"/>
+    </contour>
+    <contour>
       <point x="147" y="61" type="line"/>
       <point x="147" y="-278" type="line"/>
       <point x="244" y="-278" type="line"/>
       <point x="282" y="61" type="line"/>
     </contour>
-    <contour>
-      <point x="290" y="1446" type="line"/>
-      <point x="290" y="1785" type="line"/>
-      <point x="187" y="1785" type="line"/>
-      <point x="149" y="1446" type="line"/>
-    </contour>
-    <component base="S" xOffset="-398.960"/>
+    <component base="S" xOffset="-398.96"/>
   </outline>
   <lib>
     <dict>
@@ -24,17 +24,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>dollar</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1221</integer>
         </dict>

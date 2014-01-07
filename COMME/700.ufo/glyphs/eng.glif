@@ -1,41 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eng" format="1">
-  <advance width="1192"/>
+  <advance width="1164"/>
   <unicode hex="014B"/>
   <outline>
     <contour>
-      <point x="536" y="1141"/>
-      <point x="427" y="1076"/>
-      <point x="345" y="974" type="curve"/>
-      <point x="322" y="1116" type="line"/>
-      <point x="131" y="1116" type="line"/>
-      <point x="131" y="7" type="line"/>
-      <point x="361" y="7" type="line"/>
-      <point x="361" y="582" type="line" smooth="yes"/>
-      <point x="361" y="656"/>
-      <point x="364" y="723"/>
-      <point x="374" y="778" type="curve"/>
-      <point x="410" y="883"/>
-      <point x="495" y="961"/>
-      <point x="637" y="961" type="curve" smooth="yes"/>
-      <point x="788" y="961"/>
-      <point x="823" y="860"/>
-      <point x="824" y="687" type="curve" smooth="yes"/>
-      <point x="824" y="90" type="line" smooth="yes"/>
-      <point x="824" y="-107"/>
-      <point x="808" y="-141"/>
-      <point x="649" y="-141" type="curve" smooth="yes"/>
-      <point x="596" y="-141" type="line"/>
-      <point x="616" y="-327" type="line"/>
-      <point x="684" y="-327" type="line" smooth="yes"/>
-      <point x="999" y="-327"/>
-      <point x="1052" y="-168"/>
-      <point x="1053" y="142" type="curve" smooth="yes"/>
-      <point x="1053" y="696" type="line" smooth="yes"/>
-      <point x="1053" y="982"/>
-      <point x="939" y="1141"/>
-      <point x="689" y="1141" type="curve" smooth="yes"/>
+      <point x="822" y="292" type="line"/>
+      <point x="822" y="-4" type="line" smooth="yes"/>
+      <point x="822" y="-155"/>
+      <point x="782" y="-181"/>
+      <point x="596" y="-181" type="curve"/>
+      <point x="616" y="-367" type="line"/>
+      <point x="975" y="-367"/>
+      <point x="1046" y="-274"/>
+      <point x="1046" y="-2" type="curve" smooth="yes"/>
+      <point x="1046" y="292" type="line"/>
     </contour>
+    <component base="n"/>
   </outline>
   <lib>
     <dict>
@@ -44,17 +24,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>eng</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1192</integer>
         </dict>

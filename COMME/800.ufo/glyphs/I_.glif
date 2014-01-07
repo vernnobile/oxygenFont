@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="855"/>
+  <advance width="1143"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="119" y="1456" type="line"/>
-      <point x="119" y="1287" type="line"/>
-      <point x="364" y="1287" type="line"/>
-      <point x="287" y="1347" type="line"/>
-      <point x="287" y="104" type="line"/>
-      <point x="363" y="168" type="line"/>
-      <point x="119" y="168" type="line"/>
-      <point x="119" y="0" type="line"/>
-      <point x="735" y="0" type="line"/>
-      <point x="735" y="168" type="line"/>
-      <point x="486" y="168" type="line"/>
-      <point x="571" y="103" type="line"/>
-      <point x="571" y="1349" type="line"/>
-      <point x="486" y="1287" type="line"/>
-      <point x="735" y="1287" type="line"/>
-      <point x="735" y="1456" type="line"/>
+      <point x="137" y="1462" type="line"/>
+      <point x="137" y="1249" type="line"/>
+      <point x="544.213" y="1249" type="line"/>
+      <point x="359" y="1360.13" type="line"/>
+      <point x="359" y="69.2515" type="line"/>
+      <point x="546.801" y="206" type="line"/>
+      <point x="137" y="206" type="line"/>
+      <point x="137" y="-6" type="line"/>
+      <point x="972" y="-6" type="line"/>
+      <point x="972" y="206" type="line"/>
+      <point x="553.905" y="206" type="line"/>
+      <point x="757" y="80.3564" type="line"/>
+      <point x="757" y="1358.57" type="line"/>
+      <point x="555.245" y="1249" type="line"/>
+      <point x="972" y="1249" type="line"/>
+      <point x="972" y="1462" type="line"/>
     </contour>
     <contour>
-      <point x="428" y="0" type="move" name="bot"/>
+      <point x="577" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="462" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="428" y="1456" type="move" name="top"/>
+      <point x="578" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -62,8 +59,13 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

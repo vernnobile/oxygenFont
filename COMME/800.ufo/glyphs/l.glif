@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="746.400"/>
+  <advance width="760"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="155" y="1540" type="line"/>
-      <point x="155" y="388" type="line" smooth="yes"/>
-      <point x="155" y="103"/>
-      <point x="271" y="-14"/>
-      <point x="546" y="-14" type="curve" smooth="yes"/>
-      <point x="640" y="-14"/>
-      <point x="724" y="16"/>
-      <point x="726" y="16" type="curve"/>
-      <point x="726" y="188" type="line"/>
-      <point x="725" y="188"/>
-      <point x="659" y="177"/>
-      <point x="590" y="177" type="curve" smooth="yes"/>
-      <point x="490" y="177"/>
-      <point x="409" y="194"/>
-      <point x="409" y="361" type="curve" smooth="yes"/>
-      <point x="409" y="1560" type="line"/>
+      <point x="637" y="-10" type="curve" smooth="yes"/>
+      <point x="736" y="-6" type="line"/>
+      <point x="748" y="217" type="line"/>
+      <point x="610" y="235" type="line" smooth="yes"/>
+      <point x="536" y="245"/>
+      <point x="500" y="281"/>
+      <point x="500" y="323" type="curve" smooth="yes"/>
+      <point x="500" y="1560" type="line"/>
+      <point x="122" y="1540" type="line"/>
+      <point x="122" y="366" type="line" smooth="yes"/>
+      <point x="122" y="81"/>
+      <point x="259" y="-25"/>
     </contour>
     <contour>
-      <point x="296" y="763" type="move" name="mid"/>
+      <point x="310" y="1560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="319" y="884" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
@@ -50,8 +49,13 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>238</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

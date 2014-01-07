@@ -4,19 +4,19 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="201" y="1058" type="line"/>
-      <point x="285" y="1058" type="line"/>
-      <point x="527" y="1470" type="line"/>
-      <point x="351" y="1470" type="line"/>
+      <point x="201" y="1195" type="line"/>
+      <point x="285" y="1195" type="line"/>
+      <point x="527" y="1607" type="line"/>
+      <point x="351" y="1607" type="line"/>
     </contour>
     <contour>
-      <point x="457" y="1058" type="line"/>
-      <point x="543" y="1058" type="line"/>
-      <point x="826" y="1470" type="line"/>
-      <point x="638" y="1470" type="line"/>
+      <point x="457" y="1195" type="line"/>
+      <point x="543" y="1195" type="line"/>
+      <point x="826" y="1607" type="line"/>
+      <point x="638" y="1607" type="line"/>
     </contour>
     <contour>
-      <point x="355" y="945.25" type="move" name="_top"/>
+      <point x="355" y="1082" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -26,17 +26,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>hungarumlaut</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>880</integer>
         </dict>

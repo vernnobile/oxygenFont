@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1383"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="414.092" y="413" type="line"/>
+      <point x="955.581" y="413" type="line"/>
+      <point x="1106" y="0" type="line"/>
+      <point x="1346" y="0" type="line"/>
+      <point x="835" y="1456" type="line"/>
+      <point x="544" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="470.907" y="587" type="line"/>
+      <point x="690.374" y="1247.85" type="line"/>
+      <point x="898.675" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="691.5" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="1211" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="691.5" y="1456" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1383</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

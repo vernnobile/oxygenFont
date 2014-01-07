@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="1181.600"/>
+  <advance width="1181.6"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="188" y="1540" type="line"/>
       <point x="188" y="0" type="line"/>
       <point x="281" y="0" type="line"/>
       <point x="281" y="657" type="line" smooth="yes"/>
@@ -26,6 +25,7 @@
       <point x="274" y="810" type="line"/>
       <point x="281" y="1122" type="line"/>
       <point x="281" y="1560" type="line"/>
+      <point x="188" y="1540" type="line"/>
     </contour>
     <contour>
       <point x="283" y="1252" type="move" name="mid"/>
@@ -64,7 +64,8 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

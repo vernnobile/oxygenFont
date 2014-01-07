@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="1104.800"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="390" y="507" type="line"/>
+      <point x="549" y="813" type="line"/>
+      <point x="718" y="505" type="line"/>
+      <point x="726" y="511"/>
+      <point x="905" y="612"/>
+      <point x="914" y="618" type="curve"/>
+      <point x="900" y="636"/>
+      <point x="726" y="856"/>
+      <point x="686" y="906" type="curve"/>
+      <point x="1015" y="979" type="line"/>
+      <point x="953" y="1193" type="line"/>
+      <point x="631" y="1060" type="line"/>
+      <point x="662" y="1427" type="line"/>
+      <point x="440" y="1427" type="line"/>
+      <point x="472" y="1060" type="line"/>
+      <point x="153" y="1193" type="line"/>
+      <point x="89" y="979" type="line"/>
+      <point x="415" y="906" type="line"/>
+      <point x="189" y="618" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

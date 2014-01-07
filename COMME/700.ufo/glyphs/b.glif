@@ -26,8 +26,6 @@
       <point x="375" y="1560" type="line"/>
     </contour>
     <contour>
-      <point x="811" y="927"/>
-      <point x="877" y="799"/>
       <point x="877" y="545" type="curve" smooth="yes"/>
       <point x="877" y="289"/>
       <point x="793" y="156"/>
@@ -39,12 +37,14 @@
       <point x="370" y="811"/>
       <point x="473" y="927"/>
       <point x="645" y="927" type="curve" smooth="yes"/>
+      <point x="811" y="927"/>
+      <point x="877" y="799"/>
     </contour>
     <contour>
       <point x="658" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="721" y="1456" type="move" name="top"/>
+      <point x="700" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -93,9 +93,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -408,11 +410,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>b</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1192</integer>
         </dict>

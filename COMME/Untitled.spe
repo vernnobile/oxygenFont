@@ -8,16 +8,17 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="Auto" />
-<data name="previewtext" value="Montana" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="benolla Fontsaide" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="0.392699081699" />
+<data name="projectionAngle" value="2.73964081777" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
 <master filename="200.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for 200.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="1.000000" />
@@ -34,7 +35,7 @@
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
 <!-- color for 700.ufo -->
-<color a="1.000000" b="1.000000" g="0.000000" r="1.000000" />
+<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->
@@ -42,6 +43,12 @@
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="1340.3511" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="--0_xx1549_93">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="new_axis_1" xvalue="1549.9255" />
 </location>
 </instance>
 </designspace>

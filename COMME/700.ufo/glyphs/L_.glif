@@ -13,10 +13,10 @@
       <point x="405" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="393" y="1254" type="move" name="caron.alt"/>
+      <point x="346" y="1082" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="553.5" y="1456" type="move" name="top"/>
+      <point x="294" y="1456" type="move" name="top"/>
     </contour>
     <contour>
       <point x="304" y="780" type="move" name="mid"/>
@@ -32,17 +32,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>L</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1107</integer>
         </dict>

@@ -1,38 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="1253.900"/>
+  <advance width="1314"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="970" y="1423" type="line"/>
-      <point x="655" y="789" type="line"/>
-      <point x="346" y="1423" type="line"/>
-      <point x="48" y="1423" type="line"/>
-      <point x="452" y="667" type="line"/>
-      <point x="210" y="667" type="line"/>
-      <point x="210" y="512" type="line"/>
-      <point x="517" y="512" type="line"/>
-      <point x="517" y="391" type="line"/>
-      <point x="210" y="391" type="line"/>
-      <point x="210" y="227" type="line"/>
-      <point x="517" y="227" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="796" y="0" type="line"/>
-      <point x="796" y="227" type="line"/>
-      <point x="1105" y="227" type="line"/>
-      <point x="1105" y="391" type="line"/>
-      <point x="796" y="391" type="line"/>
-      <point x="796" y="512" type="line"/>
-      <point x="1105" y="512" type="line"/>
-      <point x="1105" y="667" type="line"/>
-      <point x="860" y="667" type="line"/>
-      <point x="1263" y="1423" type="line"/>
+      <point x="176" y="490" type="line"/>
+      <point x="176" y="305" type="line"/>
+      <point x="1140" y="305" type="line"/>
+      <point x="1140" y="490" type="line"/>
     </contour>
+    <contour>
+      <point x="1140" y="686" type="line"/>
+      <point x="1140" y="871" type="line"/>
+      <point x="176" y="871" type="line"/>
+      <point x="176" y="686" type="line"/>
+    </contour>
+    <component base="Y" xOffset="65"/>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1249</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

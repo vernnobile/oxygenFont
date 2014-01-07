@@ -45,9 +45,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -59,7 +61,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>810</real>
+                  <real>810.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -69,7 +71,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>995</real>
+                  <real>995.0</real>
                   <key>y</key>
                   <real>0.0</real>
                 </dict>
@@ -79,9 +81,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>268</real>
+                  <real>268.0</real>
                   <key>y</key>
-                  <real>1082</real>
+                  <real>1082.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -89,19 +91,21 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>83</real>
+                  <real>83.0</real>
                   <key>y</key>
-                  <real>1082</real>
+                  <real>1082.0</real>
                 </dict>
               </array>
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>x</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1050</integer>
         </dict>

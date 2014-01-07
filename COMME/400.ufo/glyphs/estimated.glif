@@ -4,8 +4,6 @@
   <unicode hex="212E"/>
   <outline>
     <contour>
-      <point x="335" y="1102"/>
-      <point x="105" y="861"/>
       <point x="105" y="541" type="curve" smooth="yes"/>
       <point x="105" y="221"/>
       <point x="293" y="-20"/>
@@ -24,15 +22,17 @@
       <point x="1126" y="869"/>
       <point x="978" y="1102"/>
       <point x="658" y="1102" type="curve" smooth="yes"/>
+      <point x="335" y="1102"/>
+      <point x="105" y="861"/>
     </contour>
     <contour>
-      <point x="873" y="1042"/>
-      <point x="1014" y="836"/>
       <point x="1014" y="601" type="curve"/>
       <point x="325" y="601" type="line"/>
       <point x="340" y="863"/>
       <point x="491" y="1042"/>
       <point x="664" y="1042" type="curve" smooth="yes"/>
+      <point x="873" y="1042"/>
+      <point x="1014" y="836"/>
     </contour>
   </outline>
   <lib>
@@ -42,17 +42,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>estimated</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>967</integer>
         </dict>

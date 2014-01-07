@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1207"/>
+  <advance width="1254"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="718" y="0" type="line"/>
-      <point x="969" y="0" type="line"/>
-      <point x="969" y="319" type="line"/>
-      <point x="1126" y="319" type="line"/>
-      <point x="1140" y="519" type="line"/>
-      <point x="969" y="519" type="line"/>
-      <point x="969" y="1423" type="line"/>
-      <point x="662" y="1423" type="line"/>
-      <point x="98" y="509" type="line"/>
-      <point x="98" y="319" type="line"/>
-      <point x="718" y="319" type="line"/>
+      <point x="616" y="-6" type="line"/>
+      <point x="1001" y="-6" type="line"/>
+      <point x="1001" y="314" type="line"/>
+      <point x="1228.92" y="314" type="line"/>
+      <point x="1283.58" y="561" type="line"/>
+      <point x="1001" y="561" type="line"/>
+      <point x="1001" y="1462" type="line"/>
+      <point x="548.529" y="1462" type="line"/>
+      <point x="-32.5081" y="539.056" type="line"/>
+      <point x="-86.5609" y="314" type="line"/>
+      <point x="616" y="314" type="line"/>
     </contour>
     <contour>
-      <point x="355" y="516" type="line"/>
-      <point x="718" y="1141" type="line"/>
-      <point x="718" y="516" type="line"/>
+      <point x="374.328" y="555" type="line"/>
+      <point x="616" y="977.374" type="line"/>
+      <point x="616" y="555" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

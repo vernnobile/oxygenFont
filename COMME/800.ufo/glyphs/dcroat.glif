@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="1239"/>
+  <advance width="1192"/>
   <unicode hex="0111"/>
   <outline>
+    <component base="macron" xOffset="344" yOffset="62"/>
     <component base="d"/>
-    <component base="macron" xOffset="537" yOffset="-103"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

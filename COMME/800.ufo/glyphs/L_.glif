@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1162.500"/>
+  <advance width="1215"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="185" y="1456" type="line"/>
-      <point x="185" y="0" type="line"/>
-      <point x="1097" y="0" type="line"/>
-      <point x="1110" y="214" type="line"/>
-      <point x="375" y="214" type="line"/>
-      <point x="469" y="119" type="line"/>
-      <point x="469" y="1456" type="line"/>
+      <point x="168" y="1462" type="line"/>
+      <point x="168" y="-6" type="line"/>
+      <point x="1173" y="-6" type="line"/>
+      <point x="1195" y="242" type="line"/>
+      <point x="375" y="242" type="line"/>
+      <point x="567" y="25" type="line"/>
+      <point x="567" y="1462" type="line"/>
     </contour>
     <contour>
-      <point x="570" y="1066" type="move" name="caron.alt"/>
+      <point x="215" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="611" y="1456" type="move" name="top"/>
+      <point x="547" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="353" y="774" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="581" y="0" type="move" name="bot"/>
+      <point x="372" y="824" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>597</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="863.900"/>
+  <advance width="1170"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="359" y="1430" type="line"/>
-      <point x="359" y="1100" type="line"/>
-      <point x="65" y="1100" type="line"/>
-      <point x="65" y="924" type="line"/>
-      <point x="359" y="924" type="line"/>
-      <point x="359" y="109" type="line"/>
-      <point x="539" y="109" type="line"/>
-      <point x="539" y="924" type="line"/>
-      <point x="854" y="924" type="line"/>
-      <point x="854" y="1100" type="line"/>
-      <point x="546" y="1100" type="line"/>
-      <point x="546" y="1430" type="line"/>
+      <point x="407" y="1492" type="line"/>
+      <point x="407" y="1159" type="line"/>
+      <point x="162" y="1159" type="line"/>
+      <point x="162" y="941" type="line"/>
+      <point x="407" y="941" type="line"/>
+      <point x="407" y="-130" type="line"/>
+      <point x="749" y="-130" type="line"/>
+      <point x="749" y="941" type="line"/>
+      <point x="1023" y="941" type="line"/>
+      <point x="1023" y="1159" type="line"/>
+      <point x="758" y="1159" type="line"/>
+      <point x="758" y="1492" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dagger</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
     </dict>
   </lib>
 </glyph>
