@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="benolla Fontsaide" />
+<data name="previewTypeSize" value="24.0" />
+<data name="previewtext" value="Gone Ambe Hyno Welling n@on" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.73964081777" />
+<data name="projectionAngle" value="2.68434230589" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -25,30 +25,70 @@
 </master>
 <master filename="400.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="500" />
+<dimension name="new_axis_1" xvalue="300" />
 </location>
 <!-- color for 400.ufo -->
 <color a="1.000000" b="0.500000" g="0.000000" r="0.000000" />
 </master>
 <master filename="700.ufo">
 <location>
-<dimension name="new_axis_1" xvalue="1000" />
+<dimension name="new_axis_1" xvalue="600" />
 </location>
 <!-- color for 700.ufo -->
 <color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
 </master>
+<master filename="800.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for 800.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="0.000000" />
+</master>
 
 <!-- instance definitions -->
-<instance familyname="Comme Skinny" sequence="" stylename="--0_xx1340_35">
+<instance familyname="Comme Skinny" sequence="" stylename="100">
 <location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="1340.3511" />
+<dimension name="new_axis_1" xvalue="50" yvalue="10" />
 </location>
 </instance>
-<instance familyname="Comme Skinny" sequence="" stylename="--0_xx1549_93">
+<instance familyname="Comme Skinny" sequence="" stylename="200">
 <location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="1549.9255" />
+<dimension name="new_axis_1" xvalue="200" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="300">
+<location>
+<dimension name="new_axis_1" xvalue="300" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="400">
+<location>
+<dimension name="new_axis_1" xvalue="400" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="600">
+<location>
+<dimension name="new_axis_1" xvalue="600" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="700" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="800">
+<location>
+<dimension name="new_axis_1" xvalue="800" />
+</location>
+</instance>
+<instance familyname="Comme Skinny" sequence="" stylename="900">
+<location>
+<dimension name="new_axis_1" xvalue="900" />
 </location>
 </instance>
 </designspace>

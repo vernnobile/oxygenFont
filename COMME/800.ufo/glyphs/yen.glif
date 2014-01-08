@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="1314"/>
+  <advance width="1346"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="176" y="490" type="line"/>
-      <point x="176" y="305" type="line"/>
-      <point x="1140" y="305" type="line"/>
-      <point x="1140" y="490" type="line"/>
+      <point x="1141" y="576" type="line"/>
+      <point x="1141" y="721" type="line"/>
+      <point x="177" y="721" type="line"/>
+      <point x="177" y="576" type="line"/>
     </contour>
     <contour>
-      <point x="1140" y="686" type="line"/>
-      <point x="1140" y="871" type="line"/>
-      <point x="176" y="871" type="line"/>
-      <point x="176" y="686" type="line"/>
+      <point x="1141" y="317" type="line"/>
+      <point x="1141" y="462" type="line"/>
+      <point x="177" y="462" type="line"/>
+      <point x="177" y="317" type="line"/>
     </contour>
-    <component base="Y" xOffset="65"/>
+    <component base="Y"/>
   </outline>
   <lib>
     <dict>

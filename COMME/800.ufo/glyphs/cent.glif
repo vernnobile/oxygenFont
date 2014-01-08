@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="1164"/>
+  <advance width="1134"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="896" y="1360" type="line"/>
-      <point x="917" y="1032" type="line"/>
-      <point x="1047" y="1032" type="line"/>
-      <point x="1047" y="1360" type="line"/>
+      <point x="566" y="1360" type="line"/>
+      <point x="567" y="1032" type="line"/>
+      <point x="697" y="1032" type="line"/>
+      <point x="717" y="1360" type="line"/>
     </contour>
     <contour>
-      <point x="895" y="58" type="line"/>
-      <point x="902" y="-243" type="line"/>
-      <point x="1020" y="-243" type="line"/>
-      <point x="1005" y="58" type="line"/>
+      <point x="565" y="58" type="line"/>
+      <point x="556" y="-296" type="line"/>
+      <point x="694" y="-296" type="line"/>
+      <point x="695" y="58" type="line"/>
     </contour>
-    <component base="c" xOffset="341"/>
+    <component base="c"/>
   </outline>
   <lib>
     <dict>

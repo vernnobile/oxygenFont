@@ -16,9 +16,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -30,9 +32,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>132</real>
+                  <real>132.0</real>
                   <key>y</key>
-                  <real>1231</real>
+                  <real>1231.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -40,9 +42,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>355</real>
+                  <real>355.0</real>
                   <key>y</key>
-                  <real>1231</real>
+                  <real>1231.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -50,9 +52,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>355</real>
+                  <real>355.0</real>
                   <key>y</key>
-                  <real>1421</real>
+                  <real>1421.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -60,19 +62,21 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>132</real>
+                  <real>132.0</real>
                   <key>y</key>
-                  <real>1421</real>
+                  <real>1421.0</real>
                 </dict>
               </array>
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>i</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>596</integer>
         </dict>

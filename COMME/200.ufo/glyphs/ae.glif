@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ae" format="1">
-  <advance width="1819.4"/>
+  <advance width="1819.400"/>
   <unicode hex="00E6"/>
   <outline>
     <contour>
-      <point x="456.6" y="-12.8" type="curve" smooth="yes"/>
-      <point x="626.6" y="-12.8"/>
-      <point x="839.4" y="74.6"/>
-      <point x="926.4" y="188.6" type="curve"/>
-      <point x="1004.8" y="55.6"/>
-      <point x="1141.6" y="-19"/>
       <point x="1311.8" y="-19" type="curve" smooth="yes"/>
       <point x="1462.4" y="-19"/>
       <point x="1563.6" y="18"/>
@@ -50,6 +44,12 @@
       <point x="135" y="292.8" type="curve" smooth="yes"/>
       <point x="135" y="60.2"/>
       <point x="290.2" y="-12.8"/>
+      <point x="456.6" y="-12.8" type="curve" smooth="yes"/>
+      <point x="626.6" y="-12.8"/>
+      <point x="839.4" y="74.6"/>
+      <point x="926.4" y="188.6" type="curve"/>
+      <point x="1004.8" y="55.6"/>
+      <point x="1141.6" y="-19"/>
     </contour>
     <contour>
       <point x="468.6" y="69.8" type="curve" smooth="yes"/>
@@ -135,8 +135,7 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

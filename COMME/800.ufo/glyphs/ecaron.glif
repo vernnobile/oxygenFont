@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="1113"/>
+  <advance width="1197"/>
   <unicode hex="011B"/>
   <outline>
-    <component base="caron" xOffset="30"/>
     <component base="e"/>
+    <component base="caron" xOffset="159"/>
   </outline>
   <lib>
     <dict>

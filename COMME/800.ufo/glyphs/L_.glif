@@ -4,22 +4,25 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="168" y="1462" type="line"/>
-      <point x="168" y="-6" type="line"/>
-      <point x="1173" y="-6" type="line"/>
-      <point x="1195" y="242" type="line"/>
-      <point x="375" y="242" type="line"/>
-      <point x="567" y="25" type="line"/>
-      <point x="567" y="1462" type="line"/>
+      <point x="168" y="1456" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="1195" y="248" type="line"/>
+      <point x="375" y="248" type="line"/>
+      <point x="567" y="31" type="line"/>
+      <point x="567" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="215" y="1456" type="move" name="top"/>
+      <point x="434" y="1082" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="366" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="384" y="824" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="547" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="372" y="824" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
