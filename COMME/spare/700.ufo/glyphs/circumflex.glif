@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="937"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="147" y="1276" type="line"/>
+      <point x="307" y="1276" type="line"/>
+      <point x="463" y="1438" type="line"/>
+      <point x="627" y="1276" type="line"/>
+      <point x="789" y="1276" type="line"/>
+      <point x="571" y="1591" type="line"/>
+      <point x="369" y="1591" type="line"/>
+    </contour>
+    <contour>
+      <point x="468.5" y="1082" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>937</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

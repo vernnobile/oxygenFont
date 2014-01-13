@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="908"/>
+  <advance width="584"/>
   <unicode hex="006A"/>
   <outline>
     <component base="dotlessj"/>
-    <component base="dotaccent" xOffset="261"/>
+    <component base="dotaccent" xOffset="6"/>
   </outline>
   <lib>
     <dict>
@@ -13,11 +13,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -135,13 +133,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>j</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>908</integer>
         </dict>
