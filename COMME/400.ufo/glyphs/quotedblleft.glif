@@ -15,7 +15,7 @@
       <point x="771" y="1476" type="line"/>
       <point x="656" y="1476" type="line"/>
     </contour>
-    <component base="quotedblright" xOffset="13894.500" yOffset="2408"/>
+    <component base="quotedblright" xOffset="13894.5" yOffset="2408"/>
   </outline>
   <lib>
     <dict>
@@ -24,17 +24,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>quotedblleft</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>937</integer>
         </dict>

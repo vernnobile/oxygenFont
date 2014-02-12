@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F2" format="1">
-  <advance width="2498"/>
+  <advance width="2511"/>
   <unicode hex="01F2"/>
   <outline>
     <component base="D"/>
-    <component base="z" xOffset="1476"/>
+    <component base="z" xOffset="1494"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni01F2</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>2498</integer>
+          <integer>2511</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

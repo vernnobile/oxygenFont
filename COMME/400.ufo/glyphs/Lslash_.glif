@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="1079"/>
+  <advance width="1093"/>
   <unicode hex="0141"/>
   <outline>
     <component base="L"/>
-    <component base="slashbar" xOffset="-176" yOffset="19"/>
+    <component base="slashbar" xOffset="-162" yOffset="19"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Lslash</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1079</integer>
+          <integer>1093</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

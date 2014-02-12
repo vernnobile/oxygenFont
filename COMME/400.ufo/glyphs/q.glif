@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="1192"/>
+  <advance width="1201"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
@@ -48,9 +48,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -363,13 +365,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>q</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1201</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

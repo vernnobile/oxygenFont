@@ -13,8 +13,8 @@
       <point x="179" y="723" type="line"/>
     </contour>
     <contour>
-      <point x="123" y="-0" type="line"/>
-      <point x="1092" y="-0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="1092" y="0" type="line"/>
       <point x="1092" y="83" type="line"/>
       <point x="123" y="83" type="line"/>
     </contour>
@@ -22,7 +22,8 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

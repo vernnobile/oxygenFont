@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1136"/>
+  <advance width="1248"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="261" y="0" type="line"/>
-      <point x="427" y="0" type="line"/>
-      <point x="977" y="1336" type="line"/>
-      <point x="977" y="1456" type="line"/>
-      <point x="84" y="1456" type="line"/>
-      <point x="103" y="1319" type="line"/>
-      <point x="803" y="1319" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="1062" y="1336" type="line"/>
+      <point x="1062" y="1456" type="line"/>
+      <point x="169" y="1456" type="line"/>
+      <point x="188" y="1319" type="line"/>
+      <point x="888" y="1319" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,19 +20,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>seven</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1248</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

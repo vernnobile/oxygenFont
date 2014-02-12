@@ -4,9 +4,9 @@
   <unicode hex="0069"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="-51"/>
+    <component base="dotaccent" xOffset="-53"/>
     <contour>
-      <point x="298" y="0" type="move" name="bot"/>
+      <point x="298.0" y="0.0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -16,19 +16,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>i</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>624</integer>
+          <integer>518</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="odieresis" format="1">
-  <advance width="1192"/>
+  <advance width="1200"/>
   <unicode hex="00F6"/>
   <outline>
     <component base="o"/>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>odieresis</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1200</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

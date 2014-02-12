@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="743"/>
+  <advance width="753"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -71,9 +71,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -315,13 +317,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>f</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>743</integer>
+          <integer>753</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

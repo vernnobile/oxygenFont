@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="1">
-  <advance width="1192"/>
+  <advance width="1201"/>
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="541" y="-20" type="curve" smooth="yes"/>
-      <point x="744" y="-20"/>
-      <point x="865" y="83"/>
-      <point x="935" y="217" type="curve"/>
-      <point x="875" y="208" type="line"/>
-      <point x="889" y="0" type="line"/>
-      <point x="1031" y="0" type="line"/>
-      <point x="1031" y="1082" type="line"/>
-      <point x="867" y="1082" type="line"/>
-      <point x="867" y="216" type="line"/>
-      <point x="891" y="286" type="line"/>
-      <point x="863" y="253"/>
-      <point x="780" y="103"/>
-      <point x="556" y="103" type="curve" smooth="yes"/>
-      <point x="378" y="103"/>
-      <point x="314" y="217"/>
-      <point x="314" y="403" type="curve" smooth="yes"/>
-      <point x="314" y="1082" type="line"/>
-      <point x="150" y="1082" type="line"/>
-      <point x="150" y="404" type="line" smooth="yes"/>
-      <point x="150" y="119"/>
-      <point x="284" y="-20"/>
+      <point x="543" y="-20" type="curve" smooth="yes"/>
+      <point x="746" y="-20"/>
+      <point x="867" y="83"/>
+      <point x="937" y="217" type="curve"/>
+      <point x="877" y="208" type="line"/>
+      <point x="891" y="0" type="line"/>
+      <point x="1033" y="0" type="line"/>
+      <point x="1033" y="1082" type="line"/>
+      <point x="869" y="1082" type="line"/>
+      <point x="869" y="216" type="line"/>
+      <point x="893" y="286" type="line"/>
+      <point x="865" y="253"/>
+      <point x="782" y="103"/>
+      <point x="558" y="103" type="curve" smooth="yes"/>
+      <point x="380" y="103"/>
+      <point x="316" y="217"/>
+      <point x="316" y="403" type="curve" smooth="yes"/>
+      <point x="316" y="1082" type="line"/>
+      <point x="152" y="1082" type="line"/>
+      <point x="152" y="404" type="line" smooth="yes"/>
+      <point x="152" y="119"/>
+      <point x="286" y="-20"/>
     </contour>
     <contour>
-      <point x="955" y="1" type="move" name="ogonek"/>
+      <point x="957" y="1" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="556" y="1" type="move" name="bot"/>
+      <point x="558" y="1" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="613" y="1083" type="move" name="top"/>
+      <point x="615" y="1083" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -71,9 +71,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -510,13 +512,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>u</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1192</integer>
+          <integer>1201</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

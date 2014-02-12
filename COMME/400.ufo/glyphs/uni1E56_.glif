@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E56" format="1">
-  <advance width="1278"/>
+  <advance width="1292"/>
   <unicode hex="1E56"/>
   <outline>
     <component base="P"/>
-    <component base="dotaccent" xOffset="347" yOffset="374"/>
+    <component base="dotaccent" xOffset="361" yOffset="374"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni1E56</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1278</integer>
+          <integer>1292</integer>
         </dict>
       </dict>
     </dict>

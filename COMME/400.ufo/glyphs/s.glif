@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s" format="1">
-  <advance width="965"/>
+  <advance width="972.002"/>
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="172" y="233" type="line"/>
-      <point x="84" y="147" type="line"/>
-      <point x="170" y="38"/>
-      <point x="329" y="-20"/>
-      <point x="497" y="-20" type="curve" smooth="yes"/>
-      <point x="697" y="-20"/>
-      <point x="870" y="69"/>
-      <point x="877" y="291" type="curve" smooth="yes"/>
-      <point x="881" y="421"/>
-      <point x="854" y="530"/>
-      <point x="575" y="619" type="curve" smooth="yes"/>
-      <point x="457" y="654" type="line" smooth="yes"/>
-      <point x="300" y="703"/>
-      <point x="273" y="740"/>
-      <point x="273" y="820" type="curve" smooth="yes"/>
-      <point x="273" y="921"/>
-      <point x="346" y="985"/>
-      <point x="518" y="980" type="curve" smooth="yes"/>
-      <point x="627" y="977"/>
-      <point x="709" y="930"/>
-      <point x="752" y="877" type="curve"/>
-      <point x="762" y="877" type="line"/>
-      <point x="856" y="952" type="line"/>
-      <point x="794" y="1038"/>
-      <point x="677" y="1106"/>
-      <point x="503" y="1106" type="curve" smooth="yes"/>
-      <point x="263" y="1106"/>
-      <point x="114" y="996"/>
-      <point x="114" y="818" type="curve" smooth="yes"/>
-      <point x="114" y="692"/>
-      <point x="143" y="603"/>
-      <point x="410" y="520" type="curve" smooth="yes"/>
-      <point x="534" y="483" type="line" smooth="yes"/>
-      <point x="723" y="424"/>
-      <point x="732" y="370"/>
-      <point x="727" y="283" type="curve" smooth="yes"/>
-      <point x="721" y="160"/>
-      <point x="633" y="102"/>
-      <point x="499" y="102" type="curve" smooth="yes"/>
-      <point x="395" y="102"/>
-      <point x="271" y="134"/>
-      <point x="185" y="233" type="curve"/>
+      <point x="176" y="233" type="line"/>
+      <point x="88" y="147" type="line"/>
+      <point x="174" y="38"/>
+      <point x="333" y="-20"/>
+      <point x="501" y="-20" type="curve" smooth="yes"/>
+      <point x="701" y="-20"/>
+      <point x="874" y="69"/>
+      <point x="881" y="291" type="curve" smooth="yes"/>
+      <point x="885" y="421"/>
+      <point x="858" y="530"/>
+      <point x="579" y="619" type="curve" smooth="yes"/>
+      <point x="461" y="654" type="line" smooth="yes"/>
+      <point x="304" y="703"/>
+      <point x="277" y="740"/>
+      <point x="277" y="820" type="curve" smooth="yes"/>
+      <point x="277" y="921"/>
+      <point x="350" y="985"/>
+      <point x="522" y="980" type="curve" smooth="yes"/>
+      <point x="631" y="977"/>
+      <point x="713" y="930"/>
+      <point x="756" y="877" type="curve"/>
+      <point x="766" y="877" type="line"/>
+      <point x="860" y="952" type="line"/>
+      <point x="798" y="1038"/>
+      <point x="681" y="1106"/>
+      <point x="507" y="1106" type="curve" smooth="yes"/>
+      <point x="267" y="1106"/>
+      <point x="118" y="996"/>
+      <point x="118" y="818" type="curve" smooth="yes"/>
+      <point x="118" y="692"/>
+      <point x="147" y="603"/>
+      <point x="414" y="520" type="curve" smooth="yes"/>
+      <point x="538" y="483" type="line" smooth="yes"/>
+      <point x="727" y="424"/>
+      <point x="736" y="370"/>
+      <point x="731" y="283" type="curve" smooth="yes"/>
+      <point x="725" y="160"/>
+      <point x="637" y="102"/>
+      <point x="503" y="102" type="curve" smooth="yes"/>
+      <point x="399" y="102"/>
+      <point x="275" y="134"/>
+      <point x="189" y="233" type="curve"/>
     </contour>
     <contour>
-      <point x="469" y="1" type="move" name="bot"/>
+      <point x="473" y="1" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="505" y="1083" type="move" name="top"/>
+      <point x="509" y="1083" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -93,7 +93,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -109,9 +109,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -453,13 +455,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>s</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>965</integer>
+          <real>972.002</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

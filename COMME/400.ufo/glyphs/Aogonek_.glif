@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="1">
-  <advance width="1391"/>
+  <advance width="1407"/>
   <unicode hex="0104"/>
   <outline>
     <component base="A"/>
-    <component base="ogonek" xOffset="726"/>
+    <component base="ogonek" xOffset="744"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Aogonek</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1391</integer>
+          <integer>1407</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
