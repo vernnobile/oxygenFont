@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="1024"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="1401" y="962" type="line"/>
+      <point x="1432" y="1478" type="line"/>
+      <point x="1213" y="1478" type="line"/>
+      <point x="1251" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="1452" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1030" y="218" type="line"/>
+      <point x="423" y="218" type="line"/>
+      <point x="423" y="1452" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

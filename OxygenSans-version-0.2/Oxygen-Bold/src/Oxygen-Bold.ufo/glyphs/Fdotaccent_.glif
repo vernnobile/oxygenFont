@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fdotaccent" format="1">
+  <advance width="1059"/>
+  <unicode hex="1E1E"/>
+  <outline>
+    <contour>
+      <point x="483" y="1823" type="line"/>
+      <point x="483" y="1600" type="line"/>
+      <point x="695" y="1600" type="line"/>
+      <point x="695" y="1823" type="line"/>
+    </contour>
+    <contour>
+      <point x="1010" y="853" type="line"/>
+      <point x="422" y="853" type="line"/>
+      <point x="422" y="1234" type="line"/>
+      <point x="1030" y="1234" type="line"/>
+      <point x="1052" y="1452" type="line"/>
+      <point x="125" y="1452" type="line"/>
+      <point x="125" y="1" type="line"/>
+      <point x="423" y="1" type="line"/>
+      <point x="423" y="636" type="line"/>
+      <point x="1010" y="636" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
