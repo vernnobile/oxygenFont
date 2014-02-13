@@ -1,4 +1,4 @@
-![](https://lh6.googleusercontent.com/-skdAovbbYWU/UvzjXR4Wu_I/AAAAAAAAIpg/RTESjoge8RI/w1798-h846-no/app-shot.png)
+![](assets/app-shot.png)
 
 Oxygen Font is a project to design a desktop/gui font for integrated use with the KDE desktop. 
 
